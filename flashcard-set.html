@@ -3,16 +3,27 @@
   <head>
     <meta charset="utf-8">
     <title>Flashcards</title>
+    <link rel="stylesheet" type="text/css" href="flashcard.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   </head>
   <body>
-    <div>
-      <p id='term'>hi</p>
-      <button id='reverse-btn'>Flip</button>
-      <button id='prev-btn'>Previous</button>
-      <button id='next-btn'>Next</button>
+    <div class="main">
+      <section id="flash-card">
+        <section id="card-term">
+          <p id="word">Word</p>
+          <button id='audio'>🔈</button>
+          <audio id='pronunciation'></audio>
+        </section>
+        <section id="card-definition">
+          <p id="definition">Definition:</p>
+        </section>
+      </section>
+      <div id="controls">
+        <button id="previous">Previous</button>
+        <button id="next">Next</button>
+      </div>
     </div>
-
     <script src="flashcard.js" charset="utf-8"></script>
   </body>
 </html>

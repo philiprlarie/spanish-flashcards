@@ -1,0 +1,89 @@
+body {
+  background: white;
+  color: black;
+  height: 100vh;
+  font-family: "Helvetica-Neue", sans-serif;
+}
+
+p, section {
+  margin: 0px;
+}
+
+.main {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+#flash-card {
+  width: 50%;
+  height: 310px;
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+@media only screen and (max-width: 740px) {
+    #flash-card {
+      width: 100%;
+      height: 80%;
+    }
+}
+
+@media only screen and (min-width: 740px) {
+    #flash-card {
+      width: 80%;
+      height: 60%;
+      max-width: 600px;
+    }
+}
+
+#card-term, #card-definition {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#card-term p, #card-definition p{
+  margin-bottom: 5px;
+}
+
+#word, #definition {
+  font-size: 30px;
+  font-weight: bolder;
+  color: green;
+}
+
+#flash-card span {
+  font-weight: bolder;
+}
+
+button {
+  cursor: pointer;
+  background: white;
+  border: none;
+}
+
+#controls button {
+  font-size: 18px;
+  border-radius: 5px;
+  background: green;
+  color: white;
+  width: 150px;
+  padding: 10px;
+}
+
+#audio {
+  font-size: 30px;
+}
