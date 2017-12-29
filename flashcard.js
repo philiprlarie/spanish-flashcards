@@ -1,3 +1,12 @@
+////////////////////////////////////////////////////////////////
+// globals
+const currentSetName = window.location.search.split('=')[1];
+const words = [];
+let currentWordIndex = 0;
+let shouldShowTerm = true;
+
+////////////////////////////////////////////////////////////////
+// function definitions
 function showCard() {
   const currentWord = words[currentWordIndex];
   $('#word').text(currentWord.term);
@@ -39,16 +48,8 @@ function removeWord() {
 
 function flipCard() {
   shouldShowTerm = !shouldShowTerm;
-  debugger
   showCard();
 }
-
-// function showDefinition() {
-// }
-//
-// function showTerm() {
-//
-// }
 
 function playAudio() {
   const currentWord = words[currentWordIndex];
@@ -64,19 +65,29 @@ function resetDeck() {
 function pickRandomCard() {
 }
 
-const currentSetName = window.location.search.split('=')[1];
-const url = `https://raw.githubusercontent.com/philiprlarie/spanish-flashcards/master/json/flashcards_${currentSetName}.json`;
+////////////////////////////////////////////////////////////////
+// excecution of code
+const queryStringParams = decodeURIComponent(window.location.search.slice(1));
+const sets = queryStringParams.split('&').map(str => str.slice(7));
 
-let words;
+console.log(sets)
+let numSetsFinished = 0
+sets.forEach(setName => {
+  const url = `https://raw.githubusercontent.com/philiprlarie/spanish-flashcards/master/json/flashcards_${setName}.json`;
+  $.getJSON(url, json => {
+    words.push(...json);
+    numSetsFinished++;
+    allSetsFetched(numSetsFinished);
+  });
+})
 
-$.getJSON(url, json => {
-  words = window.words = json;
+function allSetsFetched(numFetched) {
+  if (numFetched < sets.length) {
+    return
+  }
+  console.log(words);
   showCard();
-});
-
-let currentWordIndex = 0;
-
-let shouldShowTerm = true;
+}
 
 $('#previous').click(prevWord);
 $('#next').click(nextWord);
