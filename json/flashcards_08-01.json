@@ -1,0 +1,157 @@
+[
+  {
+    "term": "la basura",
+    "def": "trash, garbage, litter",
+    "audio": "sp002906.mp3"
+  },
+  {
+    "term": "el bote de basura",
+    "def": "trash can",
+    "audio": "sp013612.mp3"
+  },
+  {
+    "term": "el cortacésped",
+    "def": "lawnmower",
+    "audio": "sp013614.mp3"
+  },
+  {
+    "term": "la escoba",
+    "def": "broom",
+    "audio": "sp004466.mp3"
+  },
+  {
+    "term": "el jabón para platos",
+    "def": "dish soap",
+    "audio": "sp013605.mp3"
+  },
+  {
+    "term": "la manguera",
+    "def": "hose",
+    "audio": "sp013608.mp3"
+  },
+  {
+    "term": "barrer",
+    "def": "to sweep",
+    "audio": "sp004471.mp3"
+  },
+  {
+    "term": "colgar (ue)",
+    "def": "to hang",
+    "audio": "sp014250.mp3"
+  },
+  {
+    "term": "cortar (el césped)",
+    "def": "to cut; to mow (the lawn)",
+    "audio": "sp013639.mp3"
+  },
+  {
+    "term": "guardar",
+    "def": "to put away",
+    "audio": "sp005644.mp3"
+  },
+  {
+    "term": "hacer la cama",
+    "def": "to make the bed",
+    "audio": "sp001295.mp3"
+  },
+  {
+    "term": "lavar platos",
+    "def": "to wash the dishes",
+    "audio": "sp013604.mp3"
+  },
+  {
+    "term": "lavar ropa",
+    "def": "to do laundry",
+    "audio": "sp013609.mp3"
+  },
+  {
+    "term": "ordenar",
+    "def": "to tidy up, to straighten up",
+    "audio": "sp005709.mp3"
+  },
+  {
+    "term": "limpio(a)",
+    "def": "clean",
+    "audio": "sp001329.mp3"
+  },
+  {
+    "term": "sucio(a)",
+    "def": "dirty",
+    "audio": "sp001345.mp3"
+  },
+  {
+    "term": "la plancha",
+    "def": "iron",
+    "audio": "sp002398.mp3"
+  },
+  {
+    "term": "el quehacer",
+    "def": "chore",
+    "audio": "sp013637.mp3"
+  },
+  {
+    "term": "el sacudidor",
+    "def": "duster",
+    "audio": "sp013638.mp3"
+  },
+  {
+    "term": "la tabla de planchar",
+    "def": "ironing board",
+    "audio": "sp002419.mp3"
+  },
+  {
+    "term": "el trapeador",
+    "def": "mop",
+    "audio": "sp013615.mp3"
+  },
+  {
+    "term": "el trapo",
+    "def": "cloth, rag",
+    "audio": "sp013616.mp3"
+  },
+  {
+    "term": "pasar la aspiradora",
+    "def": "to vacuum",
+    "audio": "sp002434.mp3"
+  },
+  {
+    "term": "planchar",
+    "def": "to iron",
+    "audio": "sp006469.mp3"
+  },
+  {
+    "term": "poner la mesa",
+    "def": "to set the table",
+    "audio": "sp002435.mp3"
+  },
+  {
+    "term": "recoger (la mesa)",
+    "def": "to pick up (to clear the table)",
+    "audio": "sp013640.mp3"
+  },
+  {
+    "term": "regar (ie)",
+    "def": "to water",
+    "audio": "sp013354.mp3"
+  },
+  {
+    "term": "sacar la basura",
+    "def": "to take the trash out",
+    "audio": "sp002438.mp3"
+  },
+  {
+    "term": "sacudir",
+    "def": "to dust",
+    "audio": "sp006482.mp3"
+  },
+  {
+    "term": "secar",
+    "def": "to dry",
+    "audio": "sp013606.mp3"
+  },
+  {
+    "term": "trapear",
+    "def": "to mop",
+    "audio": "sp006483.mp3"
+  }
+]

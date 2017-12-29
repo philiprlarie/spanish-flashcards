@@ -1,0 +1,107 @@
+[
+  {
+    "term": "cero",
+    "def": "0",
+    "audio": "sp000936.mp3"
+  },
+  {
+    "term": "uno",
+    "def": "1",
+    "audio": "sp000937.mp3"
+  },
+  {
+    "term": "dos",
+    "def": "2",
+    "audio": "sp000938.mp3"
+  },
+  {
+    "term": "tres",
+    "def": "3",
+    "audio": "sp000939.mp3"
+  },
+  {
+    "term": "cuatro",
+    "def": "4",
+    "audio": "sp000940.mp3"
+  },
+  {
+    "term": "cinco",
+    "def": "5",
+    "audio": "sp000941.mp3"
+  },
+  {
+    "term": "seis",
+    "def": "6",
+    "audio": "sp000942.mp3"
+  },
+  {
+    "term": "siete",
+    "def": "7",
+    "audio": "sp000943.mp3"
+  },
+  {
+    "term": "ocho",
+    "def": "8",
+    "audio": "sp000944.mp3"
+  },
+  {
+    "term": "nueve",
+    "def": "9",
+    "audio": "sp000945.mp3"
+  },
+  {
+    "term": "diez",
+    "def": "10",
+    "audio": "sp000946.mp3"
+  },
+  {
+    "term": "once",
+    "def": "11",
+    "audio": "sp000947.mp3"
+  },
+  {
+    "term": "doce",
+    "def": "12",
+    "audio": "sp000948.mp3"
+  },
+  {
+    "term": "trece",
+    "def": "13",
+    "audio": "sp000949.mp3"
+  },
+  {
+    "term": "catorce",
+    "def": "14",
+    "audio": "sp000950.mp3"
+  },
+  {
+    "term": "quince",
+    "def": "15",
+    "audio": "sp000951.mp3"
+  },
+  {
+    "term": "dieciséis",
+    "def": "16",
+    "audio": "sp000952.mp3"
+  },
+  {
+    "term": "diecisiete",
+    "def": "17",
+    "audio": "sp000953.mp3"
+  },
+  {
+    "term": "dieciocho",
+    "def": "18",
+    "audio": "sp000954.mp3"
+  },
+  {
+    "term": "diecinueve",
+    "def": "19",
+    "audio": "sp000955.mp3"
+  },
+  {
+    "term": "veinte",
+    "def": "20",
+    "audio": "sp000956.mp3"
+  }
+]

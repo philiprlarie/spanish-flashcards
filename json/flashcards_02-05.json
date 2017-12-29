@@ -1,0 +1,267 @@
+[
+  {
+    "term": "el (la) abuelo(a)",
+    "def": "grandfather /grandmother",
+    "audio": "sp004352.mp3"
+  },
+  {
+    "term": "el (la) amigo(a)",
+    "def": "friend",
+    "audio": "sp001252.mp3"
+  },
+  {
+    "term": "el (la) esposo(a)",
+    "def": "spouse",
+    "audio": "sp025400/sp025449.mp3"
+  },
+  {
+    "term": "el (la) hermanastro(a)",
+    "def": "stepbrother / stepsister",
+    "audio": "sp012662.mp3"
+  },
+  {
+    "term": "el (la) hermano(a)",
+    "def": "brother / sister",
+    "audio": "sp004341.mp3"
+  },
+  {
+    "term": "el (la) hijo(a)",
+    "def": "son / daughter",
+    "audio": "sp025400/sp025451.mp3"
+  },
+  {
+    "term": "la madrastra",
+    "def": "stepmother",
+    "audio": "sp006111.mp3"
+  },
+  {
+    "term": "la madre (mamá)",
+    "def": "mother",
+    "audio": "sp002201.mp3"
+  },
+  {
+    "term": "el (la) medio(a) hermano(a)",
+    "def": "half brother / half sister",
+    "audio": "sp000201.mp3"
+  },
+  {
+    "term": "el caballo",
+    "def": "horse",
+    "audio": "sp004424.mp3"
+  },
+  {
+    "term": "el (la) gato(a)",
+    "def": "cat",
+    "audio": "sp012691.mp3"
+  },
+  {
+    "term": "el pájaro",
+    "def": "bird",
+    "audio": "sp002197.mp3"
+  },
+  {
+    "term": "ayudar",
+    "def": "to help",
+    "audio": "sp001284.mp3"
+  },
+  {
+    "term": "bailar",
+    "def": "to dance",
+    "audio": "sp001016.mp3"
+  },
+  {
+    "term": "buscar",
+    "def": "to look for",
+    "audio": "sp001670.mp3"
+  },
+  {
+    "term": "caminar",
+    "def": "to walk",
+    "audio": "sp002169.mp3"
+  },
+  {
+    "term": "cantar",
+    "def": "to sing",
+    "audio": "sp001816.mp3"
+  },
+  {
+    "term": "cocinar",
+    "def": "to cook",
+    "audio": "sp000071.mp3"
+  },
+  {
+    "term": "comprar",
+    "def": "to buy",
+    "audio": "sp001288.mp3"
+  },
+  {
+    "term": "desear",
+    "def": "to wish",
+    "audio": "sp000073.mp3"
+  },
+  {
+    "term": "enseñar",
+    "def": "to teach",
+    "audio": "sp002170.mp3"
+  },
+  {
+    "term": "escuchar",
+    "def": "to listen",
+    "audio": "sp001022.mp3"
+  },
+  {
+    "term": "esquiar",
+    "def": "to ski",
+    "audio": "sp001828.mp3"
+  },
+  {
+    "term": "estudiar",
+    "def": "to study",
+    "audio": "sp001024.mp3"
+  },
+  {
+    "term": "hablar (por teléfono)",
+    "def": "to talk (on the phone)",
+    "audio": "sp012693.mp3"
+  },
+  {
+    "term": "limpiar",
+    "def": "to clean",
+    "audio": "sp001031.mp3"
+  },
+  {
+    "term": "llamar",
+    "def": "to call",
+    "audio": "sp002172.mp3"
+  },
+  {
+    "term": "llegar",
+    "def": "to arrive",
+    "audio": "sp002173.mp3"
+  },
+  {
+    "term": "el (la) nieto(a)",
+    "def": "grandson /granddaughter",
+    "audio": "sp004522.mp3"
+  },
+  {
+    "term": "el (la) novio(a)",
+    "def": "boyfriend /girlfriend",
+    "audio": "sp002111.mp3"
+  },
+  {
+    "term": "el padrastro",
+    "def": "stepfather",
+    "audio": "sp006112.mp3"
+  },
+  {
+    "term": "el padre (papá)",
+    "def": "father",
+    "audio": "sp002196.mp3"
+  },
+  {
+    "term": "la pareja",
+    "def": "couple; partner",
+    "audio": "sp002724.mp3"
+  },
+  {
+    "term": "el pariente",
+    "def": "relative",
+    "audio": "sp012320.mp3"
+  },
+  {
+    "term": "el (la) primo(a)",
+    "def": "cousin",
+    "audio": "sp004335.mp3"
+  },
+  {
+    "term": "el (la) sobrino(a)",
+    "def": "nephew / niece",
+    "audio": "sp004334.mp3"
+  },
+  {
+    "term": "el (la) suegro(a)",
+    "def": "father-in-law /mother-in-law",
+    "audio": "sp004333.mp3"
+  },
+  {
+    "term": "el (la) tío(a)",
+    "def": "uncle / aunt",
+    "audio": "sp025400/sp025456.mp3"
+  },
+  {
+    "term": "el (la) perro(a)",
+    "def": "dog",
+    "audio": "sp012692.mp3"
+  },
+  {
+    "term": "el pez",
+    "def": "fish",
+    "audio": "sp002199.mp3"
+  },
+  {
+    "term": "el ratón",
+    "def": "mouse",
+    "audio": "sp007258.mp3"
+  },
+  {
+    "term": "mandar (un mensaje)",
+    "def": "to send (a message)",
+    "audio": "sp025400/sp025457.mp3"
+  },
+  {
+    "term": "manejar",
+    "def": "to drive",
+    "audio": "sp004392.mp3"
+  },
+  {
+    "term": "mirar (la tele)",
+    "def": "to look, to watch (TV)",
+    "audio": "sp012694.mp3"
+  },
+  {
+    "term": "nadar",
+    "def": "to swim",
+    "audio": "sp001839.mp3"
+  },
+  {
+    "term": "necesitar",
+    "def": "to need",
+    "audio": "sp001036.mp3"
+  },
+  {
+    "term": "practicar (deportes)",
+    "def": "to practice; to play (sports)",
+    "audio": "sp012695.mp3"
+  },
+  {
+    "term": "preguntar",
+    "def": "to ask",
+    "audio": "sp002164.mp3"
+  },
+  {
+    "term": "regresar (a casa)",
+    "def": "to return (home)",
+    "audio": "sp002165.mp3"
+  },
+  {
+    "term": "tomar (café)",
+    "def": "to take; to drink (coffee)",
+    "audio": "sp012696.mp3"
+  },
+  {
+    "term": "trabajar",
+    "def": "to work",
+    "audio": "sp001051.mp3"
+  },
+  {
+    "term": "usar",
+    "def": "to use",
+    "audio": "sp002166.mp3"
+  },
+  {
+    "term": "viajar",
+    "def": "to travel",
+    "audio": "sp001214.mp3"
+  }
+]

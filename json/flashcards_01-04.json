@@ -1,0 +1,312 @@
+[
+  {
+    "term": "agresivo(a)",
+    "def": "aggressive",
+    "audio": "sp010554.mp3"
+  },
+  {
+    "term": "atlético(a)",
+    "def": "athletic",
+    "audio": "sp002208.mp3"
+  },
+  {
+    "term": "antipático(a)",
+    "def": "unfriendly",
+    "audio": "sp013950.mp3"
+  },
+  {
+    "term": "amable",
+    "def": "kind",
+    "audio": "sp006523.mp3"
+  },
+  {
+    "term": "corto(a)",
+    "def": "short (length)",
+    "audio": "sp002211.mp3"
+  },
+  {
+    "term": "difícil",
+    "def": "difficult",
+    "audio": "sp002052.mp3"
+  },
+  {
+    "term": "fácil",
+    "def": "easy",
+    "audio": "sp004592.mp3"
+  },
+  {
+    "term": "famoso(a)",
+    "def": "famous",
+    "audio": "sp012635.mp3"
+  },
+  {
+    "term": "gordo(a)",
+    "def": "fat",
+    "audio": "sp002216.mp3"
+  },
+  {
+    "term": "guapo(a)",
+    "def": "good-looking",
+    "audio": "sp002218.mp3"
+  },
+  {
+    "term": "honesto(a)",
+    "def": "honest",
+    "audio": "sp002219.mp3"
+  },
+  {
+    "term": "largo(a)",
+    "def": "long",
+    "audio": "sp002213.mp3"
+  },
+  {
+    "term": "nuevo(a)",
+    "def": "new",
+    "audio": "sp001066.mp3"
+  },
+  {
+    "term": "perezoso(a)",
+    "def": "lazy",
+    "audio": "sp002225.mp3"
+  },
+  {
+    "term": "pobre",
+    "def": "poor",
+    "audio": "sp002226.mp3"
+  },
+  {
+    "term": "rico(a)",
+    "def": "rich",
+    "audio": "sp000069.mp3"
+  },
+  {
+    "term": "simpático(a)",
+    "def": "nice",
+    "audio": "sp012633.mp3"
+  },
+  {
+    "term": "trabajador(a)",
+    "def": "hardworking",
+    "audio": "sp002232.mp3"
+  },
+  {
+    "term": "muy",
+    "def": "very",
+    "audio": "sp006121.mp3"
+  },
+  {
+    "term": "pero",
+    "def": "but",
+    "audio": "sp004290.mp3"
+  },
+  {
+    "term": "un poco",
+    "def": "a little",
+    "audio": "sp005307.mp3"
+  },
+  {
+    "term": "también",
+    "def": "also",
+    "audio": "sp002632.mp3"
+  },
+  {
+    "term": "el niño",
+    "def": "child (masc.)",
+    "audio": "sp004843.mp3"
+  },
+  {
+    "term": "la niña",
+    "def": "child (fem.)",
+    "audio": "sp004842.mp3"
+  },
+  {
+    "term": "la mujer",
+    "def": "woman",
+    "audio": "sp002114.mp3"
+  },
+  {
+    "term": "alto(a)",
+    "def": "tall",
+    "audio": "sp001360.mp3"
+  },
+  {
+    "term": "bajo(a)",
+    "def": "short",
+    "audio": "sp001361.mp3"
+  },
+  {
+    "term": "bonito(a)",
+    "def": "pretty",
+    "audio": "sp002210.mp3"
+  },
+  {
+    "term": "calvo(a)",
+    "def": "bald",
+    "audio": "sp000419.mp3"
+  },
+  {
+    "term": "delgado(a)",
+    "def": "thin",
+    "audio": "sp002212.mp3"
+  },
+  {
+    "term": "feo(a)",
+    "def": "ugly",
+    "audio": "sp001368.mp3"
+  },
+  {
+    "term": "grande",
+    "def": "big",
+    "audio": "sp002217.mp3"
+  },
+  {
+    "term": "moreno(a)",
+    "def": "dark-skinned/dark-haired",
+    "audio": "sp002223.mp3"
+  },
+  {
+    "term": "pelirrojo(a)",
+    "def": "red-haired",
+    "audio": "sp012627.mp3"
+  },
+  {
+    "term": "pequeño(a)",
+    "def": "small",
+    "audio": "sp002230.mp3"
+  },
+  {
+    "term": "rubio(a)",
+    "def": "blond(e)",
+    "audio": "sp001373.mp3"
+  },
+  {
+    "term": "viejo(a)",
+    "def": "old",
+    "audio": "sp002233.mp3"
+  },
+  {
+    "term": "bueno(a)",
+    "def": "good",
+    "audio": "sp001384.mp3"
+  },
+  {
+    "term": "malo(a)",
+    "def": "bad",
+    "audio": "sp001385.mp3"
+  },
+  {
+    "term": "cruel",
+    "def": "cruel",
+    "audio": "sp012629.mp3"
+  },
+  {
+    "term": "cariñoso(a)",
+    "def": "loving",
+    "audio": "sp003003.mp3"
+  },
+  {
+    "term": "generoso(a)",
+    "def": "generous",
+    "audio": "sp002215.mp3"
+  },
+  {
+    "term": "egoísta",
+    "def": "selfish",
+    "audio": "sp000440.mp3"
+  },
+  {
+    "term": "idealista",
+    "def": "idealist",
+    "audio": "sp003007.mp3"
+  },
+  {
+    "term": "realista",
+    "def": "realist",
+    "audio": "sp003014.mp3"
+  },
+  {
+    "term": "inteligente",
+    "def": "intelligent",
+    "audio": "sp002221.mp3"
+  },
+  {
+    "term": "tonto(a)",
+    "def": "dumb",
+    "audio": "sp002231.mp3"
+  },
+  {
+    "term": "interesante",
+    "def": "interesting",
+    "audio": "sp004486.mp3"
+  },
+  {
+    "term": "aburrido(a)",
+    "def": "boring",
+    "audio": "sp002441.mp3"
+  },
+  {
+    "term": "optimista",
+    "def": "optimist",
+    "audio": "sp001388.mp3"
+  },
+  {
+    "term": "pesimista",
+    "def": "pessimist",
+    "audio": "sp001389.mp3"
+  },
+  {
+    "term": "liberal",
+    "def": "liberal",
+    "audio": "sp002242.mp3"
+  },
+  {
+    "term": "conservador(a)",
+    "def": "conservative",
+    "audio": "sp000485.mp3"
+  },
+  {
+    "term": "paciente",
+    "def": "patient",
+    "audio": "sp002224.mp3"
+  },
+  {
+    "term": "impaciente",
+    "def": "impatient",
+    "audio": "sp004443.mp3"
+  },
+  {
+    "term": "serio(a)",
+    "def": "serious",
+    "audio": "sp001382.mp3"
+  },
+  {
+    "term": "cómico(a)",
+    "def": "funny",
+    "audio": "sp002238.mp3"
+  },
+  {
+    "term": "tímido(a)",
+    "def": "timid, shy",
+    "audio": "sp002246.mp3"
+  },
+  {
+    "term": "sociable",
+    "def": "sociable",
+    "audio": "sp012630.mp3"
+  },
+  {
+    "term": "y",
+    "def": "and",
+    "audio": "sp001077.mp3"
+  },
+  {
+    "term": "divertido(a)",
+    "def": "fun; funny",
+    "audio": "sp001856.mp3"
+  },
+  {
+    "term": "joven",
+    "def": "young",
+    "audio": "sp001365.mp3"
+  }
+]

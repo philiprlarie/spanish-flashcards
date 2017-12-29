@@ -1,0 +1,292 @@
+[
+  {
+    "term": "el corazón",
+    "def": "heart",
+    "audio": "sp002003.mp3"
+  },
+  {
+    "term": "el esqueleto",
+    "def": "skeleton",
+    "audio": "sp007907.mp3"
+  },
+  {
+    "term": "el hígado",
+    "def": "liver",
+    "audio": "sp005161.mp3"
+  },
+  {
+    "term": "el hueso",
+    "def": "bone",
+    "audio": "sp005288.mp3"
+  },
+  {
+    "term": "el intestino",
+    "def": "intestine",
+    "audio": "sp007898.mp3"
+  },
+  {
+    "term": "el órgano vital",
+    "def": "vital organ",
+    "audio": "sp013842.mp3"
+  },
+  {
+    "term": "el (la) paciente",
+    "def": "patient",
+    "audio": "sp001938.mp3"
+  },
+  {
+    "term": "los primeros auxilios",
+    "def": "first aid",
+    "audio": "sp006016.mp3"
+  },
+  {
+    "term": "la alergia",
+    "def": "allergy",
+    "audio": "sp002490.mp3"
+  },
+  {
+    "term": "la cortada",
+    "def": "cut",
+    "audio": "sp007458.mp3"
+  },
+  {
+    "term": "el desmayo",
+    "def": "faint",
+    "audio": "sp013800.mp3"
+  },
+  {
+    "term": "la diarrea",
+    "def": "diarrhea",
+    "audio": "sp001926.mp3"
+  },
+  {
+    "term": "el cáncer",
+    "def": "cancer",
+    "audio": "sp004678.mp3"
+  },
+  {
+    "term": "la diabetes",
+    "def": "diabetes",
+    "audio": "sp004681.mp3"
+  },
+  {
+    "term": "la gripe",
+    "def": "flu",
+    "audio": "sp001931.mp3"
+  },
+  {
+    "term": "la hipertensión",
+    "def": "high blood pressure",
+    "audio": "sp004685.mp3"
+  },
+  {
+    "term": "el insomnio",
+    "def": "insomnia",
+    "audio": "sp004686.mp3"
+  },
+  {
+    "term": "la aspirina",
+    "def": "aspirin",
+    "audio": "sp001917.mp3"
+  },
+  {
+    "term": "la cirugía",
+    "def": "surgery",
+    "audio": "sp004653.mp3"
+  },
+  {
+    "term": "la curita",
+    "def": "small adhesive bandage",
+    "audio": "sp005686.mp3"
+  },
+  {
+    "term": "las gotas",
+    "def": "drops",
+    "audio": "sp012466.mp3"
+  },
+  {
+    "term": "la inyección",
+    "def": "injection, shot",
+    "audio": "sp004608.mp3"
+  },
+  {
+    "term": "cortarse",
+    "def": "to get a cut",
+    "audio": "sp004445.mp3"
+  },
+  {
+    "term": "descansar",
+    "def": "to rest",
+    "audio": "sp002167.mp3"
+  },
+  {
+    "term": "desmayarse",
+    "def": "to faint",
+    "audio": "sp005434.mp3"
+  },
+  {
+    "term": "doler (ue)",
+    "def": "to hurt",
+    "audio": "sp024000/sp024031.mp3"
+  },
+  {
+    "term": "enfermarse",
+    "def": "to get sick",
+    "audio": "sp001825.mp3"
+  },
+  {
+    "term": "estar mareado(a)",
+    "def": "to be dizzy",
+    "audio": "sp013807b.mp3"
+  },
+  {
+    "term": "estornudar",
+    "def": "to sneeze",
+    "audio": "sp002488.mp3"
+  },
+  {
+    "term": "examinar",
+    "def": "to examine",
+    "audio": "sp002489.mp3"
+  },
+  {
+    "term": "fracturarse",
+    "def": "to fracture",
+    "audio": "sp004610.mp3"
+  },
+  {
+    "term": "el pulmón",
+    "def": "lung",
+    "audio": "sp004850.mp3"
+  },
+  {
+    "term": "la radiografía",
+    "def": "x-ray",
+    "audio": "sp004600.mp3"
+  },
+  {
+    "term": "la receta médica",
+    "def": "prescription",
+    "audio": "sp013796.mp3"
+  },
+  {
+    "term": "la sala de emergencias",
+    "def": "emergency room",
+    "audio": "sp013797.mp3"
+  },
+  {
+    "term": "la salud",
+    "def": "health",
+    "audio": "sp002502.mp3"
+  },
+  {
+    "term": "la sangre",
+    "def": "blood",
+    "audio": "sp004771.mp3"
+  },
+  {
+    "term": "el tratamiento",
+    "def": "treatment",
+    "audio": "sp000806.mp3"
+  },
+  {
+    "term": "el yeso",
+    "def": "cast",
+    "audio": "sp005428.mp3"
+  },
+  {
+    "term": "el dolor",
+    "def": "pain",
+    "audio": "sp004617.mp3"
+  },
+  {
+    "term": "la náusea",
+    "def": "nausea",
+    "audio": "sp004744.mp3"
+  },
+  {
+    "term": "la presión baja/ alta",
+    "def": "low/high blood pressure",
+    "audio": "sp025600/sp025606.mp3"
+  },
+  {
+    "term": "la obesidad",
+    "def": "obesity",
+    "audio": "sp005149.mp3"
+  },
+  {
+    "term": "el resfriado",
+    "def": "cold",
+    "audio": "sp001944.mp3"
+  },
+  {
+    "term": "el SIDA",
+    "def": "AIDS",
+    "audio": "sp005760.mp3"
+  },
+  {
+    "term": "el jarabe",
+    "def": "syrup (cough)",
+    "audio": "sp001934.mp3"
+  },
+  {
+    "term": "la pastilla",
+    "def": "pill",
+    "audio": "sp001942.mp3"
+  },
+  {
+    "term": "la silla de ruedas",
+    "def": "wheelchair",
+    "audio": "sp005426.mp3"
+  },
+  {
+    "term": "la vacuna",
+    "def": "vaccine",
+    "audio": "sp013806.mp3"
+  },
+  {
+    "term": "el vendaje",
+    "def": "bandage",
+    "audio": "sp012482.mp3"
+  },
+  {
+    "term": "recuperarse",
+    "def": "to recuperate, recover",
+    "audio": "sp011641.mp3"
+  },
+  {
+    "term": "respirar",
+    "def": "to breathe",
+    "audio": "sp002468.mp3"
+  },
+  {
+    "term": "sangrar",
+    "def": "to bleed",
+    "audio": "sp006780.mp3"
+  },
+  {
+    "term": "sentir náuseas",
+    "def": "to feel nauseous",
+    "audio": "sp025700/sp025777.mp3"
+  },
+  {
+    "term": "tomar la presión",
+    "def": "to take someone’s blood pressure",
+    "audio": "sp005843.mp3"
+  },
+  {
+    "term": "torcerse (ue)",
+    "def": "to twist, to sprain",
+    "audio": "sp025600/sp025608.mp3"
+  },
+  {
+    "term": "toser",
+    "def": "to cough",
+    "audio": "sp002501.mp3"
+  },
+  {
+    "term": "vomitar",
+    "def": "to vomit",
+    "audio": "sp004787.mp3"
+  }
+]

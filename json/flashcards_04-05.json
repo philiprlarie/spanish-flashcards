@@ -1,0 +1,57 @@
+[
+  {
+    "term": "¿adónde?",
+    "def": "to where?",
+    "audio": "sp001157.mp3"
+  },
+  {
+    "term": "¿cómo?",
+    "def": "how?",
+    "audio": "sp001162.mp3"
+  },
+  {
+    "term": "¿cuál(es)?",
+    "def": "which?",
+    "audio": "sp002605.mp3"
+  },
+  {
+    "term": "¿cuándo?",
+    "def": "when?",
+    "audio": "sp001159.mp3"
+  },
+  {
+    "term": "¿cuánto(a)?",
+    "def": "how much?",
+    "audio": "sp002606.mp3"
+  },
+  {
+    "term": "¿cuántos(as)?",
+    "def": "how many?",
+    "audio": "sp002607.mp3"
+  },
+  {
+    "term": "¿de dónde?",
+    "def": "from where?",
+    "audio": "sp001158.mp3"
+  },
+  {
+    "term": "¿dónde?",
+    "def": "where?",
+    "audio": "sp001156.mp3"
+  },
+  {
+    "term": "¿por qué?",
+    "def": "why?",
+    "audio": "sp001160.mp3"
+  },
+  {
+    "term": "¿qué?",
+    "def": "what?",
+    "audio": "sp001155.mp3"
+  },
+  {
+    "term": "¿quién(es)?",
+    "def": "who?",
+    "audio": "sp002609.mp3"
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "term": "la caja",
+    "def": "cash register",
+    "audio": "sp006076.mp3"
+  },
+  {
+    "term": "el (dinero en) efectivo",
+    "def": "cash",
+    "audio": "sp025300/sp025398.mp3"
+  },
+  {
+    "term": "el número",
+    "def": "size (shoe)",
+    "audio": "sp000989.mp3"
+  },
+  {
+    "term": "la oferta",
+    "def": "sale (event, reduction of prices)",
+    "audio": "sp002556.mp3"
+  },
+  {
+    "term": "la prenda",
+    "def": "garment",
+    "audio": "sp000480.mp3"
+  },
+  {
+    "term": "el algodón",
+    "def": "cotton",
+    "audio": "sp001655.mp3"
+  },
+  {
+    "term": "la lana",
+    "def": "wool",
+    "audio": "sp001660.mp3"
+  },
+  {
+    "term": "el lino",
+    "def": "linen",
+    "audio": "sp013648.mp3"
+  },
+  {
+    "term": "a cuadros",
+    "def": "plaid",
+    "audio": "sp011744.mp3"
+  },
+  {
+    "term": "a rayas",
+    "def": "striped",
+    "audio": "sp011745.mp3"
+  },
+  {
+    "term": "elegir (i)",
+    "def": "to choose",
+    "audio": "sp025300/sp025399.mp3"
+  },
+  {
+    "term": "hacer juego",
+    "def": "to match",
+    "audio": "sp006576.mp3"
+  },
+  {
+    "term": "apretado(a)",
+    "def": "tight",
+    "audio": "sp015481.mp3"
+  },
+  {
+    "term": "barato(a)",
+    "def": "cheap, inexpensive",
+    "audio": "sp001682.mp3"
+  },
+  {
+    "term": "caro(a)",
+    "def": "expensive",
+    "audio": "sp001683.mp3"
+  },
+  {
+    "term": "de marca",
+    "def": "name brand",
+    "audio": "sp025400/sp025400.mp3"
+  },
+  {
+    "term": "(estar) a la moda",
+    "def": "(to be) fashionable",
+    "audio": "sp025400/sp025401.mp3"
+  },
+  {
+    "term": "¡Qué bien te queda esa falda!",
+    "def": "That skirt really fits you well!",
+    "audio": "sp013655.mp3"
+  },
+  {
+    "term": "¡Qué caros!",
+    "def": "How expensive!",
+    "audio": "sp013657.mp3"
+  },
+  {
+    "term": "¡Qué color tan bonito!",
+    "def": "What a pretty color!",
+    "audio": "sp013656.mp3"
+  },
+  {
+    "term": "mayor",
+    "def": "older (age)",
+    "audio": "sp001331.mp3"
+  },
+  {
+    "term": "mejor",
+    "def": "better",
+    "audio": "sp001332.mp3"
+  },
+  {
+    "term": "el descuento",
+    "def": "discount",
+    "audio": "sp000301.mp3"
+  },
+  {
+    "term": "el probador",
+    "def": "dressing room",
+    "audio": "sp001664.mp3"
+  },
+  {
+    "term": "la talla",
+    "def": "size (clothing)",
+    "audio": "sp001667.mp3"
+  },
+  {
+    "term": "la tarjeta de crédito",
+    "def": "credit card",
+    "audio": "sp001197.mp3"
+  },
+  {
+    "term": "las telas",
+    "def": "fabrics",
+    "audio": "sp013647.mp3"
+  },
+  {
+    "term": "la venta",
+    "def": "sale (transaction)",
+    "audio": "sp004473.mp3"
+  },
+  {
+    "term": "la mezclilla",
+    "def": "denim",
+    "audio": "sp013649.mp3"
+  },
+  {
+    "term": "la piel",
+    "def": "leather",
+    "audio": "sp005061.mp3"
+  },
+  {
+    "term": "la seda",
+    "def": "silk",
+    "audio": "sp001665.mp3"
+  },
+  {
+    "term": "de lunares",
+    "def": "polka-dot",
+    "audio": "sp002519.mp3"
+  },
+  {
+    "term": "estampado(a)",
+    "def": "patterned",
+    "audio": "sp014795.mp3"
+  },
+  {
+    "term": "probarse (ue)",
+    "def": "to try on",
+    "audio": "sp025400/sp025406.mp3"
+  },
+  {
+    "term": "quedar",
+    "def": "to fit",
+    "audio": "sp001680.mp3"
+  },
+  {
+    "term": "(estar) rebajado(a)",
+    "def": "(to be) on sale",
+    "audio": "sp025400/sp025407.mp3"
+  },
+  {
+    "term": "grande",
+    "def": "large",
+    "audio": "sp002217.mp3"
+  },
+  {
+    "term": "hecho(a) a mano",
+    "def": "handmade",
+    "audio": "sp025400/sp025408.mp3"
+  },
+  {
+    "term": "liso(a)",
+    "def": "solid",
+    "audio": "sp025400/sp025409.mp3"
+  },
+  {
+    "term": "mediano(a)",
+    "def": "medium",
+    "audio": "sp004525.mp3"
+  },
+  {
+    "term": "¡Qué lindos zapatos!",
+    "def": "What pretty shoes!",
+    "audio": "sp013654.mp3"
+  },
+  {
+    "term": "¡Qué pantalones tan elegantes!",
+    "def": "What elegant pants!",
+    "audio": "sp025400/sp025410.mp3"
+  },
+  {
+    "term": "menor",
+    "def": "younger",
+    "audio": "sp001333.mp3"
+  },
+  {
+    "term": "peor",
+    "def": "worse",
+    "audio": "sp001341.mp3"
+  },
+  {
+    "term": "por ciento",
+    "def": "percent",
+    "audio": "sp003427.mp3"
+  },
+  {
+    "term": "extra grande",
+    "def": "extra large",
+    "audio": "sp013641.mp3"
+  },
+  {
+    "term": "pequeño(a)",
+    "def": "small",
+    "audio": "sp002230.mp3"
+  }
+]

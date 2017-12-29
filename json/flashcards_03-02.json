@@ -1,0 +1,77 @@
+[
+  {
+    "term": "abrir",
+    "def": "to open",
+    "audio": "sp001202.mp3"
+  },
+  {
+    "term": "aprender (a +infinitive)",
+    "def": "to learn (to do something)",
+    "audio": "sp012717.mp3"
+  },
+  {
+    "term": "asistir (a)",
+    "def": "to attend",
+    "audio": "sp002769.mp3"
+  },
+  {
+    "term": "beber",
+    "def": "to drink",
+    "audio": "sp001461.mp3"
+  },
+  {
+    "term": "comer",
+    "def": "to eat",
+    "audio": "sp001017.mp3"
+  },
+  {
+    "term": "comprender",
+    "def": "to understand",
+    "audio": "sp001018.mp3"
+  },
+  {
+    "term": "correr",
+    "def": "to run",
+    "audio": "sp001020.mp3"
+  },
+  {
+    "term": "creer",
+    "def": "to believe",
+    "audio": "sp001550.mp3"
+  },
+  {
+    "term": "deber",
+    "def": "should, ought to",
+    "audio": "sp002288.mp3"
+  },
+  {
+    "term": "decidir",
+    "def": "to decide",
+    "audio": "sp004322.mp3"
+  },
+  {
+    "term": "escribir",
+    "def": "to write",
+    "audio": "sp001021.mp3"
+  },
+  {
+    "term": "leer",
+    "def": "to read",
+    "audio": "sp001030.mp3"
+  },
+  {
+    "term": "recibir (un regalo)",
+    "def": "to receive (a gift)",
+    "audio": "sp025400/sp025477.mp3"
+  },
+  {
+    "term": "vender",
+    "def": "to sell",
+    "audio": "sp002289.mp3"
+  },
+  {
+    "term": "vivir",
+    "def": "to live",
+    "audio": "sp001053.mp3"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "term": "el anillo",
+    "def": "ring",
+    "audio": "sp002522.mp3"
+  },
+  {
+    "term": "la ceremonia",
+    "def": "ceremony",
+    "audio": "sp000242.mp3"
+  },
+  {
+    "term": "la cita",
+    "def": "date",
+    "audio": "sp002710.mp3"
+  },
+  {
+    "term": "el compromiso",
+    "def": "engagement",
+    "audio": "sp002011.mp3"
+  },
+  {
+    "term": "la luna de miel",
+    "def": "honeymoon",
+    "audio": "sp002726.mp3"
+  },
+  {
+    "term": "la madrina",
+    "def": "maid of honor; godmother",
+    "audio": "sp001265.mp3"
+  },
+  {
+    "term": "la muerte",
+    "def": "death",
+    "audio": "sp009626.mp3"
+  },
+  {
+    "term": "el nacimiento",
+    "def": "birth",
+    "audio": "sp000236.mp3"
+  },
+  {
+    "term": "el noviazgo",
+    "def": "engagement, relationship",
+    "audio": "sp002707.mp3"
+  },
+  {
+    "term": "abrazar",
+    "def": "to hug",
+    "audio": "sp013740.mp3"
+  },
+  {
+    "term": "amar",
+    "def": "to love",
+    "audio": "sp002702.mp3"
+  },
+  {
+    "term": "besar",
+    "def": "to kiss",
+    "audio": "sp013741.mp3"
+  },
+  {
+    "term": "comprometerse (con)",
+    "def": "to get engaged (to)",
+    "audio": "sp013742.mp3"
+  },
+  {
+    "term": "dar a luz",
+    "def": "to give birth",
+    "audio": "sp005518.mp3"
+  },
+  {
+    "term": "desear",
+    "def": "to desire, to wish",
+    "audio": "sp000073.mp3"
+  },
+  {
+    "term": "divorciarse (de)",
+    "def": "to divorce",
+    "audio": "sp025600/sp025600.mp3"
+  },
+  {
+    "term": "enamorarse (de)",
+    "def": "to fall in love (with)",
+    "audio": "sp002708.mp3"
+  },
+  {
+    "term": "esperar",
+    "def": "to hope",
+    "audio": "sp003861.mp3"
+  },
+  {
+    "term": "estar embarazada",
+    "def": "to be pregnant",
+    "audio": "sp013736.mp3"
+  },
+  {
+    "term": "extrañar",
+    "def": "to miss",
+    "audio": "sp006656.mp3"
+  },
+  {
+    "term": "la adolescencia",
+    "def": "adolescence",
+    "audio": "sp013744.mp3"
+  },
+  {
+    "term": "el estado civil",
+    "def": "civil status",
+    "audio": "sp004755.mp3"
+  },
+  {
+    "term": "la juventud",
+    "def": "youth",
+    "audio": "sp012853.mp3"
+  },
+  {
+    "term": "la madurez",
+    "def": "maturity",
+    "audio": "sp013746.mp3"
+  },
+  {
+    "term": "el padrino",
+    "def": "best man; godfather",
+    "audio": "sp001269.mp3"
+  },
+  {
+    "term": "la pareja",
+    "def": "couple",
+    "audio": "sp002724.mp3"
+  },
+  {
+    "term": "el (la) prometido(a)",
+    "def": "fiancé(e)",
+    "audio": "sp013737.mp3"
+  },
+  {
+    "term": "la recepción",
+    "def": "wedding reception",
+    "audio": "sp002667.mp3"
+  },
+  {
+    "term": "el (la) recién casado(a)",
+    "def": "newlywed",
+    "audio": "sp013787.mp3"
+  },
+  {
+    "term": "soltero(a)",
+    "def": "single, unmarried",
+    "audio": "sp001117.mp3"
+  },
+  {
+    "term": "la unión libre",
+    "def": "common-law union",
+    "audio": "sp013739.mp3"
+  },
+  {
+    "term": "viudo(a)",
+    "def": "widowed",
+    "audio": "sp001118.mp3"
+  },
+  {
+    "term": "insistir (en)",
+    "def": "to insist (on)",
+    "audio": "sp017448.mp3"
+  },
+  {
+    "term": "llevarse bien (mal)",
+    "def": "to (not) get along",
+    "audio": "sp002033.mp3"
+  },
+  {
+    "term": "mandar",
+    "def": "to order",
+    "audio": "sp002174.mp3"
+  },
+  {
+    "term": "nacer",
+    "def": "to be born",
+    "audio": "sp001034.mp3"
+  },
+  {
+    "term": "odiar",
+    "def": "to hate",
+    "audio": "sp006749.mp3"
+  },
+  {
+    "term": "proponer matrimonio",
+    "def": "to propose matrimony",
+    "audio": "sp013735.mp3"
+  },
+  {
+    "term": "querer",
+    "def": "to love",
+    "audio": "sp002714.mp3"
+  },
+  {
+    "term": "romper (con)",
+    "def": "to break up (with)",
+    "audio": "sp002715.mp3"
+  },
+  {
+    "term": "separarse (de)",
+    "def": "to separate (from)",
+    "audio": "sp002717.mp3"
+  },
+  {
+    "term": "sugerir (ie)",
+    "def": "to suggest",
+    "audio": "sp025600/sp025601.mp3"
+  },
+  {
+    "term": "la niñez",
+    "def": "childhood",
+    "audio": "sp013743.mp3"
+  },
+  {
+    "term": "la vejez",
+    "def": "old age",
+    "audio": "sp013747.mp3"
+  },
+  {
+    "term": "las bodas de plata",
+    "def": "25th wedding anniversary",
+    "audio": "sp025700/sp025797.mp3"
+  },
+  {
+    "term": "las bodas de oro",
+    "def": "50th wedding anniversary",
+    "audio": "sp017352.mp3"
+  }
+]

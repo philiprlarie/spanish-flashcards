@@ -1,0 +1,57 @@
+[
+  {
+    "term": "ahorrar",
+    "def": "to save",
+    "audio": "sp003145.mp3"
+  },
+  {
+    "term": "el azúcar",
+    "def": "sugar",
+    "audio": "sp000010.mp3"
+  },
+  {
+    "term": "caducar",
+    "def": "to expire",
+    "audio": "sp025500/sp025543.mp3"
+  },
+  {
+    "term": "congelado(a)",
+    "def": "frozen",
+    "audio": "sp003839.mp3"
+  },
+  {
+    "term": "congelar",
+    "def": "to freeze",
+    "audio": "sp015515.mp3"
+  },
+  {
+    "term": "dejarse llevar por impulsos",
+    "def": "to impulse buy",
+    "audio": "sp025500/sp025544.mp3"
+  },
+  {
+    "term": "los derechos",
+    "def": "rights",
+    "audio": "sp008577.mp3"
+  },
+  {
+    "term": "la envoltura",
+    "def": "wrappers, packaging",
+    "audio": "sp025400/sp025413.mp3"
+  },
+  {
+    "term": "la lata",
+    "def": "can (of food)",
+    "audio": "sp004464.mp3"
+  },
+  {
+    "term": "el sodio",
+    "def": "sodium",
+    "audio": "sp005830.mp3"
+  },
+  {
+    "term": "la temporada",
+    "def": "season",
+    "audio": "sp012710.mp3"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "term": "a tiempo",
+    "def": "on time",
+    "audio": "sp002178.mp3"
+  },
+  {
+    "term": "la aduana",
+    "def": "customs",
+    "audio": "sp013310.mp3"
+  },
+  {
+    "term": "el asiento",
+    "def": "seat",
+    "audio": "sp002642.mp3"
+  },
+  {
+    "term": "el boleto",
+    "def": "ticket",
+    "audio": "sp002100.mp3"
+  },
+  {
+    "term": "la conexión",
+    "def": "connection",
+    "audio": "sp002338.mp3"
+  },
+  {
+    "term": "el equipaje",
+    "def": "luggage",
+    "audio": "sp006294.mp3"
+  },
+  {
+    "term": "el equipaje de mano",
+    "def": "hand luggage",
+    "audio": "sp013599.mp3"
+  },
+  {
+    "term": "la llegada",
+    "def": "arrival",
+    "audio": "sp001188.mp3"
+  },
+  {
+    "term": "el aeropuerto internacional",
+    "def": "international airport",
+    "audio": "sp014518.mp3"
+  },
+  {
+    "term": "el (la) agente de seguridad",
+    "def": "security agent",
+    "audio": "sp013598.mp3"
+  },
+  {
+    "term": "el cinturón de seguridad",
+    "def": "safety (seat) belt",
+    "audio": "sp010053.mp3"
+  },
+  {
+    "term": "la escala",
+    "def": "layover",
+    "audio": "sp003250.mp3"
+  },
+  {
+    "term": "la maleta",
+    "def": "suitcase",
+    "audio": "sp002660.mp3"
+  },
+  {
+    "term": "el mostrador",
+    "def": "counter",
+    "audio": "sp008531.mp3"
+  },
+  {
+    "term": "el andén",
+    "def": "platform",
+    "audio": "sp006686.mp3"
+  },
+  {
+    "term": "el coche cama",
+    "def": "sleeping car",
+    "audio": "sp013602.mp3"
+  },
+  {
+    "term": "la litera",
+    "def": "bunk",
+    "audio": "sp013603.mp3"
+  },
+  {
+    "term": "la parada",
+    "def": "stop",
+    "audio": "sp000309.mp3"
+  },
+  {
+    "term": "abordar",
+    "def": "to board",
+    "audio": "sp002636.mp3"
+  },
+  {
+    "term": "aterrizar",
+    "def": "to land",
+    "audio": "sp006695.mp3"
+  },
+  {
+    "term": "despegar",
+    "def": "to take off",
+    "audio": "sp006696.mp3"
+  },
+  {
+    "term": "doblar",
+    "def": "to turn",
+    "audio": "sp001952.mp3"
+  },
+  {
+    "term": "facturar equipaje",
+    "def": "to check luggage",
+    "audio": "sp013593.mp3"
+  },
+  {
+    "term": "el (la) pasajero(a)",
+    "def": "passenger",
+    "audio": "sp002641.mp3"
+  },
+  {
+    "term": "el pasaporte",
+    "def": "passport",
+    "audio": "sp002647.mp3"
+  },
+  {
+    "term": "el pasillo",
+    "def": "aisle",
+    "audio": "sp002648.mp3"
+  },
+  {
+    "term": "la primera clase",
+    "def": "first class",
+    "audio": "sp013630.mp3"
+  },
+  {
+    "term": "retrasado(a)",
+    "def": "delayed",
+    "audio": "sp012739.mp3"
+  },
+  {
+    "term": "la sala de espera",
+    "def": "waiting room",
+    "audio": "sp002493.mp3"
+  },
+  {
+    "term": "la salida",
+    "def": "departure",
+    "audio": "sp001195.mp3"
+  },
+  {
+    "term": "la segunda clase",
+    "def": "second class",
+    "audio": "sp013631.mp3"
+  },
+  {
+    "term": "la ventanilla",
+    "def": "window",
+    "audio": "sp002661.mp3"
+  },
+  {
+    "term": "el pase de abordar",
+    "def": "boarding pass",
+    "audio": "sp008554.mp3"
+  },
+  {
+    "term": "la puerta (de salida)",
+    "def": "gate",
+    "audio": "sp013633.mp3"
+  },
+  {
+    "term": "el reclamo de equipaje",
+    "def": "baggage claim",
+    "audio": "sp013595.mp3"
+  },
+  {
+    "term": "la revisión de equipaje",
+    "def": "luggage screening",
+    "audio": "sp013590.mp3"
+  },
+  {
+    "term": "la visa",
+    "def": "visa",
+    "audio": "sp006359.mp3"
+  },
+  {
+    "term": "el vuelo",
+    "def": "flight",
+    "audio": "sp001201.mp3"
+  },
+  {
+    "term": "el (la) revisor(a)",
+    "def": "controller",
+    "audio": "sp013635.mp3"
+  },
+  {
+    "term": "la taquilla",
+    "def": "ticket window",
+    "audio": "sp000314.mp3"
+  },
+  {
+    "term": "el vagón",
+    "def": "car, wagon",
+    "audio": "sp000317.mp3"
+  },
+  {
+    "term": "pasar por seguridad",
+    "def": "to go through security",
+    "audio": "sp013600.mp3"
+  },
+  {
+    "term": "perder",
+    "def": "to miss (a flight, a train)",
+    "audio": "sp003134.mp3"
+  },
+  {
+    "term": "seguir derecho",
+    "def": "to go straight",
+    "audio": "sp004432.mp3"
+  }
+]

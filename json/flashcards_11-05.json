@@ -1,0 +1,42 @@
+[
+  {
+    "term": "el autógrafo",
+    "def": "autograph",
+    "audio": "sp025300/sp025387.mp3"
+  },
+  {
+    "term": "la cita",
+    "def": "appointment",
+    "audio": "sp002710.mp3"
+  },
+  {
+    "term": "el control remoto",
+    "def": "live radio event",
+    "audio": "sp002412.mp3"
+  },
+  {
+    "term": "el (la) radioescucha",
+    "def": "listener",
+    "audio": "sp025300/sp025388.mp3"
+  },
+  {
+    "term": "el reto",
+    "def": "challenge",
+    "audio": "sp014143.mp3"
+  },
+  {
+    "term": "transmitir",
+    "def": "to broadcast",
+    "audio": "sp013774.mp3"
+  },
+  {
+    "term": "el perchero",
+    "def": "coat rack",
+    "audio": "sp025300/sp025389.mp3"
+  },
+  {
+    "term": "vivo",
+    "def": "alive",
+    "audio": "sp007952.mp3"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "term": "aburrido(a)",
+    "def": "bored",
+    "audio": "sp003568.mp3"
+  },
+  {
+    "term": "alegre",
+    "def": "happy",
+    "audio": "sp010558.mp3"
+  },
+  {
+    "term": "asustado(a)",
+    "def": "scared",
+    "audio": "sp010559.mp3"
+  },
+  {
+    "term": "avergonzado(a)",
+    "def": "embarrassed",
+    "audio": "sp003204.mp3"
+  },
+  {
+    "term": "borracho(a)",
+    "def": "drunk",
+    "audio": "sp010560.mp3"
+  },
+  {
+    "term": "cansado(a)",
+    "def": "tired",
+    "audio": "sp004348.mp3"
+  },
+  {
+    "term": "celoso(a)",
+    "def": "jealous",
+    "audio": "sp003004.mp3"
+  },
+  {
+    "term": "confundido(a)",
+    "def": "confused",
+    "audio": "sp010561.mp3"
+  },
+  {
+    "term": "contento(a)",
+    "def": "happy",
+    "audio": "sp002442.mp3"
+  },
+  {
+    "term": "deprimido(a)",
+    "def": "depressed",
+    "audio": "sp002050.mp3"
+  },
+  {
+    "term": "divertido(a)",
+    "def": "entertained; in a good mood",
+    "audio": "sp001856.mp3"
+  },
+  {
+    "term": "enamorado(a) (de)",
+    "def": "in love (with)",
+    "audio": "sp010562.mp3"
+  },
+  {
+    "term": "enfermo(a)",
+    "def": "sick",
+    "audio": "sp002439.mp3"
+  },
+  {
+    "term": "enojado(a)",
+    "def": "angry",
+    "audio": "sp002440.mp3"
+  },
+  {
+    "term": "equivocado(a)",
+    "def": "wrong",
+    "audio": "sp011892.mp3"
+  },
+  {
+    "term": "feliz",
+    "def": "happy",
+    "audio": "sp004300.mp3"
+  },
+  {
+    "term": "frustrado(a)",
+    "def": "frustrated",
+    "audio": "sp011461.mp3"
+  },
+  {
+    "term": "interesado(a)",
+    "def": "interested",
+    "audio": "sp011893.mp3"
+  },
+  {
+    "term": "nervioso(a)",
+    "def": "nervous",
+    "audio": "sp003574.mp3"
+  },
+  {
+    "term": "ocupado(a)",
+    "def": "busy",
+    "audio": "sp002443.mp3"
+  },
+  {
+    "term": "preocupado(a)",
+    "def": "worried",
+    "audio": "sp002427.mp3"
+  },
+  {
+    "term": "sano(a)",
+    "def": "healthy",
+    "audio": "sp011894.mp3"
+  },
+  {
+    "term": "seguro(a)",
+    "def": "sure",
+    "audio": "sp002063.mp3"
+  },
+  {
+    "term": "sorprendido(a)",
+    "def": "surprised",
+    "audio": "sp002064.mp3"
+  },
+  {
+    "term": "triste",
+    "def": "sad",
+    "audio": "sp001103.mp3"
+  },
+  {
+    "term": "la salud",
+    "def": "health",
+    "audio": "sp002502.mp3"
+  }
+]

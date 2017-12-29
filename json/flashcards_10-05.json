@@ -1,0 +1,37 @@
+[
+  {
+    "term": "la cuadra",
+    "def": "block",
+    "audio": "sp001924.mp3"
+  },
+  {
+    "term": "la cuota",
+    "def": "fee",
+    "audio": "sp025500/sp025580.mp3"
+  },
+  {
+    "term": "el dolor de cabeza",
+    "def": "headache",
+    "audio": "sp002485.mp3"
+  },
+  {
+    "term": "la etiqueta",
+    "def": "label",
+    "audio": "sp009238.mp3"
+  },
+  {
+    "term": "las joyas",
+    "def": "jewelry",
+    "audio": "sp005631.mp3"
+  },
+  {
+    "term": "el (la) menor de edad",
+    "def": "minor, underage",
+    "audio": "sp009797.mp3"
+  },
+  {
+    "term": "el tamaño",
+    "def": "size",
+    "audio": "sp005240.mp3"
+  }
+]

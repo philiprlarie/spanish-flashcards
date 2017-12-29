@@ -1,0 +1,102 @@
+[
+  {
+    "term": "a menudo",
+    "def": "often",
+    "audio": "sp004330.mp3"
+  },
+  {
+    "term": "a veces",
+    "def": "sometimes",
+    "audio": "sp001312.mp3"
+  },
+  {
+    "term": "ahora",
+    "def": "now",
+    "audio": "sp004351.mp3"
+  },
+  {
+    "term": "hoy",
+    "def": "today",
+    "audio": "sp001224.mp3"
+  },
+  {
+    "term": "luego",
+    "def": "later",
+    "audio": "sp001584.mp3"
+  },
+  {
+    "term": "mañana",
+    "def": "tomorrow",
+    "audio": "sp001225.mp3"
+  },
+  {
+    "term": "más tarde",
+    "def": "later",
+    "audio": "sp001585.mp3"
+  },
+  {
+    "term": "mientras",
+    "def": "while",
+    "audio": "sp002960.mp3"
+  },
+  {
+    "term": "normalmente",
+    "def": "normally, usually",
+    "audio": "sp001336.mp3"
+  },
+  {
+    "term": "(casi) nunca",
+    "def": "(almost) never",
+    "audio": "sp025500/sp025541.mp3"
+  },
+  {
+    "term": "pronto",
+    "def": "soon",
+    "audio": "sp005437.mp3"
+  },
+  {
+    "term": "(casi) siempre",
+    "def": "(almost) always",
+    "audio": "sp013335.mp3"
+  },
+  {
+    "term": "todavía",
+    "def": "still",
+    "audio": "sp004859.mp3"
+  },
+  {
+    "term": "todos los días",
+    "def": "every day",
+    "audio": "sp001074.mp3"
+  },
+  {
+    "term": "ya",
+    "def": "already",
+    "audio": "sp003728.mp3"
+  },
+  {
+    "term": "ya no",
+    "def": "no longer",
+    "audio": "sp006976.mp3"
+  },
+  {
+    "term": "tarde",
+    "def": "late",
+    "audio": "sp001348.mp3"
+  },
+  {
+    "term": "temprano",
+    "def": "early",
+    "audio": "sp001349.mp3"
+  },
+  {
+    "term": "antes de + infinitive",
+    "def": "before (doing something)",
+    "audio": "sp025500/sp025537.mp3"
+  },
+  {
+    "term": "después de + infinitive",
+    "def": "after (doing something)",
+    "audio": "sp025500/sp025538.mp3"
+  }
+]

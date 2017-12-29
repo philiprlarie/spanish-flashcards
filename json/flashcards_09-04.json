@@ -1,0 +1,177 @@
+[
+  {
+    "term": "el cumpleaños",
+    "def": "birthday",
+    "audio": "sp001775.mp3"
+  },
+  {
+    "term": "la graduación",
+    "def": "graduation",
+    "audio": "sp000234.mp3"
+  },
+  {
+    "term": "las posadas",
+    "def": "nine-day celebration before Christmas",
+    "audio": "sp013553.mp3"
+  },
+  {
+    "term": "brindar",
+    "def": "to toast",
+    "audio": "sp001814.mp3"
+  },
+  {
+    "term": "casarse (con)",
+    "def": "to get married (to)",
+    "audio": "sp002718.mp3"
+  },
+  {
+    "term": "celebrar",
+    "def": "to celebrate",
+    "audio": "sp001817.mp3"
+  },
+  {
+    "term": "cumplir años",
+    "def": "to turn (x) years old",
+    "audio": "sp002576.mp3"
+  },
+  {
+    "term": "la invitación",
+    "def": "invitation",
+    "audio": "sp009293.mp3"
+  },
+  {
+    "term": "el invitado",
+    "def": "guest",
+    "audio": "sp006507.mp3"
+  },
+  {
+    "term": "los novios",
+    "def": "bride and groom",
+    "audio": "sp001132.mp3"
+  },
+  {
+    "term": "el pastel",
+    "def": "cake",
+    "audio": "sp012434.mp3"
+  },
+  {
+    "term": "la piñata",
+    "def": "piñata",
+    "audio": "sp013548.mp3"
+  },
+  {
+    "term": "la quinceañera",
+    "def": "girl celebrating her fifteenth birthday",
+    "audio": "sp000238.mp3"
+  },
+  {
+    "term": "el regalo",
+    "def": "gift",
+    "audio": "sp001801.mp3"
+  },
+  {
+    "term": "la serenata",
+    "def": "serenade",
+    "audio": "sp013555.mp3"
+  },
+  {
+    "term": "la vela",
+    "def": "candle",
+    "audio": "sp001809.mp3"
+  },
+  {
+    "term": "los quince años",
+    "def": "a girl's fifteenth birthday celebration",
+    "audio": "sp013554.mp3"
+  },
+  {
+    "term": "el santo",
+    "def": "saint's day",
+    "audio": "sp006206.mp3"
+  },
+  {
+    "term": "decorar",
+    "def": "to decorate",
+    "audio": "sp000259.mp3"
+  },
+  {
+    "term": "disfrutar",
+    "def": "to enjoy",
+    "audio": "sp001822.mp3"
+  },
+  {
+    "term": "romper",
+    "def": "to break",
+    "audio": "sp002041.mp3"
+  },
+  {
+    "term": "terminar",
+    "def": "to finish",
+    "audio": "sp001853.mp3"
+  },
+  {
+    "term": "los banderines",
+    "def": "streamers",
+    "audio": "sp025500/sp025574.mp3"
+  },
+  {
+    "term": "los bocadillos",
+    "def": "snacks",
+    "audio": "sp013550.mp3"
+  },
+  {
+    "term": "el brindis",
+    "def": "toast",
+    "audio": "sp002582.mp3"
+  },
+  {
+    "term": "el champán",
+    "def": "champagne",
+    "audio": "sp004305.mp3"
+  },
+  {
+    "term": "el desfile",
+    "def": "parade",
+    "audio": "sp001776.mp3"
+  },
+  {
+    "term": "los dulces",
+    "def": "candies",
+    "audio": "sp009574.mp3"
+  },
+  {
+    "term": "el festejo",
+    "def": "party, celebration",
+    "audio": "sp025500/sp025575.mp3"
+  },
+  {
+    "term": "los fuegos artificiales",
+    "def": "fireworks",
+    "audio": "sp000185.mp3"
+  },
+  {
+    "term": "los globos",
+    "def": "balloons",
+    "audio": "sp013546.mp3"
+  },
+  {
+    "term": "el grupo de música",
+    "def": "music group, band",
+    "audio": "sp013547.mp3"
+  },
+  {
+    "term": "el aniversario",
+    "def": "anniversary",
+    "audio": "sp013579.mp3"
+  },
+  {
+    "term": "el bautizo",
+    "def": "baptism",
+    "audio": "sp003107.mp3"
+  },
+  {
+    "term": "la boda",
+    "def": "wedding",
+    "audio": "sp002010.mp3"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "term": "estar",
+    "def": "to be",
+    "audio": "sp001023.mp3"
+  },
+  {
+    "term": "a la derecha de",
+    "def": "to the right of",
+    "audio": "sp001971.mp3"
+  },
+  {
+    "term": "al lado de",
+    "def": "to the left of",
+    "audio": "sp001968.mp3"
+  },
+  {
+    "term": "a la izquierda de",
+    "def": "beside, next to",
+    "audio": "sp001967.mp3"
+  },
+  {
+    "term": "cerca de",
+    "def": "near",
+    "audio": "sp002444.mp3"
+  },
+  {
+    "term": "debajo de",
+    "def": "below",
+    "audio": "sp001429.mp3"
+  },
+  {
+    "term": "dentro de",
+    "def": "inside",
+    "audio": "sp001426.mp3"
+  },
+  {
+    "term": "detrás de",
+    "def": "behind",
+    "audio": "sp001966.mp3"
+  },
+  {
+    "term": "en",
+    "def": "in, on, at",
+    "audio": "sp004301.mp3"
+  },
+  {
+    "term": "encima de",
+    "def": "on top of",
+    "audio": "sp001424.mp3"
+  },
+  {
+    "term": "enfrente de",
+    "def": "in front of, facing",
+    "audio": "sp001962.mp3"
+  },
+  {
+    "term": "entre",
+    "def": "between",
+    "audio": "sp001969.mp3"
+  },
+  {
+    "term": "fuera de",
+    "def": "outside",
+    "audio": "sp012744.mp3"
+  },
+  {
+    "term": "lejos de",
+    "def": "far from",
+    "audio": "sp002445.mp3"
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "term": "Hace (muy) buen tiempo.",
+    "def": "The weather is (very) nice.",
+    "audio": "sp012701.mp3"
+  },
+  {
+    "term": "Hace (muy) mal tiempo.",
+    "def": "The weather is (very) bad.",
+    "audio": "sp025700/sp025759.mp3"
+  },
+  {
+    "term": "Hace (mucho) calor.",
+    "def": "It's (very) hot.",
+    "audio": "sp012703.mp3"
+  },
+  {
+    "term": "Hace fresco.",
+    "def": "It is cool.",
+    "audio": "sp012704.mp3"
+  },
+  {
+    "term": "Hace (mucho) frío.",
+    "def": "It's (very) cold.",
+    "audio": "sp012705.mp3"
+  },
+  {
+    "term": "Hace sol.",
+    "def": "It's sunny.",
+    "audio": "sp006492.mp3"
+  },
+  {
+    "term": "Hace (mucho) viento.",
+    "def": "It's (very) windy.",
+    "audio": "sp012706.mp3"
+  },
+  {
+    "term": "Está nublado.",
+    "def": "It is cloudy.",
+    "audio": "sp016414.mp3"
+  },
+  {
+    "term": "Está despejado.",
+    "def": "It is clear.",
+    "audio": "sp025400/sp025470.mp3"
+  },
+  {
+    "term": "Llueve.",
+    "def": "It's raining. / It rains.",
+    "audio": "sp025400/sp025475.mp3"
+  },
+  {
+    "term": "Nieva.",
+    "def": "It's snowing. / It snows.",
+    "audio": "sp025400/sp025476.mp3"
+  },
+  {
+    "term": "la bolsa",
+    "def": "handbag",
+    "audio": "sp001432.mp3"
+  },
+  {
+    "term": "los calcetines",
+    "def": "socks",
+    "audio": "sp002544.mp3"
+  },
+  {
+    "term": "la corbata",
+    "def": "tie",
+    "audio": "sp002551.mp3"
+  },
+  {
+    "term": "el impermeable",
+    "def": "raincoat",
+    "audio": "sp002549.mp3"
+  },
+  {
+    "term": "los lentes",
+    "def": "glasses",
+    "audio": "sp004826.mp3"
+  },
+  {
+    "term": "los pantalones",
+    "def": "pants",
+    "audio": "sp003413.mp3"
+  },
+  {
+    "term": "la pijama",
+    "def": "pajamas",
+    "audio": "sp012707.mp3"
+  },
+  {
+    "term": "el traje",
+    "def": "suit",
+    "audio": "sp002528.mp3"
+  },
+  {
+    "term": "el vestido",
+    "def": "dress",
+    "audio": "sp002530.mp3"
+  },
+  {
+    "term": "llevar",
+    "def": "to wear; to carry; to take",
+    "audio": "sp001675.mp3"
+  },
+  {
+    "term": "llevar puesto(a)",
+    "def": "to be wearing",
+    "audio": "sp025400/sp025480.mp3"
+  },
+  {
+    "term": "tomar el sol",
+    "def": "to sunbathe",
+    "audio": "sp002336.mp3"
+  },
+  {
+    "term": "cómodo(a)",
+    "def": "comfortable",
+    "audio": "sp002662.mp3"
+  },
+  {
+    "term": "amarillo(a)",
+    "def": "yellow",
+    "audio": "sp016287.mp3"
+  },
+  {
+    "term": "anaranjado(a)",
+    "def": "orange",
+    "audio": "sp016288.mp3"
+  },
+  {
+    "term": "azul",
+    "def": "blue",
+    "audio": "sp001377.mp3"
+  },
+  {
+    "term": "blanco(a)",
+    "def": "white",
+    "audio": "sp016289.mp3"
+  },
+  {
+    "term": "café",
+    "def": "brown",
+    "audio": "sp007702.mp3"
+  },
+  {
+    "term": "gris",
+    "def": "gray",
+    "audio": "sp001726.mp3"
+  },
+  {
+    "term": "morado(a)",
+    "def": "purple",
+    "audio": "sp016291.mp3"
+  },
+  {
+    "term": "negro(a)",
+    "def": "black",
+    "audio": "sp016292.mp3"
+  },
+  {
+    "term": "rojo(a)",
+    "def": "red",
+    "audio": "sp001375.mp3"
+  },
+  {
+    "term": "rosado(a)",
+    "def": "pink",
+    "audio": "sp025700/sp025785.mp3"
+  },
+  {
+    "term": "verde",
+    "def": "green",
+    "audio": "sp000404.mp3"
+  },
+  {
+    "term": "el invierno",
+    "def": "winter",
+    "audio": "sp001863.mp3"
+  },
+  {
+    "term": "el gorro",
+    "def": "bonnet, cap",
+    "audio": "sp006007.mp3"
+  },
+  {
+    "term": "el abrigo",
+    "def": "coat",
+    "audio": "sp002520.mp3"
+  },
+  {
+    "term": "los guantes",
+    "def": "gloves",
+    "audio": "sp002545.mp3"
+  },
+  {
+    "term": "la bufanda",
+    "def": "scarf",
+    "audio": "sp002532.mp3"
+  },
+  {
+    "term": "las botas",
+    "def": "boots",
+    "audio": "sp002538.mp3"
+  },
+  {
+    "term": "la primavera",
+    "def": "spring",
+    "audio": "sp001864.mp3"
+  },
+  {
+    "term": "el paraguas",
+    "def": "umbrella",
+    "audio": "sp003412.mp3"
+  },
+  {
+    "term": "la blusa",
+    "def": "blouse",
+    "audio": "sp002531.mp3"
+  },
+  {
+    "term": "el suéter",
+    "def": "sweater",
+    "audio": "sp002527.mp3"
+  },
+  {
+    "term": "la falda",
+    "def": "skirt",
+    "audio": "sp002536.mp3"
+  },
+  {
+    "term": "los zapatos",
+    "def": "shoes",
+    "audio": "sp000460.mp3"
+  },
+  {
+    "term": "el verano",
+    "def": "summer",
+    "audio": "sp001865.mp3"
+  },
+  {
+    "term": "el sombrero",
+    "def": "hat",
+    "audio": "sp003416.mp3"
+  },
+  {
+    "term": "la camiseta",
+    "def": "T-shirt",
+    "audio": "sp002533.mp3"
+  },
+  {
+    "term": "los pantalones cortos",
+    "def": "shorts",
+    "audio": "sp003415.mp3"
+  },
+  {
+    "term": "las sandalias",
+    "def": "sandals",
+    "audio": "sp002541.mp3"
+  },
+  {
+    "term": "el traje de baño",
+    "def": "swimming suit",
+    "audio": "sp002529.mp3"
+  },
+  {
+    "term": "el otoño",
+    "def": "fall",
+    "audio": "sp001862.mp3"
+  },
+  {
+    "term": "la chaqueta",
+    "def": "jacket",
+    "audio": "sp002535.mp3"
+  },
+  {
+    "term": "la camisa",
+    "def": "shirt",
+    "audio": "sp002548.mp3"
+  },
+  {
+    "term": "los bluyines",
+    "def": "blue jeans",
+    "audio": "sp025400/sp025469.mp3"
+  },
+  {
+    "term": "los tenis",
+    "def": "tennis shoes",
+    "audio": "sp012700.mp3"
+  },
+  {
+    "term": "el cinturón",
+    "def": "belt",
+    "audio": "sp002525.mp3"
+  }
+]

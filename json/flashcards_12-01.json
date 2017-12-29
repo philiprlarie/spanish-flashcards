@@ -1,0 +1,192 @@
+[
+  {
+    "term": "el árbol",
+    "def": "tree",
+    "audio": "sp001763.mp3"
+  },
+  {
+    "term": "la arena",
+    "def": "sand",
+    "audio": "sp008410.mp3"
+  },
+  {
+    "term": "el cactus",
+    "def": "cactus",
+    "audio": "sp013690.mp3"
+  },
+  {
+    "term": "la cascada",
+    "def": "cascade, small waterfall",
+    "audio": "sp013691.mp3"
+  },
+  {
+    "term": "la catarata",
+    "def": "large waterfall",
+    "audio": "sp002840.mp3"
+  },
+  {
+    "term": "el cielo",
+    "def": "sky",
+    "audio": "sp006470.mp3"
+  },
+  {
+    "term": "la contaminación",
+    "def": "contamination, pollution",
+    "audio": "sp004001.mp3"
+  },
+  {
+    "term": "la deforestación",
+    "def": "deforestation",
+    "audio": "sp013681.mp3"
+  },
+  {
+    "term": "los desechos industriales",
+    "def": "industrial waste",
+    "audio": "sp013682.mp3"
+  },
+  {
+    "term": "la bahía",
+    "def": "bay",
+    "audio": "sp000135.mp3"
+  },
+  {
+    "term": "el bosque",
+    "def": "forest",
+    "audio": "sp002835.mp3"
+  },
+  {
+    "term": "la colina",
+    "def": "hill",
+    "audio": "sp002841.mp3"
+  },
+  {
+    "term": "la costa",
+    "def": "coast",
+    "audio": "sp002617.mp3"
+  },
+  {
+    "term": "el desierto",
+    "def": "desert",
+    "audio": "sp000138.mp3"
+  },
+  {
+    "term": "la isla",
+    "def": "island",
+    "audio": "sp007796.mp3"
+  },
+  {
+    "term": "el llano",
+    "def": "plains",
+    "audio": "sp013688.mp3"
+  },
+  {
+    "term": "el mar",
+    "def": "sea",
+    "audio": "sp002618.mp3"
+  },
+  {
+    "term": "destruir",
+    "def": "to destroy",
+    "audio": "sp002884.mp3"
+  },
+  {
+    "term": "preservar",
+    "def": "to preserve",
+    "audio": "sp013687.mp3"
+  },
+  {
+    "term": "la ecología",
+    "def": "ecology",
+    "audio": "sp002877.mp3"
+  },
+  {
+    "term": "el esmog",
+    "def": "smog",
+    "audio": "sp013683.mp3"
+  },
+  {
+    "term": "la naturaleza",
+    "def": "nature",
+    "audio": "sp003526.mp3"
+  },
+  {
+    "term": "la nube",
+    "def": "cloud",
+    "audio": "sp013729.mp3"
+  },
+  {
+    "term": "la ola",
+    "def": "wave",
+    "audio": "sp003198.mp3"
+  },
+  {
+    "term": "la palmera",
+    "def": "palm tree",
+    "audio": "sp013730.mp3"
+  },
+  {
+    "term": "el pasto",
+    "def": "grass, pasture",
+    "audio": "sp009550.mp3"
+  },
+  {
+    "term": "el petróleo",
+    "def": "oil",
+    "audio": "sp003530.mp3"
+  },
+  {
+    "term": "el reciclaje",
+    "def": "recycling",
+    "audio": "sp013042.mp3"
+  },
+  {
+    "term": "los recursos naturales",
+    "def": "natural resources",
+    "audio": "sp004022.mp3"
+  },
+  {
+    "term": "el volcán",
+    "def": "volcano",
+    "audio": "sp000142.mp3"
+  },
+  {
+    "term": "la montaña",
+    "def": "mountain",
+    "audio": "sp001792.mp3"
+  },
+  {
+    "term": "la pampa",
+    "def": "grasslands",
+    "audio": "sp013689.mp3"
+  },
+  {
+    "term": "la península",
+    "def": "peninsula",
+    "audio": "sp007840.mp3"
+  },
+  {
+    "term": "el río",
+    "def": "river",
+    "audio": "sp002621.mp3"
+  },
+  {
+    "term": "la selva",
+    "def": "jungle",
+    "audio": "sp002854.mp3"
+  },
+  {
+    "term": "la Tierra",
+    "def": "Earth",
+    "audio": "sp002855.mp3"
+  },
+  {
+    "term": "el valle",
+    "def": "valley",
+    "audio": "sp012594.mp3"
+  },
+  {
+    "term": "proteger",
+    "def": "to protect",
+    "audio": "sp002908.mp3"
+  }
+]

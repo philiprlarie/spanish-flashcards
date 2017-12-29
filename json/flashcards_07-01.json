@@ -1,0 +1,167 @@
+[
+  {
+    "term": "el durazno",
+    "def": "peach",
+    "audio": "sp006167.mp3"
+  },
+  {
+    "term": "la fresa",
+    "def": "strawberry",
+    "audio": "sp005158.mp3"
+  },
+  {
+    "term": "la manzana",
+    "def": "apple",
+    "audio": "sp000035.mp3"
+  },
+  {
+    "term": "el melón",
+    "def": "melon",
+    "audio": "sp005148.mp3"
+  },
+  {
+    "term": "la naranja",
+    "def": "orange",
+    "audio": "sp000036.mp3"
+  },
+  {
+    "term": "el brócoli",
+    "def": "broccoli",
+    "audio": "sp003810.mp3"
+  },
+  {
+    "term": "la cebolla",
+    "def": "onion",
+    "audio": "sp003811.mp3"
+  },
+  {
+    "term": "la lechuga",
+    "def": "lettuce",
+    "audio": "sp000034.mp3"
+  },
+  {
+    "term": "el maíz",
+    "def": "corn",
+    "audio": "sp003087.mp3"
+  },
+  {
+    "term": "la catsup",
+    "def": "ketchup",
+    "audio": "sp013494.mp3"
+  },
+  {
+    "term": "el cereal",
+    "def": "cereal",
+    "audio": "sp004819.mp3"
+  },
+  {
+    "term": "la crema",
+    "def": "cream",
+    "audio": "sp001923.mp3"
+  },
+  {
+    "term": "el huevo",
+    "def": "egg",
+    "audio": "sp004319.mp3"
+  },
+  {
+    "term": "el jamón",
+    "def": "ham",
+    "audio": "sp000023.mp3"
+  },
+  {
+    "term": "la leche",
+    "def": "milk",
+    "audio": "sp000054.mp3"
+  },
+  {
+    "term": "la mantequilla",
+    "def": "butter",
+    "audio": "sp000011.mp3"
+  },
+  {
+    "term": "hornear",
+    "def": "to bake",
+    "audio": "sp005206.mp3"
+  },
+  {
+    "term": "la rebanada",
+    "def": "slice",
+    "audio": "sp013498.mp3"
+  },
+  {
+    "term": "la piña",
+    "def": "pineapple",
+    "audio": "sp003805.mp3"
+  },
+  {
+    "term": "el plátano",
+    "def": "banana",
+    "audio": "sp003806.mp3"
+  },
+  {
+    "term": "la sandía",
+    "def": "watermelon",
+    "audio": "sp003807.mp3"
+  },
+  {
+    "term": "las uvas",
+    "def": "grapes",
+    "audio": "sp006173.mp3"
+  },
+  {
+    "term": "la papa",
+    "def": "potato",
+    "audio": "sp003088.mp3"
+  },
+  {
+    "term": "el pepino",
+    "def": "cucumber",
+    "audio": "sp003813.mp3"
+  },
+  {
+    "term": "el tomate",
+    "def": "tomato",
+    "audio": "sp000038.mp3"
+  },
+  {
+    "term": "la zanahoria",
+    "def": "carrot",
+    "audio": "sp003815.mp3"
+  },
+  {
+    "term": "la mayonesa",
+    "def": "mayonnaise",
+    "audio": "sp001444.mp3"
+  },
+  {
+    "term": "la mermelada",
+    "def": "jam",
+    "audio": "sp006309.mp3"
+  },
+  {
+    "term": "la mostaza",
+    "def": "mustard",
+    "audio": "sp013495.mp3"
+  },
+  {
+    "term": "el pan",
+    "def": "bread",
+    "audio": "sp004844.mp3"
+  },
+  {
+    "term": "el pepinillo",
+    "def": "pickle",
+    "audio": "sp013534.mp3"
+  },
+  {
+    "term": "el queso",
+    "def": "cheese",
+    "audio": "sp000029.mp3"
+  },
+  {
+    "term": "el yogur",
+    "def": "yogurt",
+    "audio": "sp005152.mp3"
+  }
+]

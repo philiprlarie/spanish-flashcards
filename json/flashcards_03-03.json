@@ -1,0 +1,177 @@
+[
+  {
+    "term": "ahora",
+    "def": "now",
+    "audio": "sp004351.mp3"
+  },
+  {
+    "term": "el Año Nuevo",
+    "def": "New Year",
+    "audio": "sp013303.mp3"
+  },
+  {
+    "term": "el día feriado",
+    "def": "holiday",
+    "audio": "sp002583.mp3"
+  },
+  {
+    "term": "el cumpleaños",
+    "def": "birthday",
+    "audio": "sp001775.mp3"
+  },
+  {
+    "term": "la fecha",
+    "def": "date",
+    "audio": "sp001183.mp3"
+  },
+  {
+    "term": "hoy",
+    "def": "today",
+    "audio": "sp001224.mp3"
+  },
+  {
+    "term": "mañana",
+    "def": "tomorrow",
+    "audio": "sp001225.mp3"
+  },
+  {
+    "term": "por la mañana",
+    "def": "in the morning",
+    "audio": "sp001069.mp3"
+  },
+  {
+    "term": "por la tarde",
+    "def": "in the afternoon",
+    "audio": "sp001071.mp3"
+  },
+  {
+    "term": "por la noche",
+    "def": "in the evening",
+    "audio": "sp001070.mp3"
+  },
+  {
+    "term": "Navidad",
+    "def": "Christmas",
+    "audio": "sp019500/sp019501.mp3"
+  },
+  {
+    "term": "terminar",
+    "def": "to end",
+    "audio": "sp001853.mp3"
+  },
+  {
+    "term": "todos los días",
+    "def": "every day",
+    "audio": "sp001074.mp3"
+  },
+  {
+    "term": "¿Qué hora es?",
+    "def": "What time is it?",
+    "audio": "sp002175.mp3"
+  },
+  {
+    "term": "Son las tres.",
+    "def": "It's three o'clock.",
+    "audio": "sp025700/sp025761.mp3"
+  },
+  {
+    "term": "Es la una.",
+    "def": "It's one.",
+    "audio": "sp010919.mp3"
+  },
+  {
+    "term": "marzo",
+    "def": "March",
+    "audio": "sp001236.mp3"
+  },
+  {
+    "term": "febrero",
+    "def": "February",
+    "audio": "sp001235.mp3"
+  },
+  {
+    "term": "enero",
+    "def": "January",
+    "audio": "sp001234.mp3"
+  },
+  {
+    "term": "lunes",
+    "def": "Monday",
+    "audio": "sp004252.mp3"
+  },
+  {
+    "term": "martes",
+    "def": "Tuesday",
+    "audio": "sp004251.mp3"
+  },
+  {
+    "term": "miércoles",
+    "def": "Wednesday",
+    "audio": "sp004250.mp3"
+  },
+  {
+    "term": "jueves",
+    "def": "Thursday",
+    "audio": "sp004254.mp3"
+  },
+  {
+    "term": "viernes",
+    "def": "Friday",
+    "audio": "sp004243.mp3"
+  },
+  {
+    "term": "sábado",
+    "def": "Saturday",
+    "audio": "sp004260.mp3"
+  },
+  {
+    "term": "domingo",
+    "def": "Sunday",
+    "audio": "sp004262.mp3"
+  },
+  {
+    "term": "abril",
+    "def": "April",
+    "audio": "sp001237.mp3"
+  },
+  {
+    "term": "mayo",
+    "def": "May",
+    "audio": "sp001238.mp3"
+  },
+  {
+    "term": "junio",
+    "def": "June",
+    "audio": "sp001239.mp3"
+  },
+  {
+    "term": "julio",
+    "def": "July",
+    "audio": "sp001240.mp3"
+  },
+  {
+    "term": "agosto",
+    "def": "August",
+    "audio": "sp001241.mp3"
+  },
+  {
+    "term": "septiembre",
+    "def": "September",
+    "audio": "sp001242.mp3"
+  },
+  {
+    "term": "octubre",
+    "def": "October",
+    "audio": "sp001243.mp3"
+  },
+  {
+    "term": "noviembre",
+    "def": "November",
+    "audio": "sp001244.mp3"
+  },
+  {
+    "term": "diciembre",
+    "def": "December",
+    "audio": "sp001245.mp3"
+  }
+]

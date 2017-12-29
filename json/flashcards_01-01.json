@@ -1,0 +1,307 @@
+[
+  {
+    "term": "Adiós.",
+    "def": "Goodbye.",
+    "audio": "sp002926.mp3"
+  },
+  {
+    "term": "Chao.",
+    "def": "Goodbye. (informal)",
+    "audio": "sp001085.mp3"
+  },
+  {
+    "term": "Hasta luego.",
+    "def": "See you later.",
+    "audio": "sp002938.mp3"
+  },
+  {
+    "term": "Hasta pronto.",
+    "def": "See you soon.",
+    "audio": "sp001086.mp3"
+  },
+  {
+    "term": "Hasta mañana.",
+    "def": "See you tomorrow.",
+    "audio": "sp006129.mp3"
+  },
+  {
+    "term": "¡Nos vemos!",
+    "def": "See you later!",
+    "audio": "sp025700/sp025757.mp3"
+  },
+  {
+    "term": "¡Que tengas un buen día!",
+    "def": "Have a nice day! (informal)",
+    "audio": "sp025400/sp025436.mp3"
+  },
+  {
+    "term": "¿Cómo te llamas?",
+    "def": "What is your name?(informal)",
+    "audio": "sp002931.mp3"
+  },
+  {
+    "term": "Me llamo...",
+    "def": "My name is ...",
+    "audio": "sp025400/sp025433.mp3"
+  },
+  {
+    "term": "Le presento a...",
+    "def": "I'd like to introduce you to ... (formal)",
+    "audio": "sp012625.mp3"
+  },
+  {
+    "term": "Te presento a...",
+    "def": "I'd like to introduce you to ... (informal)",
+    "audio": "sp025400/sp025435.mp3"
+  },
+  {
+    "term": "Encantado(a).",
+    "def": "Nice to meet you.",
+    "audio": "sp002937.mp3"
+  },
+  {
+    "term": "Mucho gusto.",
+    "def": "Nice to meet you.",
+    "audio": "sp002941.mp3"
+  },
+  {
+    "term": "¿Dónde?",
+    "def": "Where?",
+    "audio": "sp001156.mp3"
+  },
+  {
+    "term": "¿Cuándo?",
+    "def": "When?",
+    "audio": "sp001159.mp3"
+  },
+  {
+    "term": "¿Cuántos(as)?",
+    "def": "How many?",
+    "audio": "sp002607.mp3"
+  },
+  {
+    "term": "¿Qué?",
+    "def": "What?",
+    "audio": "sp001155.mp3"
+  },
+  {
+    "term": "¿Quién?",
+    "def": "Who?",
+    "audio": "sp004311.mp3"
+  },
+  {
+    "term": "¿Por qué?",
+    "def": "Why?",
+    "audio": "sp001160.mp3"
+  },
+  {
+    "term": "el reloj",
+    "def": "clock",
+    "audio": "sp000913.mp3"
+  },
+  {
+    "term": "la puerta",
+    "def": "door",
+    "audio": "sp002399.mp3"
+  },
+  {
+    "term": "la pizarra",
+    "def": "chalkboard",
+    "audio": "sp000910.mp3"
+  },
+  {
+    "term": "la bandera",
+    "def": "flag",
+    "audio": "sp012616.mp3"
+  },
+  {
+    "term": "el (la) profesor(a)",
+    "def": "professor",
+    "audio": "sp000997.mp3"
+  },
+  {
+    "term": "el papel",
+    "def": "paper",
+    "audio": "sp002117.mp3"
+  },
+  {
+    "term": "el televisor",
+    "def": "television set",
+    "audio": "sp003175.mp3"
+  },
+  {
+    "term": "el escritorio",
+    "def": "teacher's desk",
+    "audio": "sp002118.mp3"
+  },
+  {
+    "term": "la mochila",
+    "def": "backpack",
+    "audio": "sp000909.mp3"
+  },
+  {
+    "term": "el salón de clases",
+    "def": "classroom",
+    "audio": "sp007643.mp3"
+  },
+  {
+    "term": "el (la) estudiante",
+    "def": "the student",
+    "audio": "sp000902.mp3"
+  },
+  {
+    "term": "el cartel",
+    "def": "poster",
+    "audio": "sp000897.mp3"
+  },
+  {
+    "term": "el libro",
+    "def": "book",
+    "audio": "sp000906.mp3"
+  },
+  {
+    "term": "el lápiz",
+    "def": "pencil",
+    "audio": "sp000905.mp3"
+  },
+  {
+    "term": "el cuaderno",
+    "def": "notebook",
+    "audio": "sp000900.mp3"
+  },
+  {
+    "term": "el mapa",
+    "def": "map",
+    "audio": "sp000907.mp3"
+  },
+  {
+    "term": "¿De dónde eres tú?",
+    "def": "Where are you from?",
+    "audio": "sp002934.mp3"
+  },
+  {
+    "term": "la mesa",
+    "def": "table",
+    "audio": "sp000908.mp3"
+  },
+  {
+    "term": "Yo soy de…",
+    "def": "I am from…",
+    "audio": "sp025400/sp025439.mp3"
+  },
+  {
+    "term": "la computadora",
+    "def": "computer",
+    "audio": "sp000899.mp3"
+  },
+  {
+    "term": "el bolígrafo",
+    "def": "pen",
+    "audio": "sp000894.mp3"
+  },
+  {
+    "term": "el pupitre",
+    "def": "student desk",
+    "audio": "sp000912.mp3"
+  },
+  {
+    "term": "la ventana",
+    "def": "window",
+    "audio": "sp000919.mp3"
+  },
+  {
+    "term": "la silla",
+    "def": "chair",
+    "audio": "sp000916.mp3"
+  },
+  {
+    "term": "Buenos días.",
+    "def": "Good morning.",
+    "audio": "sp001080.mp3"
+  },
+  {
+    "term": "Buenas tardes.",
+    "def": "Good afternoon.",
+    "audio": "sp001081.mp3"
+  },
+  {
+    "term": "Buenas noches.",
+    "def": "Good night.",
+    "audio": "sp001082.mp3"
+  },
+  {
+    "term": "¿Cómo está (usted)?",
+    "def": "How are you? (formal)",
+    "audio": "sp002945.mp3"
+  },
+  {
+    "term": "hola",
+    "def": "hello",
+    "audio": "sp002946.mp3"
+  },
+  {
+    "term": "¿Cómo estás (tú)?",
+    "def": "How are you? (informal)",
+    "audio": "sp011900.mp3"
+  },
+  {
+    "term": "¿Qué tal?",
+    "def": "How's it going?",
+    "audio": "sp001083.mp3"
+  },
+  {
+    "term": "¿Qué hay de nuevo?",
+    "def": "What's new?",
+    "audio": "sp004265.mp3"
+  },
+  {
+    "term": "¿Qué pasa?",
+    "def": "What's going on?",
+    "audio": "sp011860.mp3"
+  },
+  {
+    "term": "bien",
+    "def": "fine",
+    "audio": "sp001056.mp3"
+  },
+  {
+    "term": "gracias",
+    "def": "thank you",
+    "audio": "sp003056.mp3"
+  },
+  {
+    "term": "mal",
+    "def": "bad",
+    "audio": "sp004363.mp3"
+  },
+  {
+    "term": "regular",
+    "def": "so-so",
+    "audio": "sp001570.mp3"
+  },
+  {
+    "term": "nada",
+    "def": "nothing",
+    "audio": "sp002625.mp3"
+  },
+  {
+    "term": "¿Y tú?",
+    "def": "And you? (informal)",
+    "audio": "sp012641.mp3"
+  },
+  {
+    "term": "¿Y usted?",
+    "def": "And you? (formal)",
+    "audio": "sp003261.mp3"
+  },
+  {
+    "term": "hay",
+    "def": "there is/there are",
+    "audio": "sp003289.mp3"
+  },
+  {
+    "term": "¿Cómo se escribe...?",
+    "def": "How do you spell...?",
+    "audio": "sp025700/sp025780.mp3"
+  }
+]

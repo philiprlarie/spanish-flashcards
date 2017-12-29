@@ -1,0 +1,37 @@
+[
+  {
+    "term": "aburrirse",
+    "def": "to become bored",
+    "audio": "sp013587.mp3"
+  },
+  {
+    "term": "alegrarse",
+    "def": "to become happy",
+    "audio": "sp004624.mp3"
+  },
+  {
+    "term": "asustarse",
+    "def": "to become frightened",
+    "audio": "sp002575.mp3"
+  },
+  {
+    "term": "enojarse",
+    "def": "to become angry",
+    "audio": "sp008348.mp3"
+  },
+  {
+    "term": "frustrarse",
+    "def": "to become frustrated",
+    "audio": "sp013588.mp3"
+  },
+  {
+    "term": "sentirse",
+    "def": "to feel",
+    "audio": "sp001958.mp3"
+  },
+  {
+    "term": "sorprenderse",
+    "def": "to be surprised",
+    "audio": "sp013589.mp3"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "term": "la jaula",
+    "def": "cage",
+    "audio": "sp013716.mp3"
+  },
+  {
+    "term": "el mono",
+    "def": "monkey",
+    "audio": "sp002896.mp3"
+  },
+  {
+    "term": "el oso",
+    "def": "bear",
+    "audio": "sp013705.mp3"
+  },
+  {
+    "term": "la oveja",
+    "def": "sheep",
+    "audio": "sp008003.mp3"
+  },
+  {
+    "term": "el pato",
+    "def": "duck",
+    "audio": "sp006192.mp3"
+  },
+  {
+    "term": "el pavo",
+    "def": "turkey",
+    "audio": "sp000026.mp3"
+  },
+  {
+    "term": "el pingüino",
+    "def": "penguin",
+    "audio": "sp013701.mp3"
+  },
+  {
+    "term": "el pollo",
+    "def": "chick",
+    "audio": "sp004849.mp3"
+  },
+  {
+    "term": "la rana",
+    "def": "frog",
+    "audio": "sp002898.mp3"
+  },
+  {
+    "term": "la serpiente",
+    "def": "snake",
+    "audio": "sp007973.mp3"
+  },
+  {
+    "term": "el tiburón",
+    "def": "shark",
+    "audio": "sp013706.mp3"
+  },
+  {
+    "term": "el tigre",
+    "def": "tiger",
+    "audio": "sp008004.mp3"
+  },
+  {
+    "term": "el toro",
+    "def": "bull",
+    "audio": "sp008005.mp3"
+  },
+  {
+    "term": "la tortuga",
+    "def": "turtle",
+    "audio": "sp002899.mp3"
+  },
+  {
+    "term": "la vaca",
+    "def": "cow",
+    "audio": "sp008006.mp3"
+  },
+  {
+    "term": "el venado",
+    "def": "deer",
+    "audio": "sp013707.mp3"
+  },
+  {
+    "term": "el zorro",
+    "def": "fox",
+    "audio": "sp013708.mp3"
+  },
+  {
+    "term": "los peces",
+    "def": "fish",
+    "audio": "sp022100/sp022127.mp3"
+  },
+  {
+    "term": "los reptiles",
+    "def": "reptiles",
+    "audio": "sp013714.mp3"
+  },
+  {
+    "term": "el macho",
+    "def": "male",
+    "audio": "sp013733.mp3"
+  },
+  {
+    "term": "el peligro (de extinción)",
+    "def": "danger (of extinction)",
+    "audio": "sp013734.mp3"
+  },
+  {
+    "term": "salvaje",
+    "def": "wild",
+    "audio": "sp019100/sp019181.mp3"
+  },
+  {
+    "term": "el águila (f.)",
+    "def": "eagle",
+    "audio": "sp025400/sp025420.mp3"
+  },
+  {
+    "term": "la ardilla",
+    "def": "squirrel",
+    "audio": "sp013694.mp3"
+  },
+  {
+    "term": "la ballena",
+    "def": "whale",
+    "audio": "sp013703.mp3"
+  },
+  {
+    "term": "la cebra",
+    "def": "zebra",
+    "audio": "sp007987.mp3"
+  },
+  {
+    "term": "el cerdo",
+    "def": "pig",
+    "audio": "sp003785.mp3"
+  },
+  {
+    "term": "el cocodrilo",
+    "def": "crocodile",
+    "audio": "sp002895.mp3"
+  },
+  {
+    "term": "el conejo",
+    "def": "rabbit",
+    "audio": "sp007991.mp3"
+  },
+  {
+    "term": "el elefante",
+    "def": "elephant",
+    "audio": "sp007992.mp3"
+  },
+  {
+    "term": "la gallina",
+    "def": "hen",
+    "audio": "sp007993.mp3"
+  },
+  {
+    "term": "el gallo",
+    "def": "rooster",
+    "audio": "sp007994.mp3"
+  },
+  {
+    "term": "el gorila",
+    "def": "gorilla",
+    "audio": "sp013709.mp3"
+  },
+  {
+    "term": "el jaguar",
+    "def": "jaguar",
+    "audio": "sp002894.mp3"
+  },
+  {
+    "term": "la jirafa",
+    "def": "giraffe",
+    "audio": "sp007999.mp3"
+  },
+  {
+    "term": "el león",
+    "def": "lion",
+    "audio": "sp008000.mp3"
+  },
+  {
+    "term": "la llama",
+    "def": "llama",
+    "audio": "sp013710.mp3"
+  },
+  {
+    "term": "el lobo",
+    "def": "wolf",
+    "audio": "sp013704.mp3"
+  },
+  {
+    "term": "los anfibios",
+    "def": "amphibians",
+    "audio": "sp013712.mp3"
+  },
+  {
+    "term": "las aves",
+    "def": "birds",
+    "audio": "sp012410.mp3"
+  },
+  {
+    "term": "los mamíferos",
+    "def": "mammals",
+    "audio": "sp013713.mp3"
+  },
+  {
+    "term": "cazar",
+    "def": "to hunt",
+    "audio": "sp006385.mp3"
+  },
+  {
+    "term": "la caza",
+    "def": "hunting",
+    "audio": "sp013715.mp3"
+  },
+  {
+    "term": "la granja",
+    "def": "farm",
+    "audio": "sp013696.mp3"
+  },
+  {
+    "term": "la hembra",
+    "def": "female",
+    "audio": "sp013732.mp3"
+  }
+]

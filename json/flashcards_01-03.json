@@ -1,0 +1,97 @@
+[
+  {
+    "term": "veintiuno",
+    "def": "21",
+    "audio": "sp000957.mp3"
+  },
+  {
+    "term": "veintidós",
+    "def": "22",
+    "audio": "sp019400/sp019483.mp3"
+  },
+  {
+    "term": "veintitrés",
+    "def": "23",
+    "audio": "sp013161.mp3"
+  },
+  {
+    "term": "veinticuatro",
+    "def": "24",
+    "audio": "sp013162.mp3"
+  },
+  {
+    "term": "veinticinco",
+    "def": "25",
+    "audio": "sp013163.mp3"
+  },
+  {
+    "term": "veintiséis",
+    "def": "26",
+    "audio": "sp013164.mp3"
+  },
+  {
+    "term": "veintisiete",
+    "def": "27",
+    "audio": "sp013165.mp3"
+  },
+  {
+    "term": "veintiocho",
+    "def": "28",
+    "audio": "sp013166.mp3"
+  },
+  {
+    "term": "veintinueve",
+    "def": "29",
+    "audio": "sp013167.mp3"
+  },
+  {
+    "term": "treinta",
+    "def": "30",
+    "audio": "sp000959.mp3"
+  },
+  {
+    "term": "treinta y uno",
+    "def": "31",
+    "audio": "sp002304.mp3"
+  },
+  {
+    "term": "cuarenta",
+    "def": "40",
+    "audio": "sp002298.mp3"
+  },
+  {
+    "term": "cincuenta",
+    "def": "50",
+    "audio": "sp002297.mp3"
+  },
+  {
+    "term": "sesenta",
+    "def": "60",
+    "audio": "sp002301.mp3"
+  },
+  {
+    "term": "setenta",
+    "def": "70",
+    "audio": "sp002302.mp3"
+  },
+  {
+    "term": "ochenta",
+    "def": "80",
+    "audio": "sp002300.mp3"
+  },
+  {
+    "term": "noventa",
+    "def": "90",
+    "audio": "sp002299.mp3"
+  },
+  {
+    "term": "cien",
+    "def": "100",
+    "audio": "sp002454.mp3"
+  },
+  {
+    "term": "ciento uno",
+    "def": "101",
+    "audio": "sp009086.mp3"
+  }
+]

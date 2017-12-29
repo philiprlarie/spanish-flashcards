@@ -1,0 +1,237 @@
+[
+  {
+    "term": "Las materias académicas",
+    "def": "Academic subjects",
+    "audio": "sp003535.mp3"
+  },
+  {
+    "term": "el álgebra",
+    "def": "algebra",
+    "audio": "sp012654.mp3"
+  },
+  {
+    "term": "el arte",
+    "def": "art",
+    "audio": "sp004084.mp3"
+  },
+  {
+    "term": "el cálculo",
+    "def": "calculus",
+    "audio": "sp005890.mp3"
+  },
+  {
+    "term": "la criminología",
+    "def": "criminology",
+    "audio": "sp012648.mp3"
+  },
+  {
+    "term": "la educación física",
+    "def": "physical education",
+    "audio": "sp006724.mp3"
+  },
+  {
+    "term": "la expresión oral",
+    "def": "speech",
+    "audio": "sp012649.mp3"
+  },
+  {
+    "term": "la filosofía",
+    "def": "philosophy",
+    "audio": "sp012651.mp3"
+  },
+  {
+    "term": "la geografía",
+    "def": "geography",
+    "audio": "sp002154.mp3"
+  },
+  {
+    "term": "la informática",
+    "def": "computer science",
+    "audio": "sp006725.mp3"
+  },
+  {
+    "term": "la ingeniería",
+    "def": "engineering",
+    "audio": "sp002132.mp3"
+  },
+  {
+    "term": "la literatura",
+    "def": "literature",
+    "audio": "sp002157.mp3"
+  },
+  {
+    "term": "las matemáticas",
+    "def": "mathematics",
+    "audio": "sp002162.mp3"
+  },
+  {
+    "term": "la música",
+    "def": "music",
+    "audio": "sp000986.mp3"
+  },
+  {
+    "term": "los negocios",
+    "def": "business",
+    "audio": "sp008533.mp3"
+  },
+  {
+    "term": "el periodismo",
+    "def": "journalism",
+    "audio": "sp002133.mp3"
+  },
+  {
+    "term": "la redacción",
+    "def": "writing, composition",
+    "audio": "sp012650.mp3"
+  },
+  {
+    "term": "el teatro",
+    "def": "theater",
+    "audio": "sp001803.mp3"
+  },
+  {
+    "term": "Las ciencias naturales",
+    "def": "Natural science",
+    "audio": "sp012652.mp3"
+  },
+  {
+    "term": "la biología",
+    "def": "biology",
+    "audio": "sp006751.mp3"
+  },
+  {
+    "term": "las ciencias políticas",
+    "def": "political science",
+    "audio": "sp012656.mp3"
+  },
+  {
+    "term": "las ciencias sociales",
+    "def": "social studies",
+    "audio": "sp012655.mp3"
+  },
+  {
+    "term": "la física",
+    "def": "physics",
+    "audio": "sp004635.mp3"
+  },
+  {
+    "term": "la economía",
+    "def": "economics",
+    "audio": "sp014513.mp3"
+  },
+  {
+    "term": "la historia",
+    "def": "history",
+    "audio": "sp002155.mp3"
+  },
+  {
+    "term": "la psicología",
+    "def": "psychology",
+    "audio": "sp004628.mp3"
+  },
+  {
+    "term": "la química",
+    "def": "chemistry",
+    "audio": "sp004627.mp3"
+  },
+  {
+    "term": "Las lenguas",
+    "def": "Languages",
+    "audio": "sp012653.mp3"
+  },
+  {
+    "term": "el alemán",
+    "def": "German",
+    "audio": "sp002137.mp3"
+  },
+  {
+    "term": "el español",
+    "def": "Spanish",
+    "audio": "sp002141.mp3"
+  },
+  {
+    "term": "el francés",
+    "def": "French",
+    "audio": "sp004302.mp3"
+  },
+  {
+    "term": "el inglés",
+    "def": "English",
+    "audio": "sp000985.mp3"
+  },
+  {
+    "term": "el italiano",
+    "def": "Italian",
+    "audio": "sp002145.mp3"
+  },
+  {
+    "term": "la nota",
+    "def": "grade",
+    "audio": "sp001540.mp3"
+  },
+  {
+    "term": "el semestre",
+    "def": "semester",
+    "audio": "sp001003.mp3"
+  },
+  {
+    "term": "la tarea",
+    "def": "homework",
+    "audio": "sp002135.mp3"
+  },
+  {
+    "term": "el trimestre",
+    "def": "quarter",
+    "audio": "sp006758.mp3"
+  },
+  {
+    "term": "el/la compañero(a) de clase",
+    "def": "classmate",
+    "audio": "sp002110.mp3"
+  },
+  {
+    "term": "la residencia estudiantil",
+    "def": "residence hall",
+    "audio": "sp000999.mp3"
+  },
+  {
+    "term": "la librería",
+    "def": "bookstore",
+    "audio": "sp002156.mp3"
+  },
+  {
+    "term": "la biblioteca",
+    "def": "library",
+    "audio": "sp000965.mp3"
+  },
+  {
+    "term": "el centro estudiantil",
+    "def": "student center",
+    "audio": "sp002139.mp3"
+  },
+  {
+    "term": "la cafetería",
+    "def": "cafeteria",
+    "audio": "sp002149.mp3"
+  },
+  {
+    "term": "el laboratorio",
+    "def": "laboratory",
+    "audio": "sp004915.mp3"
+  },
+  {
+    "term": "el auditorio",
+    "def": "auditorium",
+    "audio": "sp013914.mp3"
+  },
+  {
+    "term": "el gimnasio",
+    "def": "gymnasium",
+    "audio": "sp000982.mp3"
+  },
+  {
+    "term": "el estadio",
+    "def": "stadium",
+    "audio": "sp006344.mp3"
+  }
+]

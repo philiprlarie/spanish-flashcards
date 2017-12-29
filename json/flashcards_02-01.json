@@ -1,0 +1,147 @@
+[
+  {
+    "term": "los parientes",
+    "def": "relatives",
+    "audio": "sp004665.mp3"
+  },
+  {
+    "term": "el (la) esposo(a)",
+    "def": "spouse",
+    "audio": "sp025400/sp025449.mp3"
+  },
+  {
+    "term": "el (la) hijo(a)",
+    "def": "son / daughter",
+    "audio": "sp025400/sp025451.mp3"
+  },
+  {
+    "term": "el (la) nieto(a)",
+    "def": "grandson / granddaughter",
+    "audio": "sp004522.mp3"
+  },
+  {
+    "term": "el (la) sobrino(a)",
+    "def": "nephew / niece",
+    "audio": "sp004334.mp3"
+  },
+  {
+    "term": "hermanastro(a)",
+    "def": "stepbrother / stepsister",
+    "audio": "sp012662.mp3"
+  },
+  {
+    "term": "la madrastra",
+    "def": "stepmother",
+    "audio": "sp006111.mp3"
+  },
+  {
+    "term": "el padrastro",
+    "def": "stepfather",
+    "audio": "sp006112.mp3"
+  },
+  {
+    "term": "el (la) medio(a) hermano(a)",
+    "def": "half brother / half sister",
+    "audio": "sp000201.mp3"
+  },
+  {
+    "term": "el (la) suegro(a)",
+    "def": "father-in-law / mother-in-law",
+    "audio": "sp004333.mp3"
+  },
+  {
+    "term": "(mejor) amigo(a)",
+    "def": "(best) friend",
+    "audio": "sp025700/sp025781.mp3"
+  },
+  {
+    "term": "¿Cómo se llama...?",
+    "def": "What is the name of ... ?",
+    "audio": "sp025700/sp025755.mp3"
+  },
+  {
+    "term": "la mascota",
+    "def": "pet",
+    "audio": "sp012671.mp3"
+  },
+  {
+    "term": "el (la) novio(a)",
+    "def": "boyfriend / girlfriend",
+    "audio": "sp002111.mp3"
+  },
+  {
+    "term": "el (la) medio(a) hermano(a)",
+    "def": "half brother / half sister",
+    "audio": "sp000201.mp3"
+  },
+  {
+    "term": "el (la) amigo(a)",
+    "def": "friend",
+    "audio": "sp001252.mp3"
+  },
+  {
+    "term": "¿Cómo se llama...?",
+    "def": "What is the name of ... ?",
+    "audio": "sp025700/sp025755.mp3"
+  },
+  {
+    "term": "el (la) abuelo(a)",
+    "def": "grandfather / grandmother",
+    "audio": "sp004352.mp3"
+  },
+  {
+    "term": "la madre (mamá)",
+    "def": "mother",
+    "audio": "sp002201.mp3"
+  },
+  {
+    "term": "el padre (papá)",
+    "def": "father",
+    "audio": "sp002196.mp3"
+  },
+  {
+    "term": "el (la) tío(a)",
+    "def": "uncle / aunt",
+    "audio": "sp025400/sp025456.mp3"
+  },
+  {
+    "term": "el (la) hermano(a)",
+    "def": "brother / sister",
+    "audio": "sp004341.mp3"
+  },
+  {
+    "term": "el (la) primo(a)",
+    "def": "cousin",
+    "audio": "sp004335.mp3"
+  },
+  {
+    "term": "el caballo",
+    "def": "horse",
+    "audio": "sp004424.mp3"
+  },
+  {
+    "term": "el (la) gato(a)",
+    "def": "cat",
+    "audio": "sp012691.mp3"
+  },
+  {
+    "term": "el pájaro",
+    "def": "bird",
+    "audio": "sp002197.mp3"
+  },
+  {
+    "term": "el (la) perro(a)",
+    "def": "dog",
+    "audio": "sp012692.mp3"
+  },
+  {
+    "term": "el pez",
+    "def": "fish",
+    "audio": "sp002199.mp3"
+  },
+  {
+    "term": "el ratón",
+    "def": "mouse",
+    "audio": "sp007258.mp3"
+  }
+]

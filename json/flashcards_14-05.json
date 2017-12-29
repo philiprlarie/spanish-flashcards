@@ -1,0 +1,307 @@
+[
+  {
+    "term": "argentino(a)",
+    "def": "Argentine",
+    "audio": "sp002252.mp3"
+  },
+  {
+    "term": "boliviano(a)",
+    "def": "Bolivian",
+    "audio": "sp002253.mp3"
+  },
+  {
+    "term": "chileno(a)",
+    "def": "Chilean",
+    "audio": "sp002256.mp3"
+  },
+  {
+    "term": "colombiano(a)",
+    "def": "Colombian",
+    "audio": "sp002258.mp3"
+  },
+  {
+    "term": "costarricense",
+    "def": "Costa Rican",
+    "audio": "sp002260.mp3"
+  },
+  {
+    "term": "cubano(a)",
+    "def": "Cuban",
+    "audio": "sp002261.mp3"
+  },
+  {
+    "term": "dominicano(a)",
+    "def": "Dominican",
+    "audio": "sp002262.mp3"
+  },
+  {
+    "term": "ecuatoguineano(a)",
+    "def": "Ecuatorial Guinean",
+    "audio": "sp013877.mp3"
+  },
+  {
+    "term": "ecuatoriano(a)",
+    "def": "Ecuadorian",
+    "audio": "sp002284.mp3"
+  },
+  {
+    "term": "español(a)",
+    "def": "Spanish",
+    "audio": "sp016200.mp3"
+  },
+  {
+    "term": "guatemalteco(a)",
+    "def": "Guatemalan",
+    "audio": "sp002267.mp3"
+  },
+  {
+    "term": "la beca",
+    "def": "scholarship",
+    "audio": "sp000269.mp3"
+  },
+  {
+    "term": "el (la) ciudadano(a)",
+    "def": "citizen",
+    "audio": "sp013860.mp3"
+  },
+  {
+    "term": "los derechos humanos",
+    "def": "human rights",
+    "audio": "sp013824.mp3"
+  },
+  {
+    "term": "el desempleo",
+    "def": "unemployment",
+    "audio": "sp009335.mp3"
+  },
+  {
+    "term": "la dictadura",
+    "def": "dictatorship",
+    "audio": "sp003925.mp3"
+  },
+  {
+    "term": "la emigración",
+    "def": "emigration",
+    "audio": "sp003747.mp3"
+  },
+  {
+    "term": "la globalización",
+    "def": "globalization",
+    "audio": "sp009671.mp3"
+  },
+  {
+    "term": "el gobierno",
+    "def": "government",
+    "audio": "sp008187.mp3"
+  },
+  {
+    "term": "la guerra",
+    "def": "war",
+    "audio": "sp008145.mp3"
+  },
+  {
+    "term": "el idioma",
+    "def": "language",
+    "audio": "sp004278.mp3"
+  },
+  {
+    "term": "la inmigración",
+    "def": "immigration",
+    "audio": "sp003753.mp3"
+  },
+  {
+    "term": "emigrar",
+    "def": "emigrate",
+    "audio": "sp003748.mp3"
+  },
+  {
+    "term": "inmigrar",
+    "def": "immigrate",
+    "audio": "sp000179.mp3"
+  },
+  {
+    "term": "mudarse",
+    "def": "to move (to another location)",
+    "audio": "sp001301.mp3"
+  },
+  {
+    "term": "a fin de que",
+    "def": "in order that, so that",
+    "audio": "sp002913.mp3"
+  },
+  {
+    "term": "a menos que",
+    "def": "unless",
+    "audio": "sp002914.mp3"
+  },
+  {
+    "term": "antes (de) que",
+    "def": "before",
+    "audio": "sp002920.mp3"
+  },
+  {
+    "term": "aunque",
+    "def": "although, even if",
+    "audio": "sp001855.mp3"
+  },
+  {
+    "term": "con tal (de) que",
+    "def": "provided that",
+    "audio": "sp025800/sp025803.mp3"
+  },
+  {
+    "term": "después (de) que",
+    "def": "after",
+    "audio": "sp002923.mp3"
+  },
+  {
+    "term": "en caso de que",
+    "def": "in case",
+    "audio": "sp004651.mp3"
+  },
+  {
+    "term": "el (la) inmigrante",
+    "def": "immigrant",
+    "audio": "sp006928.mp3"
+  },
+  {
+    "term": "la ley",
+    "def": "law",
+    "audio": "sp008164.mp3"
+  },
+  {
+    "term": "el organismo internacional",
+    "def": "international organization",
+    "audio": "sp025600/sp025609.mp3"
+  },
+  {
+    "term": "el país",
+    "def": "country",
+    "audio": "sp004391.mp3"
+  },
+  {
+    "term": "la paz",
+    "def": "peace",
+    "audio": "sp008180.mp3"
+  },
+  {
+    "term": "la pobreza",
+    "def": "poverty",
+    "audio": "sp013826.mp3"
+  },
+  {
+    "term": "hondureño(a)",
+    "def": "Honduran",
+    "audio": "sp002269.mp3"
+  },
+  {
+    "term": "mexicano(a)",
+    "def": "Mexican",
+    "audio": "sp002273.mp3"
+  },
+  {
+    "term": "nicaragüense",
+    "def": "Nicaraguan",
+    "audio": "sp002274.mp3"
+  },
+  {
+    "term": "panameño(a)",
+    "def": "Panamanian",
+    "audio": "sp002276.mp3"
+  },
+  {
+    "term": "paraguayo(a)",
+    "def": "Paraguayan",
+    "audio": "sp002277.mp3"
+  },
+  {
+    "term": "peruano(a)",
+    "def": "Peruvian",
+    "audio": "sp002278.mp3"
+  },
+  {
+    "term": "puertorriqueño(a)",
+    "def": "Puerto Rican",
+    "audio": "sp002279.mp3"
+  },
+  {
+    "term": "salvadoreño(a)",
+    "def": "Salvadoran",
+    "audio": "sp002281.mp3"
+  },
+  {
+    "term": "uruguayo(a)",
+    "def": "Uruguayan",
+    "audio": "sp002282.mp3"
+  },
+  {
+    "term": "venezolano(a)",
+    "def": "Venezuelan",
+    "audio": "sp002283.mp3"
+  },
+  {
+    "term": "el (la) refugiado(a)",
+    "def": "refugee",
+    "audio": "sp013862.mp3"
+  },
+  {
+    "term": "la riqueza",
+    "def": "wealth",
+    "audio": "sp013828.mp3"
+  },
+  {
+    "term": "el tratado de comercio",
+    "def": "trade agreement",
+    "audio": "sp013829.mp3"
+  },
+  {
+    "term": "votar",
+    "def": "to vote",
+    "audio": "sp008186.mp3"
+  },
+  {
+    "term": "en cuanto",
+    "def": "as soon as",
+    "audio": "sp002922.mp3"
+  },
+  {
+    "term": "hasta que",
+    "def": "until",
+    "audio": "sp002924.mp3"
+  },
+  {
+    "term": "para que",
+    "def": "in order that, so that",
+    "audio": "sp002917.mp3"
+  },
+  {
+    "term": "siempre y cuando",
+    "def": "as long as",
+    "audio": "sp004038.mp3"
+  },
+  {
+    "term": "sin que",
+    "def": "without",
+    "audio": "sp002918.mp3"
+  },
+  {
+    "term": "tan pronto (como)",
+    "def": "as soon as",
+    "audio": "sp023800/sp023817.mp3"
+  },
+  {
+    "term": "(a)donde",
+    "def": "where, wherever",
+    "audio": "sp025800/sp025801.mp3"
+  },
+  {
+    "term": "mientras (que)",
+    "def": "as long as; provided that",
+    "audio": "sp025800/sp025802.mp3"
+  },
+  {
+    "term": "cuando",
+    "def": "when",
+    "audio": "sp002921.mp3"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "term": "el baño",
+    "def": "bathroom",
+    "audio": "sp001173.mp3"
+  },
+  {
+    "term": "la cochera",
+    "def": "garage",
+    "audio": "sp025400/sp025497.mp3"
+  },
+  {
+    "term": "la cocina",
+    "def": "kitchen",
+    "audio": "sp000367.mp3"
+  },
+  {
+    "term": "el comedor",
+    "def": "dining room",
+    "audio": "sp002380.mp3"
+  },
+  {
+    "term": "la alfombra",
+    "def": "carpet",
+    "audio": "sp002389.mp3"
+  },
+  {
+    "term": "el armario",
+    "def": "closet, armoire",
+    "audio": "sp002379.mp3"
+  },
+  {
+    "term": "la bañera",
+    "def": "bathtub",
+    "audio": "sp002391.mp3"
+  },
+  {
+    "term": "la cafetera",
+    "def": "coffee maker",
+    "audio": "sp004493.mp3"
+  },
+  {
+    "term": "la cama",
+    "def": "bed",
+    "audio": "sp001175.mp3"
+  },
+  {
+    "term": "las cortinas",
+    "def": "curtains",
+    "audio": "sp008634.mp3"
+  },
+  {
+    "term": "el cuadro",
+    "def": "painting, picture",
+    "audio": "sp006987.mp3"
+  },
+  {
+    "term": "la ducha",
+    "def": "shower",
+    "audio": "sp002393.mp3"
+  },
+  {
+    "term": "el espejo",
+    "def": "mirror",
+    "audio": "sp002418.mp3"
+  },
+  {
+    "term": "la estufa",
+    "def": "stove",
+    "audio": "sp002394.mp3"
+  },
+  {
+    "term": "la flor",
+    "def": "flower",
+    "audio": "sp002722.mp3"
+  },
+  {
+    "term": "el fregadero",
+    "def": "kitchen sink",
+    "audio": "sp004487.mp3"
+  },
+  {
+    "term": "el horno",
+    "def": "oven",
+    "audio": "sp006008.mp3"
+  },
+  {
+    "term": "cerrar (ie)",
+    "def": "to close",
+    "audio": "sp025400/sp025498.mp3"
+  },
+  {
+    "term": "comenzar (ie) (a)",
+    "def": "to begin (to do something)",
+    "audio": "sp025400/sp025499.mp3"
+  },
+  {
+    "term": "competir (i)",
+    "def": "to compete",
+    "audio": "sp025500/sp025500.mp3"
+  },
+  {
+    "term": "empezar (ie) (a)",
+    "def": "to begin (to do something)",
+    "audio": "sp025500/sp025501.mp3"
+  },
+  {
+    "term": "encender (ie)",
+    "def": "to turn on",
+    "audio": "sp001823.mp3"
+  },
+  {
+    "term": "entender (ie)",
+    "def": "to understand",
+    "audio": "sp002425.mp3"
+  },
+  {
+    "term": "mentir (ie)",
+    "def": "to lie",
+    "audio": "sp025500/sp025502.mp3"
+  },
+  {
+    "term": "nevar (ie)",
+    "def": "to snow",
+    "audio": "sp025500/sp025503.mp3"
+  },
+  {
+    "term": "el apartamento",
+    "def": "apartment",
+    "audio": "sp000963.mp3"
+  },
+  {
+    "term": "la dirección",
+    "def": "address",
+    "audio": "sp000974.mp3"
+  },
+  {
+    "term": "la habitación",
+    "def": "room",
+    "audio": "sp002404.mp3"
+  },
+  {
+    "term": "¿adónde?",
+    "def": "to where?",
+    "audio": "sp001157.mp3"
+  },
+  {
+    "term": "¿cómo?",
+    "def": "how?",
+    "audio": "sp001162.mp3"
+  },
+  {
+    "term": "¿cuál(es)?",
+    "def": "which?",
+    "audio": "sp002605.mp3"
+  },
+  {
+    "term": "¿cuándo?",
+    "def": "when?",
+    "audio": "sp001159.mp3"
+  },
+  {
+    "term": "¿cuánto(a)?",
+    "def": "how much?",
+    "audio": "sp002606.mp3"
+  },
+  {
+    "term": "¿cuántos(as)?",
+    "def": "how many?",
+    "audio": "sp002607.mp3"
+  },
+  {
+    "term": "el dormitorio",
+    "def": "bedroom",
+    "audio": "sp002383.mp3"
+  },
+  {
+    "term": "el jardín",
+    "def": "garden",
+    "audio": "sp001264.mp3"
+  },
+  {
+    "term": "el patio",
+    "def": "patio",
+    "audio": "sp007284.mp3"
+  },
+  {
+    "term": "la sala",
+    "def": "living room",
+    "audio": "sp002400.mp3"
+  },
+  {
+    "term": "el (horno de) microondas",
+    "def": "microwave (oven)",
+    "audio": "sp012502.mp3"
+  },
+  {
+    "term": "el inodoro",
+    "def": "toilet",
+    "audio": "sp002405.mp3"
+  },
+  {
+    "term": "la lámpara",
+    "def": "lamp",
+    "audio": "sp002395.mp3"
+  },
+  {
+    "term": "el lavabo",
+    "def": "bathroom",
+    "audio": "sp002406.mp3"
+  },
+  {
+    "term": "la lavadora",
+    "def": "washer",
+    "audio": "sp002396.mp3"
+  },
+  {
+    "term": "el lavaplatos",
+    "def": "dishwasher",
+    "audio": "sp002386.mp3"
+  },
+  {
+    "term": "la mesita",
+    "def": "coffee table",
+    "audio": "sp002397.mp3"
+  },
+  {
+    "term": "las plantas",
+    "def": "plants",
+    "audio": "sp012729.mp3"
+  },
+  {
+    "term": "el refrigerador",
+    "def": "refrigerator",
+    "audio": "sp002421.mp3"
+  },
+  {
+    "term": "la secadora",
+    "def": "dryer",
+    "audio": "sp002401.mp3"
+  },
+  {
+    "term": "el sillón",
+    "def": "armchair",
+    "audio": "sp002387.mp3"
+  },
+  {
+    "term": "el sofá",
+    "def": "couch",
+    "audio": "sp002388.mp3"
+  },
+  {
+    "term": "pedir (i)",
+    "def": "to ask for",
+    "audio": "sp025500/sp025504.mp3"
+  },
+  {
+    "term": "pensar (ie)",
+    "def": "to think",
+    "audio": "sp025300/sp025354.mp3"
+  },
+  {
+    "term": "perder (ie)",
+    "def": "to lose",
+    "audio": "sp003134.mp3"
+  },
+  {
+    "term": "preferir (ie)",
+    "def": "to prefer",
+    "audio": "sp025500/sp025505.mp3"
+  },
+  {
+    "term": "reír (i)",
+    "def": "to laugh",
+    "audio": "sp025500/sp025506.mp3"
+  },
+  {
+    "term": "repetir (i)",
+    "def": "to repeat",
+    "audio": "sp025500/sp025507.mp3"
+  },
+  {
+    "term": "querer (ie)",
+    "def": "to want",
+    "audio": "sp013333.mp3"
+  },
+  {
+    "term": "servir (i)",
+    "def": "to serve",
+    "audio": "sp025500/sp025508.mp3"
+  },
+  {
+    "term": "sonreír (i)",
+    "def": "to smile",
+    "audio": "sp025500/sp025509.mp3"
+  },
+  {
+    "term": "el mueble",
+    "def": "furniture",
+    "audio": "sp006013.mp3"
+  },
+  {
+    "term": "la planta baja",
+    "def": "ground",
+    "audio": "sp001274.mp3"
+  },
+  {
+    "term": "el (primer) piso",
+    "def": "(first) floor",
+    "audio": "sp025500/sp025510.mp3"
+  },
+  {
+    "term": "¿de dónde?",
+    "def": "from where?",
+    "audio": "sp001158.mp3"
+  },
+  {
+    "term": "¿dónde?",
+    "def": "where?",
+    "audio": "sp001156.mp3"
+  },
+  {
+    "term": "¿por qué?",
+    "def": "why?",
+    "audio": "sp001160.mp3"
+  },
+  {
+    "term": "¿qué?",
+    "def": "what?",
+    "audio": "sp001155.mp3"
+  },
+  {
+    "term": "¿quién(es)?",
+    "def": "who?",
+    "audio": "sp002609.mp3"
+  },
+  {
+    "term": "alquilar",
+    "def": "to rent",
+    "audio": "sp001203.mp3"
+  }
+]

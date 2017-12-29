@@ -1,0 +1,152 @@
+[
+  {
+    "term": "el alojamiento",
+    "def": "lodging",
+    "audio": "sp010360.mp3"
+  },
+  {
+    "term": "el ascensor",
+    "def": "elevator",
+    "audio": "sp003475.mp3"
+  },
+  {
+    "term": "el (la) botones",
+    "def": "bellhop",
+    "audio": "sp012809.mp3"
+  },
+  {
+    "term": "el (la) camarero(a)",
+    "def": "housekeeper",
+    "audio": "sp001434.mp3"
+  },
+  {
+    "term": "el centro de negocios",
+    "def": "business center",
+    "audio": "sp025300/sp025384.mp3"
+  },
+  {
+    "term": "las escaleras",
+    "def": "stairs",
+    "audio": "sp012779.mp3"
+  },
+  {
+    "term": "el (la) gerente",
+    "def": "manager",
+    "audio": "sp002783.mp3"
+  },
+  {
+    "term": "la habitación",
+    "def": "room",
+    "audio": "sp002404.mp3"
+  },
+  {
+    "term": "el (la) huésped",
+    "def": "guest",
+    "audio": "sp008617.mp3"
+  },
+  {
+    "term": "el Internet inalámbrico",
+    "def": "wireless Internet",
+    "audio": "sp025300/sp025385.mp3"
+  },
+  {
+    "term": "alojarse",
+    "def": "to lodge, to stay (in a hotel)",
+    "audio": "sp012783.mp3"
+  },
+  {
+    "term": "bajar",
+    "def": "to go down, to take something down",
+    "audio": "sp000761.mp3"
+  },
+  {
+    "term": "pagar (y marcharse)",
+    "def": "to check out",
+    "audio": "sp025300/sp025386.mp3"
+  },
+  {
+    "term": "la clase turista",
+    "def": "economy class",
+    "audio": "sp006367.mp3"
+  },
+  {
+    "term": "disponible",
+    "def": "available",
+    "audio": "sp006996.mp3"
+  },
+  {
+    "term": "doble",
+    "def": "double",
+    "audio": "sp012812.mp3"
+  },
+  {
+    "term": "la llave",
+    "def": "key",
+    "audio": "sp001187.mp3"
+  },
+  {
+    "term": "la recepción",
+    "def": "reception (desk)",
+    "audio": "sp002667.mp3"
+  },
+  {
+    "term": "el (la) recepcionista",
+    "def": "receptionist",
+    "audio": "sp002663.mp3"
+  },
+  {
+    "term": "la sala de conferencias",
+    "def": "conference center",
+    "audio": "sp002817.mp3"
+  },
+  {
+    "term": "el sauna",
+    "def": "sauna",
+    "audio": "sp012810.mp3"
+  },
+  {
+    "term": "el servicio a la habitación",
+    "def": "room service",
+    "audio": "sp017144.mp3"
+  },
+  {
+    "term": "el transporte",
+    "def": "transportation",
+    "audio": "sp012811.mp3"
+  },
+  {
+    "term": "el (la) turista",
+    "def": "tourist",
+    "audio": "sp008914.mp3"
+  },
+  {
+    "term": "quedarse",
+    "def": "to stay",
+    "audio": "sp001846.mp3"
+  },
+  {
+    "term": "registrarse",
+    "def": "to register",
+    "audio": "sp002673.mp3"
+  },
+  {
+    "term": "subir",
+    "def": "to go up, to take something up",
+    "audio": "sp003476.mp3"
+  },
+  {
+    "term": "de lujo",
+    "def": "luxurious",
+    "audio": "sp012782.mp3"
+  },
+  {
+    "term": "sencillo(a)",
+    "def": "single",
+    "audio": "sp001693.mp3"
+  },
+  {
+    "term": "triple",
+    "def": "triple",
+    "audio": "sp016014.mp3"
+  }
+]

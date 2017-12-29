@@ -1,0 +1,207 @@
+[
+  {
+    "term": "el ajedrez",
+    "def": "chess",
+    "audio": "sp000330.mp3"
+  },
+  {
+    "term": "el carrito",
+    "def": "toy car",
+    "audio": "sp013537.mp3"
+  },
+  {
+    "term": "las cartas",
+    "def": "playing cards",
+    "audio": "sp000337.mp3"
+  },
+  {
+    "term": "el chiste",
+    "def": "joke",
+    "audio": "sp013538.mp3"
+  },
+  {
+    "term": "la cometa",
+    "def": "kite",
+    "audio": "sp013539.mp3"
+  },
+  {
+    "term": "el cuento",
+    "def": "story",
+    "audio": "sp001774.mp3"
+  },
+  {
+    "term": "la cuerda",
+    "def": "(jumping) rope",
+    "audio": "sp008414.mp3"
+  },
+  {
+    "term": "las damas",
+    "def": "checkers",
+    "audio": "sp000338.mp3"
+  },
+  {
+    "term": "el dominó",
+    "def": "dominos",
+    "audio": "sp013510.mp3"
+  },
+  {
+    "term": "andar en",
+    "def": "to ride",
+    "audio": "sp025500/sp025557.mp3"
+  },
+  {
+    "term": "chatear",
+    "def": "to chat (online)",
+    "audio": "sp013771.mp3"
+  },
+  {
+    "term": "contar (ue)",
+    "def": "to tell (a story); to count",
+    "audio": "sp014082.mp3"
+  },
+  {
+    "term": "dar la vuelta",
+    "def": "to take a walk or a ride",
+    "audio": "sp014468.mp3"
+  },
+  {
+    "term": "dibujar",
+    "def": "to draw",
+    "audio": "sp002168.mp3"
+  },
+  {
+    "term": "hacer jardinería",
+    "def": "to garden",
+    "audio": "sp018632.mp3"
+  },
+  {
+    "term": "ir de paseo",
+    "def": "to go for a walk",
+    "audio": "sp013516.mp3"
+  },
+  {
+    "term": "jugar a los bolos",
+    "def": "to go bowling",
+    "audio": "sp018578.mp3"
+  },
+  {
+    "term": "el juguete",
+    "def": "toy",
+    "audio": "sp013518.mp3"
+  },
+  {
+    "term": "la niñera",
+    "def": "babysitter",
+    "audio": "sp000202.mp3"
+  },
+  {
+    "term": "las escondidas",
+    "def": "hide and seek",
+    "audio": "sp013511.mp3"
+  },
+  {
+    "term": "la historieta",
+    "def": "comic book",
+    "audio": "sp025500/sp025560.mp3"
+  },
+  {
+    "term": "el juego de mesa",
+    "def": "board game",
+    "audio": "sp013504.mp3"
+  },
+  {
+    "term": "la motocicleta",
+    "def": "motorcycle",
+    "audio": "sp004569.mp3"
+  },
+  {
+    "term": "la (el) muñeca(o)",
+    "def": "doll",
+    "audio": "sp013540.mp3"
+  },
+  {
+    "term": "el osito",
+    "def": "teddy bear",
+    "audio": "sp025500/sp025561.mp3"
+  },
+  {
+    "term": "la patineta",
+    "def": "skateboard",
+    "audio": "sp013541.mp3"
+  },
+  {
+    "term": "el videojuego",
+    "def": "video game",
+    "audio": "sp010145.mp3"
+  },
+  {
+    "term": "navegar en Internet",
+    "def": "to surf the web",
+    "audio": "sp025700/sp025772.mp3"
+  },
+  {
+    "term": "pasar tiempo",
+    "def": "to spend time",
+    "audio": "sp003325.mp3"
+  },
+  {
+    "term": "pelear",
+    "def": "to fight; to argue",
+    "audio": "sp013517.mp3"
+  },
+  {
+    "term": "portarse (bien / mal)",
+    "def": "to behave (well / badly)",
+    "audio": "sp025500/sp025563.mp3"
+  },
+  {
+    "term": "prestar",
+    "def": "to lend",
+    "audio": "sp003225.mp3"
+  },
+  {
+    "term": "salir (a + infinitive)",
+    "def": "to go out (to do something)",
+    "audio": "sp025500/sp025564.mp3"
+  },
+  {
+    "term": "saltar",
+    "def": "to jump",
+    "audio": "sp008344.mp3"
+  },
+  {
+    "term": "tejer",
+    "def": "to knit",
+    "audio": "sp012546.mp3"
+  },
+  {
+    "term": "tocar (el piano /la guitarra)",
+    "def": "to play (the piano / the guitar)",
+    "audio": "sp025500/sp025565.mp3"
+  },
+  {
+    "term": "trepar (un árbol)",
+    "def": "to climb (a tree)",
+    "audio": "sp013544.mp3"
+  },
+  {
+    "term": "volar",
+    "def": "to fly",
+    "audio": "sp003041.mp3"
+  },
+  {
+    "term": "el permiso",
+    "def": "permission",
+    "audio": "sp007293.mp3"
+  },
+  {
+    "term": "el teléfono celular",
+    "def": "cell phone",
+    "audio": "sp000917.mp3"
+  },
+  {
+    "term": "jugar a las escondidas",
+    "def": "to play hide and seek",
+    "audio": "sp025700/sp025772.mp3"
+  }
+]

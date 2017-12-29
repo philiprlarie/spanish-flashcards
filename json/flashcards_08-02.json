@@ -1,0 +1,67 @@
+[
+  {
+    "term": "nadie",
+    "def": "no one, nobody",
+    "audio": "sp002626.mp3"
+  },
+  {
+    "term": "nada",
+    "def": "nothing",
+    "audio": "sp002625.mp3"
+  },
+  {
+    "term": "nunca",
+    "def": "never",
+    "audio": "sp001338.mp3"
+  },
+  {
+    "term": "jamás",
+    "def": "never",
+    "audio": "sp012773.mp3"
+  },
+  {
+    "term": "tampoco",
+    "def": "neither, either",
+    "audio": "sp002633.mp3"
+  },
+  {
+    "term": "ningún (ninguno), ninguna",
+    "def": "none, any",
+    "audio": "sp002628.mp3"
+  },
+  {
+    "term": "ni… ni",
+    "def": "neither . . . Nor",
+    "audio": "sp002627.mp3"
+  },
+  {
+    "term": "alguien",
+    "def": "someone, somebody",
+    "audio": "sp002630.mp3"
+  },
+  {
+    "term": "algo",
+    "def": "something",
+    "audio": "sp001054.mp3"
+  },
+  {
+    "term": "siempre",
+    "def": "always",
+    "audio": "sp001343.mp3"
+  },
+  {
+    "term": "tambien",
+    "def": "also",
+    "audio": "sp002632.mp3"
+  },
+  {
+    "term": "algún (alguno), alguna",
+    "def": "some",
+    "audio": "sp002631.mp3"
+  },
+  {
+    "term": "o… o",
+    "def": "either . . . Or",
+    "audio": "sp002629.mp3"
+  }
+]

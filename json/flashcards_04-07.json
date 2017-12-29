@@ -1,0 +1,322 @@
+[
+  {
+    "term": "el aeropuerto",
+    "def": "airport",
+    "audio": "sp001915.mp3"
+  },
+  {
+    "term": "el banco",
+    "def": "bank",
+    "audio": "sp001172.mp3"
+  },
+  {
+    "term": "el bar",
+    "def": "bar",
+    "audio": "sp010002.mp3"
+  },
+  {
+    "term": "el café",
+    "def": "cafe",
+    "audio": "sp000051.mp3"
+  },
+  {
+    "term": "la calle",
+    "def": "street",
+    "audio": "sp000966.mp3"
+  },
+  {
+    "term": "el centro comercial",
+    "def": "mall, shopping center",
+    "audio": "sp012135.mp3"
+  },
+  {
+    "term": "el cine",
+    "def": "movie theater",
+    "audio": "sp003680.mp3"
+  },
+  {
+    "term": "el club",
+    "def": "club",
+    "audio": "sp004347.mp3"
+  },
+  {
+    "term": "el correo",
+    "def": "post office",
+    "audio": "sp001922.mp3"
+  },
+  {
+    "term": "la discoteca",
+    "def": "nightclub",
+    "audio": "sp004382.mp3"
+  },
+  {
+    "term": "el edificio",
+    "def": "building",
+    "audio": "sp006712.mp3"
+  },
+  {
+    "term": "la escuela",
+    "def": "school",
+    "audio": "sp004378.mp3"
+  },
+  {
+    "term": "la farmacia",
+    "def": "pharmacy",
+    "audio": "sp001929.mp3"
+  },
+  {
+    "term": "el hospital",
+    "def": "hospital",
+    "audio": "sp000984.mp3"
+  },
+  {
+    "term": "el hotel",
+    "def": "hotel",
+    "audio": "sp001186.mp3"
+  },
+  {
+    "term": "la iglesia",
+    "def": "church",
+    "audio": "sp001788.mp3"
+  },
+  {
+    "term": "almorzar (ue)",
+    "def": "to have lunch",
+    "audio": "sp025400/sp025489.mp3"
+  },
+  {
+    "term": "costar (ue)",
+    "def": "to cost",
+    "audio": "sp025400/sp025490.mp3"
+  },
+  {
+    "term": "depositar",
+    "def": "to deposit",
+    "audio": "sp004573.mp3"
+  },
+  {
+    "term": "devolver (ue)",
+    "def": "to return (something)",
+    "audio": "sp025400/sp025491.mp3"
+  },
+  {
+    "term": "dormir (ue)",
+    "def": "to sleep",
+    "audio": "sp002424.mp3"
+  },
+  {
+    "term": "encontrar (ue)",
+    "def": "to find",
+    "audio": "sp025400/sp025492.mp3"
+  },
+  {
+    "term": "estar",
+    "def": "to be",
+    "audio": "sp001023.mp3"
+  },
+  {
+    "term": "la carta",
+    "def": "letter",
+    "audio": "sp001919.mp3"
+  },
+  {
+    "term": "el dinero",
+    "def": "money",
+    "audio": "sp002124.mp3"
+  },
+  {
+    "term": "a la derecha de",
+    "def": "to the right of",
+    "audio": "sp001971.mp3"
+  },
+  {
+    "term": "al lado de",
+    "def": "beside, next to",
+    "audio": "sp001968.mp3"
+  },
+  {
+    "term": "a la izquierda de",
+    "def": "to the left of",
+    "audio": "sp001967.mp3"
+  },
+  {
+    "term": "cerca de",
+    "def": "near",
+    "audio": "sp002444.mp3"
+  },
+  {
+    "term": "debajo de",
+    "def": "under",
+    "audio": "sp001429.mp3"
+  },
+  {
+    "term": "dentro de",
+    "def": "inside",
+    "audio": "sp001426.mp3"
+  },
+  {
+    "term": "detrás de",
+    "def": "behind",
+    "audio": "sp001966.mp3"
+  },
+  {
+    "term": "el mercado",
+    "def": "market",
+    "audio": "sp001446.mp3"
+  },
+  {
+    "term": "la mezquita",
+    "def": "mosque",
+    "audio": "sp012723.mp3"
+  },
+  {
+    "term": "el museo",
+    "def": "museum",
+    "audio": "sp001192.mp3"
+  },
+  {
+    "term": "el negocio",
+    "def": "business",
+    "audio": "sp008532.mp3"
+  },
+  {
+    "term": "la oficina",
+    "def": "office",
+    "audio": "sp000990.mp3"
+  },
+  {
+    "term": "el parque",
+    "def": "park",
+    "audio": "sp000991.mp3"
+  },
+  {
+    "term": "la piscina",
+    "def": "swimming pool",
+    "audio": "sp001193.mp3"
+  },
+  {
+    "term": "la playa",
+    "def": "beach",
+    "audio": "sp001799.mp3"
+  },
+  {
+    "term": "la plaza",
+    "def": "city square",
+    "audio": "sp000311.mp3"
+  },
+  {
+    "term": "el restaurante",
+    "def": "restaurant",
+    "audio": "sp000058.mp3"
+  },
+  {
+    "term": "la sinagoga",
+    "def": "synagogue",
+    "audio": "sp001802.mp3"
+  },
+  {
+    "term": "el supermercado",
+    "def": "supermarket",
+    "audio": "sp001004.mp3"
+  },
+  {
+    "term": "el teatro",
+    "def": "theater",
+    "audio": "sp001803.mp3"
+  },
+  {
+    "term": "el templo",
+    "def": "temple",
+    "audio": "sp012724.mp3"
+  },
+  {
+    "term": "la tienda",
+    "def": "store",
+    "audio": "sp001008.mp3"
+  },
+  {
+    "term": "el zoológico",
+    "def": "zoo",
+    "audio": "sp003040.mp3"
+  },
+  {
+    "term": "jugar (ue)",
+    "def": "to play",
+    "audio": "sp001029.mp3"
+  },
+  {
+    "term": "llover (ue)",
+    "def": "to rain",
+    "audio": "sp025400/sp025493.mp3"
+  },
+  {
+    "term": "morir (ue)",
+    "def": "to die",
+    "audio": "sp025400/sp025494.mp3"
+  },
+  {
+    "term": "poder (ue)",
+    "def": "to be able to",
+    "audio": "sp025400/sp025495.mp3"
+  },
+  {
+    "term": "recordar (ue)",
+    "def": "to remember",
+    "audio": "sp025300/sp025351.mp3"
+  },
+  {
+    "term": "rezar",
+    "def": "to pray",
+    "audio": "sp000265.mp3"
+  },
+  {
+    "term": "soñar (ue) (con)",
+    "def": "to dream (about)",
+    "audio": "sp019200/sp019271.mp3"
+  },
+  {
+    "term": "volver (ue)",
+    "def": "to come back",
+    "audio": "sp025400/sp025496.mp3"
+  },
+  {
+    "term": "el paquete",
+    "def": "package",
+    "audio": "sp001450.mp3"
+  },
+  {
+    "term": "la película",
+    "def": "movie",
+    "audio": "sp000993.mp3"
+  },
+  {
+    "term": "en",
+    "def": "in, on, at",
+    "audio": "sp004301.mp3"
+  },
+  {
+    "term": "encima de",
+    "def": "on top of",
+    "audio": "sp001424.mp3"
+  },
+  {
+    "term": "enfrente de",
+    "def": "in front of",
+    "audio": "sp001962.mp3"
+  },
+  {
+    "term": "entre",
+    "def": "between",
+    "audio": "sp001969.mp3"
+  },
+  {
+    "term": "fuera de",
+    "def": "outside",
+    "audio": "sp012744.mp3"
+  },
+  {
+    "term": "lejos de",
+    "def": "far from",
+    "audio": "sp002445.mp3"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "term": "la copa",
+    "def": "wine glass",
+    "audio": "sp008648.mp3"
+  },
+  {
+    "term": "la cuchara",
+    "def": "spoon",
+    "audio": "sp004304.mp3"
+  },
+  {
+    "term": "el cuchillo",
+    "def": "knife",
+    "audio": "sp004303.mp3"
+  },
+  {
+    "term": "el mantel",
+    "def": "tablecloth",
+    "audio": "sp004295.mp3"
+  },
+  {
+    "term": "el plato",
+    "def": "plate",
+    "audio": "sp001275.mp3"
+  },
+  {
+    "term": "el plato hondo",
+    "def": "bowl",
+    "audio": "sp012794.mp3"
+  },
+  {
+    "term": "el arroz",
+    "def": "rice",
+    "audio": "sp000041.mp3"
+  },
+  {
+    "term": "el azúcar",
+    "def": "sugar",
+    "audio": "sp000010.mp3"
+  },
+  {
+    "term": "la bebida",
+    "def": "drink",
+    "audio": "sp004326.mp3"
+  },
+  {
+    "term": "el café",
+    "def": "coffee",
+    "audio": "sp000051.mp3"
+  },
+  {
+    "term": "el camarón",
+    "def": "shrimp",
+    "audio": "sp006190.mp3"
+  },
+  {
+    "term": "la carne",
+    "def": "meat",
+    "audio": "sp003384.mp3"
+  },
+  {
+    "term": "el cerdo",
+    "def": "pork",
+    "audio": "sp003785.mp3"
+  },
+  {
+    "term": "la cerveza",
+    "def": "beer",
+    "audio": "sp000052.mp3"
+  },
+  {
+    "term": "el coctel",
+    "def": "cocktail",
+    "audio": "sp012816.mp3"
+  },
+  {
+    "term": "la ensalada",
+    "def": "salad",
+    "audio": "sp000042.mp3"
+  },
+  {
+    "term": "el entremés",
+    "def": "appetizer",
+    "audio": "sp013004.mp3"
+  },
+  {
+    "term": "el flan",
+    "def": "flan",
+    "audio": "sp003825.mp3"
+  },
+  {
+    "term": "la fruta",
+    "def": "fruit",
+    "audio": "sp004820.mp3"
+  },
+  {
+    "term": "la hamburguesa",
+    "def": "hamburger",
+    "audio": "sp000022.mp3"
+  },
+  {
+    "term": "el helado",
+    "def": "ice cream",
+    "audio": "sp000048.mp3"
+  },
+  {
+    "term": "cenar",
+    "def": "to eat dinner",
+    "audio": "sp000004.mp3"
+  },
+  {
+    "term": "dejar (una propina)",
+    "def": "to leave (a tip)",
+    "audio": "sp012803.mp3"
+  },
+  {
+    "term": "desayunar",
+    "def": "to eat breakfast",
+    "audio": "sp000006.mp3"
+  },
+  {
+    "term": "al horno",
+    "def": "baked",
+    "audio": "sp001473.mp3"
+  },
+  {
+    "term": "el almuerzo",
+    "def": "lunch",
+    "audio": "sp000003.mp3"
+  },
+  {
+    "term": "asado(a)",
+    "def": "grilled",
+    "audio": "sp001474.mp3"
+  },
+  {
+    "term": "la cena",
+    "def": "dinner",
+    "audio": "sp000005.mp3"
+  },
+  {
+    "term": "la comida",
+    "def": "food; lunch",
+    "audio": "sp001436.mp3"
+  },
+  {
+    "term": "la servilleta",
+    "def": "napkin",
+    "audio": "sp004289.mp3"
+  },
+  {
+    "term": "la taza",
+    "def": "cup",
+    "audio": "sp000377.mp3"
+  },
+  {
+    "term": "el tazón",
+    "def": "serving bowl",
+    "audio": "sp006521.mp3"
+  },
+  {
+    "term": "el tenedor",
+    "def": "fork",
+    "audio": "sp004286.mp3"
+  },
+  {
+    "term": "el vaso",
+    "def": "glass",
+    "audio": "sp001459.mp3"
+  },
+  {
+    "term": "el jugo",
+    "def": "juice",
+    "audio": "sp004839.mp3"
+  },
+  {
+    "term": "la naranja",
+    "def": "orange",
+    "audio": "sp000036.mp3"
+  },
+  {
+    "term": "el pastel",
+    "def": "cake",
+    "audio": "sp012434.mp3"
+  },
+  {
+    "term": "el pavo",
+    "def": "turkey",
+    "audio": "sp000026.mp3"
+  },
+  {
+    "term": "el pescado",
+    "def": "fish",
+    "audio": "sp004313.mp3"
+  },
+  {
+    "term": "la pimienta",
+    "def": "pepper",
+    "audio": "sp000012.mp3"
+  },
+  {
+    "term": "el pollo",
+    "def": "chicken",
+    "audio": "sp004849.mp3"
+  },
+  {
+    "term": "el postre",
+    "def": "dessert",
+    "audio": "sp001451.mp3"
+  },
+  {
+    "term": "el refresco",
+    "def": "soda",
+    "audio": "sp000055.mp3"
+  },
+  {
+    "term": "la sal",
+    "def": "salt",
+    "audio": "sp000013.mp3"
+  },
+  {
+    "term": "el sándwich",
+    "def": "sandwich",
+    "audio": "sp000030.mp3"
+  },
+  {
+    "term": "la sopa",
+    "def": "soup",
+    "audio": "sp000045.mp3"
+  },
+  {
+    "term": "los totopos",
+    "def": "tortilla chips",
+    "audio": "sp012793.mp3"
+  },
+  {
+    "term": "el vino blanco",
+    "def": "white wine",
+    "audio": "sp012795.mp3"
+  },
+  {
+    "term": "el vino tinto",
+    "def": "red wine",
+    "audio": "sp004285.mp3"
+  },
+  {
+    "term": "la cuenta",
+    "def": "bill",
+    "audio": "sp000061.mp3"
+  },
+  {
+    "term": "el desayuno",
+    "def": "breakfast",
+    "audio": "sp000007.mp3"
+  },
+  {
+    "term": "frito(a)",
+    "def": "fried",
+    "audio": "sp001475.mp3"
+  },
+  {
+    "term": "la orden",
+    "def": "order",
+    "audio": "sp004917.mp3"
+  },
+  {
+    "term": "el plato principal",
+    "def": "main dish",
+    "audio": "sp001452.mp3"
+  }
+]

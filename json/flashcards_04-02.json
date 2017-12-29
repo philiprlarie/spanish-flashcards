@@ -1,0 +1,62 @@
+[
+  {
+    "term": "jugar (ue)",
+    "def": "to play",
+    "audio": "sp001029.mp3"
+  },
+  {
+    "term": "llover (ue)",
+    "def": "to rain",
+    "audio": "sp025400/sp025493.mp3"
+  },
+  {
+    "term": "morir (ue)",
+    "def": "to die",
+    "audio": "sp025400/sp025494.mp3"
+  },
+  {
+    "term": "poder (ue)",
+    "def": "to be able to",
+    "audio": "sp025400/sp025495.mp3"
+  },
+  {
+    "term": "recordar (ue)",
+    "def": "to remember",
+    "audio": "sp025300/sp025351.mp3"
+  },
+  {
+    "term": "costar (ue)",
+    "def": "to cost",
+    "audio": "sp025400/sp025490.mp3"
+  },
+  {
+    "term": "soñar (ue) (con)",
+    "def": "to dream (about)",
+    "audio": "sp019200/sp019271.mp3"
+  },
+  {
+    "term": "volver (ue)",
+    "def": "to come back",
+    "audio": "sp025400/sp025496.mp3"
+  },
+  {
+    "term": "almorzar (ue)",
+    "def": "to have lunch",
+    "audio": "sp025400/sp025489.mp3"
+  },
+  {
+    "term": "devolver (ue)",
+    "def": "to return (something)",
+    "audio": "sp025400/sp025491.mp3"
+  },
+  {
+    "term": "dormir (ue)",
+    "def": "to sleep",
+    "audio": "sp002424.mp3"
+  },
+  {
+    "term": "encontrar (ue)",
+    "def": "to find",
+    "audio": "sp025400/sp025492.mp3"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "term": "el (la) abogado(a)",
+    "def": "lawyer",
+    "audio": "sp002774.mp3"
+  },
+  {
+    "term": "el actor",
+    "def": "actor",
+    "audio": "sp010539.mp3"
+  },
+  {
+    "term": "la actriz",
+    "def": "actress",
+    "audio": "sp010542.mp3"
+  },
+  {
+    "term": "el (la) agente de viajes",
+    "def": "travel agent",
+    "audio": "sp002639.mp3"
+  },
+  {
+    "term": "el amo(a) de casa",
+    "def": "homemaker",
+    "audio": "sp025500/sp025520.mp3"
+  },
+  {
+    "term": "el (la) arquitecto(a)",
+    "def": "architect",
+    "audio": "sp002775.mp3"
+  },
+  {
+    "term": "el (la) asistente de vuelo",
+    "def": "flight attendant",
+    "audio": "sp002640.mp3"
+  },
+  {
+    "term": "el bailarín/la bailarina",
+    "def": "dancer",
+    "audio": "sp010543.mp3"
+  },
+  {
+    "term": "el (la) cantante",
+    "def": "singer",
+    "audio": "sp010544.mp3"
+  },
+  {
+    "term": "el (la) científico(a)",
+    "def": "scientist",
+    "audio": "sp000517.mp3"
+  },
+  {
+    "term": "el (la) cocinero(a)",
+    "def": "cook",
+    "audio": "sp002779.mp3"
+  },
+  {
+    "term": "el (la) consejero(a)",
+    "def": "adviser",
+    "audio": "sp004640.mp3"
+  },
+  {
+    "term": "el (la) contador(a)",
+    "def": "accountant",
+    "audio": "sp002780.mp3"
+  },
+  {
+    "term": "el (la) dependiente",
+    "def": "clerk",
+    "audio": "sp002542.mp3"
+  },
+  {
+    "term": "el (la) deportista",
+    "def": "athlete",
+    "audio": "sp010567.mp3"
+  },
+  {
+    "term": "el (la) diseñador(a)",
+    "def": "designer",
+    "audio": "sp010545.mp3"
+  },
+  {
+    "term": "el (la) enfermero(a)",
+    "def": "nurse",
+    "audio": "sp002482.mp3"
+  },
+  {
+    "term": "el (la) escritor(a)",
+    "def": "writer",
+    "audio": "sp010546.mp3"
+  },
+  {
+    "term": "el (la) fotógrafo(a)",
+    "def": "photographer",
+    "audio": "sp002782.mp3"
+  },
+  {
+    "term": "el (la) cliente",
+    "def": "client",
+    "audio": "sp000059.mp3"
+  },
+  {
+    "term": "la entrevista",
+    "def": "interview",
+    "audio": "sp002013.mp3"
+  },
+  {
+    "term": "la solicitud",
+    "def": "application; want ad",
+    "audio": "sp000282.mp3"
+  },
+  {
+    "term": "el (la) ingeniero(a)",
+    "def": "engineer",
+    "audio": "sp002784.mp3"
+  },
+  {
+    "term": "el jefe/la jefa",
+    "def": "boss",
+    "audio": "sp010547.mp3"
+  },
+  {
+    "term": "el (la) maestro(a)",
+    "def": "elementary / high school teacher",
+    "audio": "sp002786.mp3"
+  },
+  {
+    "term": "el (la) mecánico(a)",
+    "def": "mechanic",
+    "audio": "sp004544.mp3"
+  },
+  {
+    "term": "el (la) médico(a)",
+    "def": "doctor",
+    "audio": "sp003379.mp3"
+  },
+  {
+    "term": "el (la) mesero(a)",
+    "def": "waiter",
+    "audio": "sp000060.mp3"
+  },
+  {
+    "term": "el (la) modelo",
+    "def": "model",
+    "audio": "sp010571.mp3"
+  },
+  {
+    "term": "el (la) músico(a)",
+    "def": "musician",
+    "audio": "sp010572.mp3"
+  },
+  {
+    "term": "el (la) periodista",
+    "def": "journalist",
+    "audio": "sp002789.mp3"
+  },
+  {
+    "term": "el (la) piloto",
+    "def": "pilot",
+    "audio": "sp010573.mp3"
+  },
+  {
+    "term": "el (la) pintor(a)",
+    "def": "painter",
+    "audio": "sp010574.mp3"
+  },
+  {
+    "term": "el policía/la mujer policía",
+    "def": "police officer",
+    "audio": "sp010575.mp3"
+  },
+  {
+    "term": "el (la) político(a)",
+    "def": "politician",
+    "audio": "sp010548.mp3"
+  },
+  {
+    "term": "el (la) psicólogo(a)",
+    "def": "psychologist",
+    "audio": "sp010549.mp3"
+  },
+  {
+    "term": "el (la) secretario(a)",
+    "def": "secretary",
+    "audio": "sp010550.mp3"
+  },
+  {
+    "term": "el (la) trabajador(a) social",
+    "def": "social worker",
+    "audio": "sp010551.mp3"
+  },
+  {
+    "term": "el (la) vendedor(a)",
+    "def": "salesperson",
+    "audio": "sp002797.mp3"
+  },
+  {
+    "term": "el (la) veterinario(a)",
+    "def": "veterinarian",
+    "audio": "sp004563.mp3"
+  },
+  {
+    "term": "el sueldo",
+    "def": "salary",
+    "audio": "sp003518.mp3"
+  },
+  {
+    "term": "el trabajo",
+    "def": "job",
+    "audio": "sp001009.mp3"
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "term": "el alemán",
+    "def": "German",
+    "audio": "sp002137.mp3"
+  },
+  {
+    "term": "el álgebra",
+    "def": "algebra",
+    "audio": "sp012654.mp3"
+  },
+  {
+    "term": "el arte",
+    "def": "art",
+    "audio": "sp004084.mp3"
+  },
+  {
+    "term": "la biología",
+    "def": "biology",
+    "audio": "sp006751.mp3"
+  },
+  {
+    "term": "el cálculo",
+    "def": "calculus",
+    "audio": "sp005890.mp3"
+  },
+  {
+    "term": "las ciencias naturales",
+    "def": "natural science",
+    "audio": "sp012652.mp3"
+  },
+  {
+    "term": "las ciencias políticas",
+    "def": "political science",
+    "audio": "sp012656.mp3"
+  },
+  {
+    "term": "las ciencias sociales",
+    "def": "social science",
+    "audio": "sp012655.mp3"
+  },
+  {
+    "term": "la criminología",
+    "def": "criminology",
+    "audio": "sp012648.mp3"
+  },
+  {
+    "term": "la economía",
+    "def": "economics",
+    "audio": "sp014513.mp3"
+  },
+  {
+    "term": "la educación física",
+    "def": "physical education",
+    "audio": "sp006724.mp3"
+  },
+  {
+    "term": "la expresión oral",
+    "def": "speech",
+    "audio": "sp012649.mp3"
+  },
+  {
+    "term": "la filosofía",
+    "def": "philosophy",
+    "audio": "sp012651.mp3"
+  },
+  {
+    "term": "la física",
+    "def": "physics",
+    "audio": "sp004635.mp3"
+  },
+  {
+    "term": "el francés",
+    "def": "French",
+    "audio": "sp004302.mp3"
+  },
+  {
+    "term": "la geografía",
+    "def": "geography",
+    "audio": "sp002154.mp3"
+  },
+  {
+    "term": "la geometría",
+    "def": "geometry",
+    "audio": "sp008367.mp3"
+  },
+  {
+    "term": "el auditorio",
+    "def": "auditorium",
+    "audio": "sp013914.mp3"
+  },
+  {
+    "term": "la biblioteca",
+    "def": "library",
+    "audio": "sp000965.mp3"
+  },
+  {
+    "term": "la cafetería",
+    "def": "cafeteria",
+    "audio": "sp002149.mp3"
+  },
+  {
+    "term": "el centro estudiantil",
+    "def": "student center",
+    "audio": "sp002139.mp3"
+  },
+  {
+    "term": "el estadio",
+    "def": "stadium",
+    "audio": "sp006344.mp3"
+  },
+  {
+    "term": "tener... años",
+    "def": "to be ... years old",
+    "audio": "sp002295.mp3"
+  },
+  {
+    "term": "tener (mucho) calor",
+    "def": "to be (very) hot",
+    "audio": "sp012682.mp3"
+  },
+  {
+    "term": "tener (mucho) cuidado",
+    "def": "to be (very) careful",
+    "audio": "sp025400/sp025458.mp3"
+  },
+  {
+    "term": "tener (mucho) éxito",
+    "def": "to be (very)successful",
+    "audio": "sp012684.mp3"
+  },
+  {
+    "term": "tener (mucho) frío",
+    "def": "to be (very) cold",
+    "audio": "sp012685.mp3"
+  },
+  {
+    "term": "tener ganas de + infinitive",
+    "def": "to feel like doing",
+    "audio": "sp025400/sp025459.mp3"
+  },
+  {
+    "term": "tener (mucha) hambre",
+    "def": "to be (very) hungry",
+    "audio": "sp012686.mp3"
+  },
+  {
+    "term": "el (la) compañero(a) de clase",
+    "def": "classmate",
+    "audio": "sp002110.mp3"
+  },
+  {
+    "term": "el examen",
+    "def": "exam",
+    "audio": "sp002142.mp3"
+  },
+  {
+    "term": "mucho",
+    "def": "a lot",
+    "audio": "sp004822.mp3"
+  },
+  {
+    "term": "la nota",
+    "def": "grade",
+    "audio": "sp001540.mp3"
+  },
+  {
+    "term": "la historia",
+    "def": "history",
+    "audio": "sp002155.mp3"
+  },
+  {
+    "term": "la informática",
+    "def": "computer science",
+    "audio": "sp006725.mp3"
+  },
+  {
+    "term": "la ingeniería",
+    "def": "engineering",
+    "audio": "sp002132.mp3"
+  },
+  {
+    "term": "el inglés",
+    "def": "English",
+    "audio": "sp000985.mp3"
+  },
+  {
+    "term": "el italiano",
+    "def": "Italian",
+    "audio": "sp002145.mp3"
+  },
+  {
+    "term": "las lenguas",
+    "def": "languages",
+    "audio": "sp012653.mp3"
+  },
+  {
+    "term": "la literatura",
+    "def": "literature",
+    "audio": "sp002157.mp3"
+  },
+  {
+    "term": "las matemáticas",
+    "def": "mathematics",
+    "audio": "sp002162.mp3"
+  },
+  {
+    "term": "la música",
+    "def": "music",
+    "audio": "sp000986.mp3"
+  },
+  {
+    "term": "los negocios",
+    "def": "business",
+    "audio": "sp008533.mp3"
+  },
+  {
+    "term": "el periodismo",
+    "def": "journalism",
+    "audio": "sp002133.mp3"
+  },
+  {
+    "term": "la psicología",
+    "def": "psychology",
+    "audio": "sp004628.mp3"
+  },
+  {
+    "term": "la química",
+    "def": "chemistry",
+    "audio": "sp004627.mp3"
+  },
+  {
+    "term": "la redacción",
+    "def": "writing, composition",
+    "audio": "sp012650.mp3"
+  },
+  {
+    "term": "el teatro",
+    "def": "theater",
+    "audio": "sp001803.mp3"
+  },
+  {
+    "term": "la veterinaria",
+    "def": "veterinary medicine",
+    "audio": "sp012681.mp3"
+  },
+  {
+    "term": "el gimnasio",
+    "def": "gymnasium",
+    "audio": "sp000982.mp3"
+  },
+  {
+    "term": "el laboratorio",
+    "def": "laboratory",
+    "audio": "sp004915.mp3"
+  },
+  {
+    "term": "la librería",
+    "def": "bookstore",
+    "audio": "sp002156.mp3"
+  },
+  {
+    "term": "la residencia estudiantil",
+    "def": "residence hall",
+    "audio": "sp000999.mp3"
+  },
+  {
+    "term": "tener (mucho) miedo",
+    "def": "to be (very) afraid",
+    "audio": "sp012687.mp3"
+  },
+  {
+    "term": "tener (mucha) prisa",
+    "def": "to be in a (big) hurry",
+    "audio": "sp012688.mp3"
+  },
+  {
+    "term": "tener que + infinitive",
+    "def": "to have to do something",
+    "audio": "sp018479.mp3"
+  },
+  {
+    "term": "tener (mucha) razón",
+    "def": "to be right",
+    "audio": "sp025400/sp025460.mp3"
+  },
+  {
+    "term": "tener (mucha) sed",
+    "def": "to be (very) thirsty",
+    "audio": "sp012689.mp3"
+  },
+  {
+    "term": "tener (mucho) sueño",
+    "def": "to be (very) sleepy",
+    "audio": "sp009919.mp3"
+  },
+  {
+    "term": "tener (mucha) suerte",
+    "def": "to be (very) lucky",
+    "audio": "sp012690.mp3"
+  },
+  {
+    "term": "poco",
+    "def": "few",
+    "audio": "sp004934.mp3"
+  },
+  {
+    "term": "el semestre",
+    "def": "semester",
+    "audio": "sp001003.mp3"
+  },
+  {
+    "term": "el trimestre",
+    "def": "quarter",
+    "audio": "sp006758.mp3"
+  },
+  {
+    "term": "varios",
+    "def": "several",
+    "audio": "sp005619.mp3"
+  },
+  {
+    "term": "la tarea",
+    "def": "homework",
+    "audio": "sp002135.mp3"
+  }
+]

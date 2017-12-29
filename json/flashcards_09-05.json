@@ -1,0 +1,222 @@
+[
+  {
+    "term": "la acera",
+    "def": "sidewalk",
+    "audio": "sp008915.mp3"
+  },
+  {
+    "term": "la ambulancia",
+    "def": "ambulance",
+    "audio": "sp004623.mp3"
+  },
+  {
+    "term": "la camilla",
+    "def": "stretcher",
+    "audio": "sp005410.mp3"
+  },
+  {
+    "term": "la carretera",
+    "def": "highway",
+    "audio": "sp002839.mp3"
+  },
+  {
+    "term": "el (la) ciclista",
+    "def": "cyclist",
+    "audio": "sp013582.mp3"
+  },
+  {
+    "term": "el (la) conductor(a)",
+    "def": "driver",
+    "audio": "sp013562.mp3"
+  },
+  {
+    "term": "el cruce",
+    "def": "crosswalk",
+    "audio": "sp010152.mp3"
+  },
+  {
+    "term": "la esquina",
+    "def": "corner",
+    "audio": "sp001927.mp3"
+  },
+  {
+    "term": "el límite de velocidad",
+    "def": "speed limit",
+    "audio": "sp010034.mp3"
+  },
+  {
+    "term": "la multa",
+    "def": "fine, ticket",
+    "audio": "sp006667.mp3"
+  },
+  {
+    "term": "el paramédico",
+    "def": "paramedic",
+    "audio": "sp005992.mp3"
+  },
+  {
+    "term": "aburrirse",
+    "def": "to become bored",
+    "audio": "sp013587.mp3"
+  },
+  {
+    "term": "alegrarse",
+    "def": "to become happy",
+    "audio": "sp004624.mp3"
+  },
+  {
+    "term": "asustarse",
+    "def": "to become frightened",
+    "audio": "sp002575.mp3"
+  },
+  {
+    "term": "atravesar (ie)",
+    "def": "to cross",
+    "audio": "sp025500/sp025576.mp3"
+  },
+  {
+    "term": "atropellar",
+    "def": "to run over",
+    "audio": "sp010736.mp3"
+  },
+  {
+    "term": "bajar de",
+    "def": "to get out of (a vehicle)",
+    "audio": "sp013566.mp3"
+  },
+  {
+    "term": "caer(se)",
+    "def": "to fall",
+    "audio": "sp005439.mp3"
+  },
+  {
+    "term": "chocar (con)",
+    "def": "to crash (into)",
+    "audio": "sp012476.mp3"
+  },
+  {
+    "term": "cruzar",
+    "def": "to cross",
+    "audio": "sp001951.mp3"
+  },
+  {
+    "term": "dañar",
+    "def": "to damage",
+    "audio": "sp009695.mp3"
+  },
+  {
+    "term": "distraerse",
+    "def": "to get distracted",
+    "audio": "sp013567.mp3"
+  },
+  {
+    "term": "enojarse",
+    "def": "to become angry",
+    "audio": "sp008348.mp3"
+  },
+  {
+    "term": "de repente",
+    "def": "suddenly",
+    "audio": "sp003664.mp3"
+  },
+  {
+    "term": "estar dañado(a)",
+    "def": "to be damaged",
+    "audio": "sp013573.mp3"
+  },
+  {
+    "term": "estar herido(a)",
+    "def": "to be injured",
+    "audio": "sp013574.mp3"
+  },
+  {
+    "term": "el parquímetro",
+    "def": "parking meter",
+    "audio": "sp008936.mp3"
+  },
+  {
+    "term": "la patrulla",
+    "def": "police car",
+    "audio": "sp013561.mp3"
+  },
+  {
+    "term": "el peatón (la peatona)",
+    "def": "pedestrian",
+    "audio": "sp018046.mp3"
+  },
+  {
+    "term": "el poste",
+    "def": "post",
+    "audio": "sp013560.mp3"
+  },
+  {
+    "term": "el puente",
+    "def": "bridge",
+    "audio": "sp005386.mp3"
+  },
+  {
+    "term": "el semáforo",
+    "def": "traffic light",
+    "audio": "sp010148.mp3"
+  },
+  {
+    "term": "la señal",
+    "def": "sign",
+    "audio": "sp013556.mp3"
+  },
+  {
+    "term": "el servicio de emergencias",
+    "def": "emergency service",
+    "audio": "sp025500/sp025577.mp3"
+  },
+  {
+    "term": "el (la) testigo",
+    "def": "witness",
+    "audio": "sp007181.mp3"
+  },
+  {
+    "term": "esperar",
+    "def": "to wait",
+    "audio": "sp003861.mp3"
+  },
+  {
+    "term": "estacionarse",
+    "def": "to park",
+    "audio": "sp025500/sp025578.mp3"
+  },
+  {
+    "term": "frustrarse",
+    "def": "to become frustrated",
+    "audio": "sp013588.mp3"
+  },
+  {
+    "term": "pasarse un semáforo en rojo",
+    "def": "to run a red light",
+    "audio": "sp013568.mp3"
+  },
+  {
+    "term": "pasarse una señal de PARE",
+    "def": "to run a stop sign",
+    "audio": "sp013569.mp3"
+  },
+  {
+    "term": "sentirse",
+    "def": "to feel",
+    "audio": "sp001958.mp3"
+  },
+  {
+    "term": "sorprenderse",
+    "def": "to be surprised",
+    "audio": "sp013589.mp3"
+  },
+  {
+    "term": "subir a",
+    "def": "to get into (a vehicle)",
+    "audio": "sp013570.mp3"
+  },
+  {
+    "term": "tropezar (ie)",
+    "def": "to trip",
+    "audio": "sp013571.mp3"
+  }
+]

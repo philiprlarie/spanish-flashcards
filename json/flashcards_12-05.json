@@ -1,0 +1,22 @@
+[
+  {
+    "term": "el envase",
+    "def": "container",
+    "audio": "sp013622.mp3"
+  },
+  {
+    "term": "la envoltura",
+    "def": "packaging",
+    "audio": "sp025400/sp025413.mp3"
+  },
+  {
+    "term": "la pila",
+    "def": "battery",
+    "audio": "sp000753.mp3"
+  },
+  {
+    "term": "el vidrio",
+    "def": "glass",
+    "audio": "sp008974.mp3"
+  }
+]
