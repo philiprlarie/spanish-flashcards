@@ -78,14 +78,25 @@ button {
 #controls button {
   font-size: 18px;
   border-radius: 5px;
-  background: green;
   color: white;
   width: 150px;
   padding: 10px;
 }
 
-#controls #incorrect {
+#correct {
+  background: green;
+}
+
+#incorrect {
   background: red;
+}
+
+#reset {
+  background: blue;
+}
+
+#controls button:disabled {
+  filter: brightness(50%);
 }
 
 #audio {

@@ -1,6 +1,4 @@
 // TODO
-// end reset at end of set
-// shuffle mode
 // definition/term first mode
 // get user input from typing. do 2 modes for user types and check string
 // do 2 modes for
@@ -33,17 +31,12 @@ function shuffle(array) {
 ////////////////////////////////////////////////////////////////
 // function definitions
 function showCard() {
-  let currentWord = words[0];
   if (words.length === 0) {
-    currentWord = {
-      term: 'The current set of words is empty',
-      def: 'The current set of words is empty'
-    };
-  } else {
-    currentWord = words[0];
-    shouldShowTerm = false;
+    showEmptyDeck();
+    return;
   }
 
+  let currentWord = words[0];
   $('#word').text(currentWord.term);
   $('#definition').text(currentWord.def);
   if (shouldShowTerm) {
@@ -56,6 +49,17 @@ function showCard() {
   $('#deck-count').text(words.length);
   $('#correct-count').text(correctWords.length);
   $('#incorrect-count').text(incorrectWords.length);
+  $('#correct,#incorrect').removeAttr('disabled');
+}
+
+function showEmptyDeck() {
+  $('#definition').text('The current set of words is empty');
+  $('#card-definition').show();
+  $('#card-term').hide();
+  $('#deck-count').text(words.length);
+  $('#correct-count').text(correctWords.length);
+  $('#incorrect-count').text(incorrectWords.length);
+  $('#correct,#incorrect').attr('disabled', 'disabled');
 }
 
 function correct() {
@@ -84,6 +88,12 @@ function playAudio() {
 }
 
 function resetDeck() {
+  words.push(...correctWords);
+  correctWords.length = 0;
+  words.push(...incorrectWords);
+  incorrectWords.length = 0;
+  shuffle(words);
+  showCard();
 }
 
 function pickRandomCard() {
@@ -118,6 +128,7 @@ function allSetsFetched(numFetched) {
 
 $('#correct').click(correct);
 $('#incorrect').click(incorrect);
+$('#reset').click(resetDeck);
 $('#audio').click(function(e) {
   e.stopPropagation();
   playAudio();
