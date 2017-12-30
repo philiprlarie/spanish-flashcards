@@ -1,7 +1,10 @@
 // TODO
-// get user input from typing. do 2 modes for user types and check string
-// do 2 modes for
+// botton for reset with incorrectWords only
 
+// get user input from typing. do 2 modes for user types and check string. show correct answer for 2 seconds if you get it wrong
+// do 2 modes for audio first
+// style it
+// set up express server
 
 ////////////////////////////////////////////////////////////////
 // globals
@@ -122,6 +125,7 @@ function resetDeck() {
   words.push(...incorrectWords);
   incorrectWords.length = 0;
   shuffle(words);
+  setShouldShowTerm();
   showCard();
 }
 
