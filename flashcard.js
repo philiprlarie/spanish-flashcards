@@ -33,16 +33,35 @@ function getModeFromCookie() {
 
   return modeCookie ? modeCookie.slice(5) : 'term-first';
 }
+function setShouldShowTerm() {
+  switch (getModeFromCookie()) {
+    case 'term-first': {
+      shouldShowTerm = true;
+      break;
+    }
+    case 'def-first': {
+      shouldShowTerm = false;
+      break;
+    }
+    default: {
+      shouldShowTerm = true;
+    }
+  }
+}
 
 ////////////////////////////////////////////////////////////////
 // function definitions
 function showCard() {
+  let currentWord = words[0];
   if (words.length === 0) {
-    showEmptyDeck();
-    return;
+    $('#correct,#incorrect').attr('disabled', 'disabled');
+    currentWord = { def: 'The current set of words is empty' }
+    shouldShowTerm = false;
+  } else {
+    $('#correct,#incorrect').removeAttr('disabled')
+    currentWord = words[0];
   }
 
-  let currentWord = words[0];
   $('#word').text(currentWord.term);
   $('#definition').text(currentWord.def);
   if (shouldShowTerm) {
@@ -55,28 +74,32 @@ function showCard() {
   $('#deck-count').text(words.length);
   $('#correct-count').text(correctWords.length);
   $('#incorrect-count').text(incorrectWords.length);
-  $('#correct,#incorrect').removeAttr('disabled');
-}
 
-function showEmptyDeck() {
-  $('#definition').text('The current set of words is empty');
-  $('#card-definition').show();
-  $('#card-term').hide();
-  $('#deck-count').text(words.length);
-  $('#correct-count').text(correctWords.length);
-  $('#incorrect-count').text(incorrectWords.length);
-  $('#correct,#incorrect').attr('disabled', 'disabled');
+  $('#settings button').removeAttr('disabled');
+  switch (getModeFromCookie()) {
+    case 'term-first': {
+      $('#term-first').attr('disabled', 'disabled');
+      break;
+    }
+    case 'def-first': {
+      $('#def-first').attr('disabled', 'disabled');
+      break;
+    }
+    default:
+  }
 }
 
 function correct() {
   const currentWord = words.shift();
   correctWords.push(currentWord);
+  setShouldShowTerm();
   showCard();
 }
 
 function incorrect() {
   const currentWord = words.shift();
   incorrectWords.push(currentWord);
+  setShouldShowTerm();
   showCard();
 }
 
@@ -137,19 +160,7 @@ function allSetsFetched(numFetched) {
   }
   shuffle(words);
   console.log(words);
-  switch (getModeFromCookie()) {
-    case 'term-first': {
-      shouldShowTerm = true;
-      break;
-    }
-    case 'def-first': {
-      shouldShowTerm = false;
-      break;
-    }
-    default: {
-      shouldShowTerm = true;
-    }
-  }
+  setShouldShowTerm();
   $('body').show();
   showCard();
 }

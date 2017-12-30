@@ -75,6 +75,11 @@ button {
   border: none;
 }
 
+button:disabled {
+  filter: brightness(50%);
+  cursor: default;
+}
+
 #controls button {
   font-size: 18px;
   border-radius: 5px;
@@ -93,10 +98,6 @@ button {
 
 #reset {
   background: blue;
-}
-
-#controls button:disabled {
-  filter: brightness(50%);
 }
 
 #audio {
