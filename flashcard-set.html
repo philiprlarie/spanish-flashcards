@@ -8,20 +8,26 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   </head>
   <body>
+    <a href="index.html">Back to Index</a>
     <div class="main">
+      <p>Words Left in Deck: <span id='deck-count'></span></p>
+      <p>Correct: <span id='correct-count'></span></p>
+      <p>Incorrect: <span id='incorrect-count'></span></p>
       <section id="flash-card">
         <section id="card-term">
-          <p id="word">Word</p>
+          <p id="word"></p>
           <button id='audio'>🔈</button>
           <audio id='pronunciation'></audio>
         </section>
         <section id="card-definition">
-          <p id="definition">Definition:</p>
+          <p id="definition"></p>
         </section>
       </section>
       <div id="controls">
-        <button id="previous">Previous</button>
-        <button id="next">Next</button>
+        <button id="correct">Correct</button>
+        <button id="incorrect">Incorrect</button>
+        <!-- <button id="previous">Previous</button> -->
+        <!-- <button id="next">Next</button> -->
       </div>
     </div>
     <script src="flashcard.js" charset="utf-8"></script>
