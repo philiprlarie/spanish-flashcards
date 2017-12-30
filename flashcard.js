@@ -1,17 +1,9 @@
 // TODO
 // botton for reset with incorrectWords only
-
 // get user input from typing. do 2 modes for user types and check string. show correct answer for 2 seconds if you get it wrong
 // do 2 modes for audio first
 // style it
 // set up express server
-
-////////////////////////////////////////////////////////////////
-// globals
-const words = [];
-const incorrectWords = [];
-const correctWords = [];
-let shouldShowTerm = true;
 
 ////////////////////////////////////////////////////////////////
 // utility functions
@@ -51,6 +43,13 @@ function setShouldShowTerm() {
     }
   }
 }
+
+////////////////////////////////////////////////////////////////
+// globals
+const words = [];
+const incorrectWords = [];
+const correctWords = [];
+let shouldShowTerm = true;
 
 ////////////////////////////////////////////////////////////////
 // function definitions
@@ -114,7 +113,9 @@ function flipCard() {
 function playAudio() {
   const currentWord = words[0];
   const formattedAudioFile = currentWord.audio.replace('/', '-');
-  const audioUrl = `https://raw.githubusercontent.com/philiprlarie/spanish-flashcards/master/audio_files/${formattedAudioFile}`;
+  const baseUrl = window.location.href.includes('github') ? 'https://raw.githubusercontent.com/philiprlarie/spanish-flashcards/master/audio_files/' : 'audio_files/'
+  const audioUrl = `${baseUrl}${formattedAudioFile}`;
+
   $('#pronunciation').attr('src', audioUrl);
   $('#pronunciation').attr('autoplay', true);
 }
@@ -150,7 +151,9 @@ const sets = queryStringParams.split('&').map(str => str.slice(7));
 console.log(sets);
 let numSetsFinished = 0;
 sets.forEach(setName => {
-  const url = `https://raw.githubusercontent.com/philiprlarie/spanish-flashcards/master/json/flashcards_${setName}.json`;
+  const baseUrl = window.location.href.includes('github') ? 'https://raw.githubusercontent.com/philiprlarie/spanish-flashcards/master/json/flashcards_' : 'json/flashcards_';
+  const url = `${baseUrl}${setName}.json`;
+
   $.getJSON(url, json => {
     words.push(...json);
     numSetsFinished++;
