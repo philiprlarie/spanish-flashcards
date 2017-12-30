@@ -1,5 +1,4 @@
 // TODO
-// definition/term first mode
 // get user input from typing. do 2 modes for user types and check string
 // do 2 modes for
 
@@ -26,6 +25,13 @@ function shuffle(array) {
     array[randomIndex] = temporaryValue;
   }
   return array;
+}
+function getModeFromCookie() {
+  const cookieStr = document.cookie;
+  const allCookies = cookieStr.split(';');
+  const modeCookie = allCookies.find(str => str.match(/^mode=/));
+
+  return modeCookie ? modeCookie.slice(5) : 'term-first';
 }
 
 ////////////////////////////////////////////////////////////////
@@ -96,7 +102,16 @@ function resetDeck() {
   showCard();
 }
 
-function pickRandomCard() {
+function termFirstMode() {
+  document.cookie = 'mode=term-first';
+  shouldShowTerm = true;
+  showCard();
+}
+
+function defFirstMode() {
+  document.cookie = 'mode=def-first';
+  shouldShowTerm = false;
+  showCard();
 }
 
 ////////////////////////////////////////////////////////////////
@@ -122,10 +137,25 @@ function allSetsFetched(numFetched) {
   }
   shuffle(words);
   console.log(words);
+  switch (getModeFromCookie()) {
+    case 'term-first': {
+      shouldShowTerm = true;
+      break;
+    }
+    case 'def-first': {
+      shouldShowTerm = false;
+      break;
+    }
+    default: {
+      shouldShowTerm = true;
+    }
+  }
   $('body').show();
   showCard();
 }
 
+$('#term-first').click(termFirstMode);
+$('#def-first').click(defFirstMode);
 $('#correct').click(correct);
 $('#incorrect').click(incorrect);
 $('#reset').click(resetDeck);
