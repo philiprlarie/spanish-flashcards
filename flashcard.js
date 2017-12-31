@@ -42,12 +42,14 @@ function setDisplaySettings() {
       shouldShowTerm = false;
       shouldShowInputBox = true;
       isFlipped = false;
+      placeholder = 'Term'
       break;
     }
     case 'fill-in-def': {
       shouldShowTerm = true;
       shouldShowInputBox = true;
       isFlipped = false;
+      placeholder = 'Definition'
       break;
     }
     case 'term-from-audio': {
@@ -55,6 +57,7 @@ function setDisplaySettings() {
       shouldShowInputBox = true;
       audioIconOnly = true;
       isFlipped = false;
+      placeholder = 'Term'
       break;
     }
     case 'def-from-audio': {
@@ -62,6 +65,7 @@ function setDisplaySettings() {
       shouldShowInputBox = true;
       audioIconOnly = true;
       isFlipped = false;
+      placeholder = 'Definition'
       break;
     }
     default: {
@@ -79,6 +83,7 @@ const correctWords = [];
 let shouldShowTerm = true;
 let showingCorrectAnswer = false;
 let isFlipped = false;
+let placeholder;
 
 ////////////////////////////////////////////////////////////////
 // function definitions
@@ -116,6 +121,7 @@ function showCard() {
     $('#user-input').show();
     $('input[name="user-input"]').val('');
     $('input[name="user-input"]').css('background', 'white');
+    $('input[name="user-input"]').attr('placeholder', placeholder);
     if (words.length !== 0) {
       $('input[name="user-input"]').removeAttr('disabled').focus();
     }
