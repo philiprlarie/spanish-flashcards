@@ -65,7 +65,7 @@ let showingCorrectAnswer = false;
 ////////////////////////////////////////////////////////////////
 // function definitions
 function showCard() {
-  $('#correct-answer').hide();
+  $('#correct-answer-container').hide();
   let currentWord = words[0];
   if (words.length === 0) {
     $('#correct,#incorrect').attr('disabled', 'disabled');
@@ -88,6 +88,7 @@ function showCard() {
   if (shouldShowInputBox) {
     $('#user-input').show();
     $('input[name="user-input"]').val('');
+    $('input[name="user-input"]').css('background', 'white');
     if (words.length !== 0) {
       $('input[name="user-input"]').removeAttr('disabled').focus();
     }
@@ -185,32 +186,37 @@ function checkUserInput(event, data) {
   const currentWord = words[0];
   const userString = $('input[name="user-input"]').val();
   let correctAnswer;
+  let prompt;
   if (getModeFromCookie() === 'fill-in-term') {
+    prompt = currentWord.def;
     correctAnswer = currentWord.term;
   } else {
+    prompt = currentWord.term;
     correctAnswer = currentWord.def;
   }
   if (userString === correctAnswer) {
-    showCorrectAnswer(correctAnswer, true);
+    showCorrectAnswer(correctAnswer, prompt, true);
   } else {
-    showCorrectAnswer(correctAnswer, false);
+    showCorrectAnswer(correctAnswer, prompt, false);
   }
 }
 
-function showCorrectAnswer(correctAnswer, wasAnsweredCorreclty) {
+function showCorrectAnswer(correctAnswer, prompt, wasAnsweredCorreclty) {
   if (showingCorrectAnswer) {
     return;
   }
   showingCorrectAnswer = wasAnsweredCorreclty ? 'correct' : 'incorrect';
   $('input[name="user-input"]').attr('disabled', 'disabled');
   $('#card-term,#card-definition').hide();
-  $('#correct-answer').show();
-  $('#correct-answer p').text(correctAnswer);
-  $('#correct-answer p').append('</br>(press "enter" to continue)')
+  $('#correct-answer-container').show();
+  $('#correct-answer').text(correctAnswer);
+  $('#prompt').text(prompt);
   if (wasAnsweredCorreclty) {
-    $('#correct-answer p').css('color', 'green');
+    $('#correct-answer').css('color', 'green');
+    $('input[name="user-input"]').css('background', '#afa')
   } else {
-    $('#correct-answer p').css('color', 'red');
+    $('input[name="user-input"]').css('background', '#faa')
+    $('#correct-answer').css('color', 'red');
   }
 }
 
