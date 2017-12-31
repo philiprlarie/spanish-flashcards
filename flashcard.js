@@ -1,6 +1,6 @@
 // TODO
-// do 2 modes for audio first
 // style it
+// refactor
 
 ////////////////////////////////////////////////////////////////
 // utility functions
@@ -26,6 +26,7 @@ function getModeFromCookie() {
   return modeCookie ? modeCookie.slice(5) : 'term-first';
 }
 function setDisplaySettings() {
+  audioIconOnly = false;
   switch (getModeFromCookie()) {
     case 'term-first': {
       shouldShowTerm = true;
@@ -40,11 +41,27 @@ function setDisplaySettings() {
     case 'fill-in-term': {
       shouldShowTerm = false;
       shouldShowInputBox = true;
+      isFlipped = false;
       break;
     }
     case 'fill-in-def': {
       shouldShowTerm = true;
       shouldShowInputBox = true;
+      isFlipped = false;
+      break;
+    }
+    case 'term-from-audio': {
+      shouldShowTerm = true;
+      shouldShowInputBox = true;
+      audioIconOnly = true;
+      isFlipped = false;
+      break;
+    }
+    case 'def-from-audio': {
+      shouldShowTerm = true;
+      shouldShowInputBox = true;
+      audioIconOnly = true;
+      isFlipped = false;
       break;
     }
     default: {
@@ -61,10 +78,12 @@ const incorrectWords = [];
 const correctWords = [];
 let shouldShowTerm = true;
 let showingCorrectAnswer = false;
+let isFlipped = false;
 
 ////////////////////////////////////////////////////////////////
 // function definitions
 function showCard() {
+  setDisplaySettings();
   $('#correct-answer-container').hide();
   let currentWord = words[0];
   if (words.length === 0) {
@@ -75,12 +94,20 @@ function showCard() {
     $('#correct,#incorrect').removeAttr('disabled')
     currentWord = words[0];
   }
+  if (isFlipped) {
+    shouldShowTerm = !shouldShowTerm;
+  }
 
   $('#word').text(currentWord.term);
   $('#definition').text(currentWord.def);
   if (shouldShowTerm) {
     $('#card-definition').hide();
     $('#card-term').show();
+    $('#word').show();
+    if (audioIconOnly) {
+      $('#word').hide();
+      playAudio();
+    }
   } else {
     $('#card-definition').show();
     $('#card-term').hide();
@@ -109,6 +136,7 @@ function showCard() {
 function correct() {
   const currentWord = words.shift();
   correctWords.push(currentWord);
+  isFlipped = false;
   setDisplaySettings();
   showCard();
 }
@@ -116,12 +144,13 @@ function correct() {
 function incorrect() {
   const currentWord = words.shift();
   incorrectWords.push(currentWord);
+  isFlipped = false;
   setDisplaySettings();
   showCard();
 }
 
 function flipCard() {
-  shouldShowTerm = !shouldShowTerm;
+  isFlipped = !isFlipped;
   showCard();
 }
 
@@ -155,29 +184,30 @@ function resetDeck() {
 
 function termFirstMode() {
   document.cookie = 'mode=term-first';
-  shouldShowTerm = true;
-  shouldShowInputBox = false;
   showCard();
 }
 
 function defFirstMode() {
   document.cookie = 'mode=def-first';
-  shouldShowTerm = false;
-  shouldShowInputBox = false;
   showCard();
 }
 
 function fillInDefMode() {
   document.cookie = 'mode=fill-in-def';
-  shouldShowTerm = true;
-  shouldShowInputBox = true;
   showCard();
 }
 
 function fillInTermMode() {
   document.cookie = 'mode=fill-in-term';
-  shouldShowTerm = false;
-  shouldShowInputBox = true;
+  showCard();
+}
+
+function termFromAudioMode() {
+  document.cookie = 'mode=term-from-audio';
+  showCard();
+}
+function defFromAudioMode() {
+  document.cookie = 'mode=def-from-audio';
   showCard();
 }
 
@@ -187,7 +217,7 @@ function checkUserInput(event, data) {
   const userString = $('input[name="user-input"]').val();
   let correctAnswer;
   let prompt;
-  if (getModeFromCookie() === 'fill-in-term') {
+  if (getModeFromCookie() === 'fill-in-term' || getModeFromCookie() === 'term-from-audio') {
     prompt = currentWord.def;
     correctAnswer = currentWord.term;
   } else {
@@ -223,8 +253,8 @@ function showCorrectAnswer(correctAnswer, prompt, wasAnsweredCorreclty) {
 function moveToNextAfterIncorrect(event) {
   if (event.keyCode === 13 && !!showingCorrectAnswer) {
     event.preventDefault();
-    showingCorrectAnswer = false;
     showingCorrectAnswer === 'incorrect' ? incorrect() : correct();
+    showingCorrectAnswer = false;
   }
 }
 
@@ -262,6 +292,8 @@ $('#term-first').click(termFirstMode);
 $('#def-first').click(defFirstMode);
 $('#fill-in-def').click(fillInDefMode);
 $('#fill-in-term').click(fillInTermMode);
+$('#term-from-audio').click(termFromAudioMode);
+$('#def-from-audio').click(defFromAudioMode);
 $('#correct').click(correct);
 $('#incorrect').click(incorrect);
 $('#reset').click(resetDeck);
