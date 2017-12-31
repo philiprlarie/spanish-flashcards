@@ -18,7 +18,6 @@ p, section {
   justify-content: space-around;
 }
 
-
 #flash-card {
   width: 50%;
   height: 310px;
@@ -94,6 +93,10 @@ button:disabled {
 
 #incorrect {
   background: red;
+}
+
+#return-incorrect {
+  background: blue;
 }
 
 #reset {
