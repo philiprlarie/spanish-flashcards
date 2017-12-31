@@ -26,18 +26,31 @@ function getModeFromCookie() {
 
   return modeCookie ? modeCookie.slice(5) : 'term-first';
 }
-function setShouldShowTerm() {
+function setDisplaySettings() {
   switch (getModeFromCookie()) {
     case 'term-first': {
       shouldShowTerm = true;
+      shouldShowInputBox = false;
       break;
     }
     case 'def-first': {
       shouldShowTerm = false;
+      shouldShowInputBox = false;
+      break;
+    }
+    case 'fill-in-term': {
+      shouldShowTerm = false;
+      shouldShowInputBox = true;
+      break;
+    }
+    case 'fill-in-def': {
+      shouldShowTerm = true;
+      shouldShowInputBox = true;
       break;
     }
     default: {
       shouldShowTerm = true;
+      shouldShowInputBox = false;
     }
   }
 }
@@ -48,10 +61,12 @@ const words = [];
 const incorrectWords = [];
 const correctWords = [];
 let shouldShowTerm = true;
+let showingCorrectAnswer = false;
 
 ////////////////////////////////////////////////////////////////
 // function definitions
 function showCard() {
+  $('#correct-answer').hide();
   let currentWord = words[0];
   if (words.length === 0) {
     $('#correct,#incorrect').attr('disabled', 'disabled');
@@ -71,35 +86,34 @@ function showCard() {
     $('#card-definition').show();
     $('#card-term').hide();
   }
+  if (shouldShowInputBox) {
+    $('#user-input').show();
+    $('input[name="user-input"]').removeAttr('disabled').val('').focus();
+    $('#correct,#incorrect').hide();
+  } else {
+    $('#user-input').hide();
+    $('#correct,#incorrect').show();
+  }
+
   $('#deck-count').text(words.length);
   $('#correct-count').text(correctWords.length);
   $('#incorrect-count').text(incorrectWords.length);
 
   $('#settings button').removeAttr('disabled');
-  switch (getModeFromCookie()) {
-    case 'term-first': {
-      $('#term-first').attr('disabled', 'disabled');
-      break;
-    }
-    case 'def-first': {
-      $('#def-first').attr('disabled', 'disabled');
-      break;
-    }
-    default:
-  }
+  $(`#${getModeFromCookie()}`).attr('disabled', 'disabled');
 }
 
 function correct() {
   const currentWord = words.shift();
   correctWords.push(currentWord);
-  setShouldShowTerm();
+  setDisplaySettings();
   showCard();
 }
 
 function incorrect() {
   const currentWord = words.shift();
   incorrectWords.push(currentWord);
-  setShouldShowTerm();
+  setDisplaySettings();
   showCard();
 }
 
@@ -122,7 +136,7 @@ function returnIncorrect() {
   words.push(...incorrectWords);
   incorrectWords.length = 0;
   shuffle(words);
-  setShouldShowTerm();
+  setDisplaySettings();
   showCard();
 }
 
@@ -132,20 +146,77 @@ function resetDeck() {
   words.push(...incorrectWords);
   incorrectWords.length = 0;
   shuffle(words);
-  setShouldShowTerm();
+  setDisplaySettings();
   showCard();
 }
 
 function termFirstMode() {
   document.cookie = 'mode=term-first';
   shouldShowTerm = true;
+  shouldShowInputBox = false;
   showCard();
 }
 
 function defFirstMode() {
   document.cookie = 'mode=def-first';
   shouldShowTerm = false;
+  shouldShowInputBox = false;
   showCard();
+}
+
+function fillInDefMode() {
+  document.cookie = 'mode=fill-in-def';
+  shouldShowTerm = true;
+  shouldShowInputBox = true;
+  showCard();
+}
+
+function fillInTermMode() {
+  document.cookie = 'mode=fill-in-term';
+  shouldShowTerm = false;
+  shouldShowInputBox = true;
+  showCard();
+}
+
+function checkUserInput(event, data) {
+  event.preventDefault();
+  const currentWord = words[0];
+  const userString = $('input[name="user-input"]').val();
+  let correctAnswer;
+  if (getModeFromCookie() === 'fill-in-term') {
+    correctAnswer = currentWord.term;
+  } else {
+    correctAnswer = currentWord.def;
+  }
+  if (userString === correctAnswer) {
+    showCorrectAnswer(correctAnswer, true);
+  } else {
+    showCorrectAnswer(correctAnswer, false);
+  }
+}
+
+function showCorrectAnswer(correctAnswer, wasAnsweredCorreclty) {
+  if (showingCorrectAnswer) {
+    return;
+  }
+  showingCorrectAnswer = true;
+  $('input[name="user-input"]').attr('disabled', 'disabled');
+  $('#card-term,#card-definition').hide();
+  $('#correct-answer').show();
+  $('#correct-answer p').text(correctAnswer);
+  if (wasAnsweredCorreclty) {
+    $('#correct-answer p').css('color', 'green');
+    setTimeout(() => {
+      showingCorrectAnswer = false;
+      correct();
+    }, 1000);
+  } else {
+    $('#correct-answer p').css('color', 'red');
+    setTimeout(() => {
+      showingCorrectAnswer = false;
+      incorrect();
+    }, 1000);
+  }
 }
 
 ////////////////////////////////////////////////////////////////
@@ -173,19 +244,19 @@ function allSetsFetched(numFetched) {
   }
   shuffle(words);
   console.log(words);
-  setShouldShowTerm();
+  setDisplaySettings();
   $('body').show();
   showCard();
 }
 
 $('#term-first').click(termFirstMode);
 $('#def-first').click(defFirstMode);
+$('#fill-in-def').click(fillInDefMode);
+$('#fill-in-term').click(fillInTermMode);
 $('#correct').click(correct);
 $('#incorrect').click(incorrect);
 $('#reset').click(resetDeck);
 $('#return-incorrect').click(returnIncorrect);
-$('#audio').click(function(e) {
-  e.stopPropagation();
-  playAudio();
-});
-$('#flash-card').click(flipCard);
+$('#audio').click(playAudio);
+$('#flash-card').click(flipCard).find('#audio,#user-input').click(e => false);
+$('#user-input-form').submit(checkUserInput);

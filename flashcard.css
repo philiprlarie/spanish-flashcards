@@ -21,7 +21,6 @@ p, section {
 #flash-card {
   width: 50%;
   height: 310px;
-  display: flex;
   cursor: pointer;
   justify-content: center;
   border: 1px solid black;
@@ -45,7 +44,7 @@ p, section {
 
 #card-term, #card-definition {
   width: 100%;
-  height: 100%;
+  height: 75%;
   padding: 10px;
   display: flex;
   flex-direction: column;
@@ -62,6 +61,10 @@ p, section {
   font-size: 30px;
   font-weight: bolder;
   color: green;
+}
+
+#user-input-form {
+  text-align: center;
 }
 
 #flash-card span {
