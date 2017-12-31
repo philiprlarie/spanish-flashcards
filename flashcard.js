@@ -1,5 +1,4 @@
 // TODO
-// get user input from typing. do 2 modes for user types and check string. show correct answer for 2 seconds if you get it wrong
 // do 2 modes for audio first
 // style it
 
@@ -88,7 +87,10 @@ function showCard() {
   }
   if (shouldShowInputBox) {
     $('#user-input').show();
-    $('input[name="user-input"]').removeAttr('disabled').val('').focus();
+    $('input[name="user-input"]').val('');
+    if (words.length !== 0) {
+      $('input[name="user-input"]').removeAttr('disabled').focus();
+    }
     $('#correct,#incorrect').hide();
   } else {
     $('#user-input').hide();
@@ -199,23 +201,24 @@ function showCorrectAnswer(correctAnswer, wasAnsweredCorreclty) {
   if (showingCorrectAnswer) {
     return;
   }
-  showingCorrectAnswer = true;
+  showingCorrectAnswer = wasAnsweredCorreclty ? 'correct' : 'incorrect';
   $('input[name="user-input"]').attr('disabled', 'disabled');
   $('#card-term,#card-definition').hide();
   $('#correct-answer').show();
   $('#correct-answer p').text(correctAnswer);
+  $('#correct-answer p').append('</br>(press "enter" to continue)')
   if (wasAnsweredCorreclty) {
     $('#correct-answer p').css('color', 'green');
-    setTimeout(() => {
-      showingCorrectAnswer = false;
-      correct();
-    }, 1000);
   } else {
     $('#correct-answer p').css('color', 'red');
-    setTimeout(() => {
-      showingCorrectAnswer = false;
-      incorrect();
-    }, 1000);
+  }
+}
+
+function moveToNextAfterIncorrect(event) {
+  if (event.keyCode === 13 && !!showingCorrectAnswer) {
+    event.preventDefault();
+    showingCorrectAnswer = false;
+    showingCorrectAnswer === 'incorrect' ? incorrect() : correct();
   }
 }
 
@@ -260,3 +263,5 @@ $('#return-incorrect').click(returnIncorrect);
 $('#audio').click(playAudio);
 $('#flash-card').click(flipCard).find('#audio,#user-input').click(e => false);
 $('#user-input-form').submit(checkUserInput);
+
+$('body').keydown(moveToNextAfterIncorrect);
