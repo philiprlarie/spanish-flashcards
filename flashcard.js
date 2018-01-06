@@ -156,6 +156,9 @@ function incorrect() {
 }
 
 function flipCard() {
+  if (showingCorrectAnswer) {
+    return;
+  }
   isFlipped = !isFlipped;
   showCard();
 }
@@ -190,11 +193,14 @@ function resetDeck() {
 
 function termFirstMode() {
   document.cookie = 'mode=term-first';
+  showingCorrectAnswer = false;
   showCard();
 }
 
 function defFirstMode() {
   document.cookie = 'mode=def-first';
+  showingCorrectAnswer = false;
+
   showCard();
 }
 
