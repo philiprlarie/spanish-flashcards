@@ -1,11 +1,27 @@
+/* global window, document, $ */
+
 // TODO
 // style it
 // refactor
 
-////////////////////////////////////////////////////////////////
+// //////////////////////////////////////////////////////////////
+// globals
+const words = [];
+const incorrectWords = [];
+const correctWords = [];
+let shouldShowTerm = true;
+let showingCorrectAnswer = false;
+let isFlipped = false;
+let placeholder;
+let audioIconOnly = false;
+let shouldShowInputBox;
+
+// //////////////////////////////////////////////////////////////
 // utility functions
 function shuffle(array) {
-  var currentIndex = array.length, temporaryValue, randomIndex;
+  var currentIndex = array.length,
+    temporaryValue,
+    randomIndex;
   // While there remain elements to shuffle...
   while (0 !== currentIndex) {
     // Pick a remaining element...
@@ -42,14 +58,14 @@ function setDisplaySettings() {
       shouldShowTerm = false;
       shouldShowInputBox = true;
       isFlipped = false;
-      placeholder = 'Term'
+      placeholder = 'Term';
       break;
     }
     case 'fill-in-def': {
       shouldShowTerm = true;
       shouldShowInputBox = true;
       isFlipped = false;
-      placeholder = 'Definition'
+      placeholder = 'Definition';
       break;
     }
     case 'term-from-audio': {
@@ -57,7 +73,7 @@ function setDisplaySettings() {
       shouldShowInputBox = true;
       audioIconOnly = true;
       isFlipped = false;
-      placeholder = 'Term'
+      placeholder = 'Term';
       break;
     }
     case 'def-from-audio': {
@@ -65,7 +81,7 @@ function setDisplaySettings() {
       shouldShowInputBox = true;
       audioIconOnly = true;
       isFlipped = false;
-      placeholder = 'Definition'
+      placeholder = 'Definition';
       break;
     }
     default: {
@@ -75,17 +91,7 @@ function setDisplaySettings() {
   }
 }
 
-////////////////////////////////////////////////////////////////
-// globals
-const words = [];
-const incorrectWords = [];
-const correctWords = [];
-let shouldShowTerm = true;
-let showingCorrectAnswer = false;
-let isFlipped = false;
-let placeholder;
-
-////////////////////////////////////////////////////////////////
+// //////////////////////////////////////////////////////////////
 // function definitions
 function showCard() {
   setDisplaySettings();
@@ -93,10 +99,10 @@ function showCard() {
   let currentWord = words[0];
   if (words.length === 0) {
     $('#correct,#incorrect').attr('disabled', 'disabled');
-    currentWord = { def: 'The current set of words is empty' }
+    currentWord = { def: 'The current set of words is empty' };
     shouldShowTerm = false;
   } else {
-    $('#correct,#incorrect').removeAttr('disabled')
+    $('#correct,#incorrect').removeAttr('disabled');
     currentWord = words[0];
   }
   if (isFlipped) {
@@ -123,7 +129,9 @@ function showCard() {
     $('input[name="user-input"]').css('background', 'white');
     $('input[name="user-input"]').attr('placeholder', placeholder);
     if (words.length !== 0) {
-      $('input[name="user-input"]').removeAttr('disabled').focus();
+      $('input[name="user-input"]')
+        .removeAttr('disabled')
+        .focus();
     }
     $('#correct,#incorrect').hide();
   } else {
@@ -166,7 +174,9 @@ function flipCard() {
 function playAudio() {
   const currentWord = words[0];
   const formattedAudioFile = currentWord.audio.replace('/', '-');
-  const baseUrl = window.location.href.includes('github') ? 'https://raw.githubusercontent.com/philiprlarie/spanish-flashcards/master/audio_files/' : 'audio_files/'
+  const baseUrl = window.location.href.includes('github')
+    ? 'https://raw.githubusercontent.com/philiprlarie/spanish-flashcards/master/audio_files/'
+    : 'audio_files/';
   const audioUrl = `${baseUrl}${formattedAudioFile}`;
 
   $('#pronunciation').attr('src', audioUrl);
@@ -223,13 +233,16 @@ function defFromAudioMode() {
   showCard();
 }
 
-function checkUserInput(event, data) {
+function checkUserInput(event) {
   event.preventDefault();
   const currentWord = words[0];
   const userString = $('input[name="user-input"]').val();
   let correctAnswer;
   let prompt;
-  if (getModeFromCookie() === 'fill-in-term' || getModeFromCookie() === 'term-from-audio') {
+  if (
+    getModeFromCookie() === 'fill-in-term' ||
+    getModeFromCookie() === 'term-from-audio'
+  ) {
     prompt = currentWord.def;
     correctAnswer = currentWord.term;
   } else {
@@ -255,31 +268,33 @@ function showCorrectAnswer(correctAnswer, prompt, wasAnsweredCorreclty) {
   $('#prompt').text(prompt);
   if (wasAnsweredCorreclty) {
     $('#correct-answer').css('color', 'green');
-    $('input[name="user-input"]').css('background', '#afa')
+    $('input[name="user-input"]').css('background', '#afa');
   } else {
-    $('input[name="user-input"]').css('background', '#faa')
+    $('input[name="user-input"]').css('background', '#faa');
     $('#correct-answer').css('color', 'red');
   }
 }
 
 function moveToNextAfterIncorrect(event) {
-  if (event.keyCode === 13 && !!showingCorrectAnswer) {
+  if (event.keyCode === 13 && Boolean(showingCorrectAnswer)) {
     event.preventDefault();
     showingCorrectAnswer === 'incorrect' ? incorrect() : correct();
     showingCorrectAnswer = false;
   }
 }
 
-////////////////////////////////////////////////////////////////
+// //////////////////////////////////////////////////////////////
 // excecution of code
 $('body').hide();
 const queryStringParams = decodeURIComponent(window.location.search.slice(1));
 const sets = queryStringParams.split('&').map(str => str.slice(7));
 
-console.log(sets);
+console.log(sets); // eslint-disable-line
 let numSetsFinished = 0;
 sets.forEach(setName => {
-  const baseUrl = window.location.href.includes('github') ? 'https://raw.githubusercontent.com/philiprlarie/spanish-flashcards/master/json/flashcards_' : 'json/flashcards_';
+  const baseUrl = window.location.href.includes('github')
+    ? 'https://raw.githubusercontent.com/philiprlarie/spanish-flashcards/master/json/flashcards_'
+    : 'json/flashcards_';
   const url = `${baseUrl}${setName}.json`;
 
   $.getJSON(url, json => {
@@ -287,14 +302,14 @@ sets.forEach(setName => {
     numSetsFinished++;
     allSetsFetched(numSetsFinished);
   });
-})
+});
 
 function allSetsFetched(numFetched) {
   if (numFetched < sets.length) {
-    return
+    return;
   }
   shuffle(words);
-  console.log(words);
+  console.log(words); // eslint-disable-line
   setDisplaySettings();
   $('body').show();
   showCard();
@@ -311,7 +326,10 @@ $('#incorrect').click(incorrect);
 $('#reset').click(resetDeck);
 $('#return-incorrect').click(returnIncorrect);
 $('#audio').click(playAudio);
-$('#flash-card').click(flipCard).find('#audio,#user-input').click(e => false);
+$('#flash-card')
+  .click(flipCard)
+  .find('#audio,#user-input')
+  .click(() => false);
 $('#user-input-form').submit(checkUserInput);
 
 $('body').keydown(moveToNextAfterIncorrect);
