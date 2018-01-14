@@ -3,6 +3,7 @@
 // TODO
 // style it
 // refactor
+// comment for "command-enter" is play audio shortcut
 
 // //////////////////////////////////////////////////////////////
 // globals
@@ -276,7 +277,10 @@ function showCorrectAnswer(correctAnswer, prompt, wasAnsweredCorreclty) {
 }
 
 function moveToNextAfterIncorrect(event) {
-  if (event.keyCode === 13 && Boolean(showingCorrectAnswer)) {
+  if (event.keyCode === 13 && event.metaKey) {
+    event.preventDefault();
+    playAudio();
+  } else if (event.keyCode === 13 && Boolean(showingCorrectAnswer)) {
     event.preventDefault();
     showingCorrectAnswer === 'incorrect' ? incorrect() : correct();
     showingCorrectAnswer = false;
@@ -325,7 +329,7 @@ $('#correct').click(correct);
 $('#incorrect').click(incorrect);
 $('#reset').click(resetDeck);
 $('#return-incorrect').click(returnIncorrect);
-$('#audio').click(playAudio);
+$('.audio').click(playAudio);
 $('#flash-card')
   .click(flipCard)
   .find('#audio,#user-input')
