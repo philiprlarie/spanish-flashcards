@@ -106,6 +106,6 @@ button:disabled {
   background: blue;
 }
 
-#audio {
+.audio {
   font-size: 30px;
 }

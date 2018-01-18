@@ -332,7 +332,7 @@ $('#return-incorrect').click(returnIncorrect);
 $('.audio').click(playAudio);
 $('#flash-card')
   .click(flipCard)
-  .find('#audio,#user-input')
+  .find('.audio,#user-input')
   .click(() => false);
 $('#user-input-form').submit(checkUserInput);
 
